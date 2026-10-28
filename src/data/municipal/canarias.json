@@ -1,0 +1,390 @@
+{
+ "ccaa": "canarias",
+ "fuentes": {
+  "2026": {
+   "titulo": "Orden de 6 de agosto de 2025, por la que se determinan las fiestas locales propias de cada municipio de la Comunidad Autónoma de Canarias para el año 2026",
+   "boletin": "BOC",
+   "numero": "núm. 165",
+   "fecha": "2025-08-21",
+   "url": "https://www.gobiernodecanarias.org/boc/2025/165/3029.html",
+   "leido": "2026-10-28",
+   "via": "directo (PDF oficial boc-a-2025-165-3029.pdf); sumarios BOC 166/2025 a 216/2026 revisados: sin modificaciones"
+  },
+  "2027": {
+   "titulo": "Orden de 7 de agosto de 2026, por la que se determinan las fiestas locales propias de cada municipio de la Comunidad Autónoma de Canarias para el año 2027",
+   "boletin": "BOC",
+   "numero": "núm. 168",
+   "fecha": "2026-08-21",
+   "url": "https://www.gobiernodecanarias.org/boc/2026/168/3035.html",
+   "leido": "2026-10-28",
+   "via": "directo (PDF oficial boc-a-2026-168-3035.pdf); sumarios BOC hasta el núm. 216 (28/10/2026) revisados: sin modificaciones"
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "Decreto 61/2025, de 28 de abril, por el que se determina el calendario de fiestas laborales de la Comunidad Autónoma de Canarias para el año 2026",
+   "boletin": "BOC",
+   "fecha": "2025-05-05",
+   "url": "https://www.gobiernodecanarias.org/boc/2025/088/1659.html"
+  },
+  "2027": {
+   "titulo": "Decreto 115/2026, de 29 de junio, por el que se determina el calendario de fiestas laborales de la Comunidad Autónoma de Canarias para el año 2027",
+   "boletin": "BOC",
+   "fecha": "2026-07-03",
+   "url": "https://www.gobiernodecanarias.org/boc/2026/133/2334.html"
+  }
+ },
+ "municipios": [
+  {
+   "ine": "35016",
+   "nombre": "Las Palmas de Gran Canaria",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2026-06-24",
+      "nombre": "Conmemoración de la Fundación de la Ciudad"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-09",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2027-06-24",
+      "nombre": "Conmemoración de la Fundación de la Ciudad"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "38038",
+   "nombre": "Santa Cruz de Tenerife",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2026-05-04",
+      "nombre": "Festividad del Día de la Cruz"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-23",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2027-05-03",
+      "nombre": "Festividad del Día de la Cruz"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "38023",
+   "nombre": "San Cristóbal de La Laguna",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2026-09-14",
+      "nombre": "Festividad del Santísimo Cristo de La Laguna"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-09",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2027-09-14",
+      "nombre": "Festividad del Santísimo Cristo de La Laguna"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "35026",
+   "nombre": "Telde",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-24",
+      "nombre": "Festividad de San Juan Bautista"
+     },
+     {
+      "fecha": "2026-11-17",
+      "nombre": "Festividad de San Gregorio Taumaturgo"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-06-24",
+      "nombre": "Festividad de San Juan Bautista"
+     },
+     {
+      "fecha": "2027-11-17",
+      "nombre": "Festividad de San Gregorio Taumaturgo"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "38006",
+   "nombre": "Arona",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2026-10-05",
+      "nombre": "Festividad del Santísimo Cristo de la Salud"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-09",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2027-10-04",
+      "nombre": "Festividad del Santísimo Cristo de la Salud"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "35022",
+   "nombre": "Santa Lucía de Tirajana",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2026-10-24",
+      "nombre": "Festividad de San Rafael"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-09",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2027-12-13",
+      "nombre": "Festividad de Santa Lucía"
+     }
+    ]
+   },
+   "nota": "En el anexo 2026 figura como «Santa Lucía» (y la fecha como «24 octubre», sin «de»); en el de 2027, como «Santa Lucía de Tirajana»."
+  },
+  {
+   "ine": "35004",
+   "nombre": "Arrecife",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2026-08-25",
+      "nombre": "Festividad de San Ginés"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-09",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2027-08-25",
+      "nombre": "Festividad de San Ginés"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "38017",
+   "nombre": "Granadilla de Abona",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2026-06-13",
+      "nombre": "Festividad de San Antonio de Padua"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-09",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2027-06-14",
+      "nombre": "Festividad de San Antonio de Padua"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "35019",
+   "nombre": "San Bartolomé de Tirajana",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-07-25",
+      "nombre": "Festividad de Santiago Apóstol"
+     },
+     {
+      "fecha": "2026-08-24",
+      "nombre": "Festividad de San Bartolomé"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-03-12",
+      "nombre": "Día del Turista"
+     },
+     {
+      "fecha": "2027-08-24",
+      "nombre": "Festividad de San Bartolomé"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "38001",
+   "nombre": "Adeje",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-01-20",
+      "nombre": "Festividad de San Sebastián"
+     },
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-01-20",
+      "nombre": "Festividad de San Sebastián"
+     },
+     {
+      "fecha": "2027-10-11",
+      "nombre": "Festividad de Santa Úrsula"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "35017",
+   "nombre": "Puerto del Rosario",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2026-10-07",
+      "nombre": "Festividad de Nuestra Señora del Rosario"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-16",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2027-10-07",
+      "nombre": "Festividad de Nuestra Señora del Rosario"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "38026",
+   "nombre": "La Orotava",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2026-06-11",
+      "nombre": "Infraoctava del Corpus Christi"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-09",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2027-06-03",
+      "nombre": "Infraoctava del Corpus Christi"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "35006",
+   "nombre": "Arucas",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2026-06-24",
+      "nombre": "Festividad de San Juan Bautista"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-09",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2027-06-24",
+      "nombre": "Festividad de San Juan Bautista"
+     }
+    ]
+   },
+   "nota": ""
+  }
+ ]
+}

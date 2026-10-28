@@ -1,0 +1,55 @@
+{
+ "ccaa": "la-rioja",
+ "curso": "2026-2027",
+ "fuente": {
+  "titulo": "Resolución 34/2026, de 14 de abril, de la Consejería de Educación y Empleo, por la que se establece el calendario escolar del curso académico 2026/2027 para los centros docentes no universitarios de la Comunidad Autónoma de La Rioja con excepción de las escuelas infantiles y centros privados de primer ciclo de Educación Infantil",
+  "boletin": "BOR",
+  "numero": "núm. 71",
+  "fecha": "2026-04-16",
+  "url": "https://ias1.larioja.org/boletin/Bor_Boletin_visor_Servlet?referencia=39905505-1-PDF-576591",
+  "leido": "2026-10-28"
+ },
+ "primaria": {
+  "inicio": "2026-09-09",
+  "fin": "2027-06-22"
+ },
+ "eso": {
+  "inicio": "2026-09-09",
+  "fin": "2027-06-22"
+ },
+ "navidad": {
+  "desde": "2026-12-23",
+  "hasta": "2027-01-06"
+ },
+ "semana_santa": {
+  "desde": "2027-03-25",
+  "hasta": "2027-04-04"
+ },
+ "otros": [
+  {
+   "fecha": "2026-10-12",
+   "nombre": "Fiesta Nacional de España"
+  },
+  {
+   "fecha": "2026-12-07",
+   "nombre": "Lunes siguiente al Día de la Constitución Española"
+  },
+  {
+   "fecha": "2026-12-08",
+   "nombre": "Inmaculada Concepción"
+  },
+  {
+   "fecha": "2027-02-26",
+   "nombre": "Día de la Comunidad Educativa (no lectivo)"
+  },
+  {
+   "fecha": "2027-05-01",
+   "nombre": "Fiesta del Trabajo"
+  },
+  {
+   "fecha": "2027-06-09",
+   "nombre": "Día de La Rioja"
+  }
+ ],
+ "nota": "Bachillerato: los centros fijan el calendario lectivo de mayo y junio. Además, cada municipio puede tener hasta 7 días no lectivos locales (las 2 fiestas laborales locales y otros 5 fijados por el Consejo Escolar Municipal o el Ayuntamiento)."
+}

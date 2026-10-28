@@ -1,0 +1,291 @@
+{
+ "ccaa": "galicia",
+ "fuentes": {
+  "2026": {
+   "titulo": "Resolución de 21 de octubre de 2025, de la Secretaría General de Empleo y Relaciones Laborales, por la que se da publicidad a las fiestas laborales de carácter local para el año 2026, correspondientes a los ayuntamientos de las cuatro provincias de la Comunidad Autónoma de Galicia",
+   "boletin": "DOG",
+   "numero": "núm. 210",
+   "fecha": "2025-10-30",
+   "url": "https://www.xunta.gal/dog/Publicados/2025/20251030/AnuncioG0767-221025-0001_es.html",
+   "leido": "2026-10-28",
+   "via": "directo",
+   "correcciones": [
+    {
+     "titulo": "Corrección de errores (solo afecta a Oia, Pontevedra)",
+     "boletin": "DOG",
+     "numero": "núm. 10",
+     "fecha": "2026-01-16",
+     "url": "https://www.xunta.gal/dog/Publicados/2026/20260116/AnuncioG0767-090126-0006_es.html"
+    }
+   ]
+  },
+  "2027": {
+   "titulo": "Resolución de 15 de octubre de 2026, de la Secretaría General de Empleo y Relaciones Laborales, por la que se da publicidad a las fiestas laborales de carácter local para el año 2027, correspondientes a los ayuntamientos de las cuatro provincias de la Comunidad Autónoma de Galicia",
+   "boletin": "DOG",
+   "numero": "núm. 204",
+   "fecha": "2026-10-26",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20261026/AnuncioG0767-161026-0001_es.html",
+   "leido": "2026-10-28",
+   "via": "directo"
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "Decreto 46/2025, de 9 de junio, por el que se determinan las fiestas de la Comunidad Autónoma de Galicia del calendario laboral para el año 2026",
+   "boletin": "DOG",
+   "fecha": "2025-06-20",
+   "url": "https://www.xunta.gal/dog/Publicados/2025/20250620/AnuncioG0767-120625-0002_es.html"
+  },
+  "2027": {
+   "titulo": "Decreto 68/2026, de 15 de junio, por el que se determinan las fiestas de la Comunidad Autónoma de Galicia del calendario laboral para el año 2027",
+   "boletin": "DOG",
+   "fecha": "2026-07-02",
+   "url": "https://www.xunta.gal/dog/Publicados/2026/20260702/AnuncioG0767-250626-0001_es.html"
+  }
+ },
+ "municipios": [
+  {
+   "ine": "36057",
+   "nombre": "Vigo",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-03-28",
+      "nombre": "Fiesta de la Reconquista"
+     },
+     {
+      "fecha": "2026-08-17",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-03-29",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-08-16",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "nota": "El texto oficial no da nombre a la fiesta del 17 de agosto de 2026 ni a las dos de 2027."
+  },
+  {
+   "ine": "15030",
+   "nombre": "A Coruña",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2026-10-07",
+      "nombre": "Festividad del Rosario"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-09",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2027-06-24",
+      "nombre": "Festividad de San Juan"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "32054",
+   "nombre": "Ourense",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2026-11-11",
+      "nombre": "San Martiño"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-09",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2027-11-11",
+      "nombre": "San Martín"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "15078",
+   "nombre": "Santiago de Compostela",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2026-05-14",
+      "nombre": "Día de la Ascensión"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-05-06",
+      "nombre": "Día de la Ascensión"
+     },
+     {
+      "fecha": "2027-08-16",
+      "nombre": "San Roque"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "27028",
+   "nombre": "Lugo",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2026-10-05",
+      "nombre": "San Froilán"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-09",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2027-10-05",
+      "nombre": "San Froilán"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "36038",
+   "nombre": "Pontevedra",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-18",
+      "nombre": "Miércoles de Ceniza"
+     },
+     {
+      "fecha": "2026-07-11",
+      "nombre": "San Benito"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-10",
+      "nombre": "Miércoles de Ceniza"
+     },
+     {
+      "fecha": "2027-03-29",
+      "nombre": "San Cibrán"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "15036",
+   "nombre": "Ferrol",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-01-07",
+      "nombre": "San Julián"
+     },
+     {
+      "fecha": "2026-04-06",
+      "nombre": "Nuestra Señora de Chamorro"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-01-07",
+      "nombre": "San Xiao"
+     },
+     {
+      "fecha": "2027-03-29",
+      "nombre": "Nuestra Señora de Chamorro"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "15054",
+   "nombre": "Narón",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2026-11-23",
+      "nombre": "Día de Narón"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-06-24",
+      "nombre": "San Juan"
+     },
+     {
+      "fecha": "2027-11-23",
+      "nombre": "Día de Narón"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "15058",
+   "nombre": "Oleiros",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2026-04-06",
+      "nombre": "Lunes de Pascua"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-09",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2027-06-24",
+      "nombre": "San Juan"
+     }
+    ]
+   },
+   "nota": ""
+  }
+ ]
+}

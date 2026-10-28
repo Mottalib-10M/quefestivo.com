@@ -1,0 +1,147 @@
+{
+ "ccaa": "extremadura",
+ "fuentes": {
+  "2026": {
+   "titulo": "Resolución de 15 de octubre de 2025, de la Dirección General de Trabajo, por la que se hace público el calendario laboral oficial de fiestas locales para la Comunidad Autónoma de Extremadura durante el año 2026",
+   "boletin": "DOE",
+   "numero": "núm. 204",
+   "fecha": "2025-10-23",
+   "url": "https://doe.juntaex.es/otrosFormatos/html.php?xml=2025063799&anio=2025&doe=2040o",
+   "leido": "2026-10-28",
+   "via": "directo (PDF oficial /pdfs/doe/2025/2040o/25063799.pdf); modificaciones del anexo revisadas (DOE 28/11/2025, 17/12/2025, 05/02/2026, 25/03/2026, 06/04/2026, 10/04/2026, 29/04/2026, 25/05/2026, 23/07/2026): ninguna afecta a Badajoz, Cáceres, Mérida ni Plasencia"
+  },
+  "2027": {
+   "titulo": "Resolución de 15 de octubre de 2026, de la Dirección General de Trabajo, por la que se hace público el calendario laboral oficial de fiestas locales para la Comunidad Autónoma de Extremadura durante el año 2027",
+   "boletin": "DOE",
+   "numero": "núm. 207",
+   "fecha": "2026-10-27",
+   "url": "https://doe.juntaex.es/otrosFormatos/html.php?xml=2026062650&anio=2026&doe=2070o",
+   "leido": "2026-10-28",
+   "via": "directo (PDF oficial /pdfs/doe/2026/2070o/26062650.pdf)"
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "Decreto 40/2025, de 13 de mayo, por el que se fija el calendario de días festivos de la Comunidad Autónoma de Extremadura para el año 2026",
+   "boletin": "DOE",
+   "fecha": "2025-05-19",
+   "url": "https://doe.juntaex.es/otrosFormatos/html.php?xml=2025040070&anio=2025&doe=940o"
+  },
+  "2027": {
+   "titulo": "Decreto 119/2026, de 2 de junio, por el que se fija el calendario de días festivos de la Comunidad Autónoma de Extremadura para el año 2027",
+   "boletin": "DOE",
+   "fecha": "2026-06-08",
+   "url": "https://doe.juntaex.es/otrosFormatos/html.php?xml=2026040142&anio=2026&doe=1080o"
+  }
+ },
+ "municipios": [
+  {
+   "ine": "06015",
+   "nombre": "Badajoz",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-06-24",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-09",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-06-24",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "nota": "La resolución solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "10037",
+   "nombre": "Cáceres",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-23",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-05-29",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-04-23",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-05-28",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "nota": "La resolución solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "06083",
+   "nombre": "Mérida",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-21",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-12-10",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-05-13",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-12-10",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "nota": "La resolución solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "10148",
+   "nombre": "Plasencia",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-11",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-06-12",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-06-10",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-06-11",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "nota": "La resolución solo da la fecha, sin nombre de la fiesta."
+  }
+ ]
+}

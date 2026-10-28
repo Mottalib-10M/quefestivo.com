@@ -1,0 +1,71 @@
+{
+ "ccaa": "madrid",
+ "curso": "2026-2027",
+ "fuente": {
+  "titulo": "Orden 2034/2026, de 25 de mayo, de la Consejera de Educación, Ciencia y Universidades, por la que se establece el calendario escolar para el curso 2026/2027 en los centros educativos no universitarios sostenidos con fondos públicos de la Comunidad de Madrid",
+  "boletin": "BOCM",
+  "numero": "núm. 131",
+  "fecha": "2026-06-04",
+  "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/06/04/BOCM-20260604-13.PDF",
+  "leido": "2026-10-28"
+ },
+ "primaria": {
+  "inicio": "2026-09-07",
+  "fin": "2027-06-18"
+ },
+ "eso": {
+  "inicio": "2026-09-08",
+  "fin": "2027-06-18"
+ },
+ "navidad": {
+  "desde": "2026-12-23",
+  "hasta": "2027-01-06"
+ },
+ "semana_santa": {
+  "desde": "2027-03-20",
+  "hasta": "2027-03-28"
+ },
+ "otros": [
+  {
+   "fecha": "2026-10-12",
+   "nombre": "Festividad (apartado 5.2.1 de la orden)"
+  },
+  {
+   "fecha": "2026-11-02",
+   "nombre": "Festividad (apartado 5.2.1 de la orden)"
+  },
+  {
+   "fecha": "2026-12-07",
+   "nombre": "Festividad (apartado 5.2.1 de la orden)"
+  },
+  {
+   "fecha": "2026-12-08",
+   "nombre": "Festividad (apartado 5.2.1 de la orden)"
+  },
+  {
+   "fecha": "2027-01-07",
+   "nombre": "Día no lectivo (apartado 5.2.2 de la orden)"
+  },
+  {
+   "fecha": "2027-01-08",
+   "nombre": "Día no lectivo (apartado 5.2.2 de la orden)"
+  },
+  {
+   "fecha": "2027-02-12",
+   "nombre": "Día no lectivo (apartado 5.2.2 de la orden)"
+  },
+  {
+   "fecha": "2027-02-15",
+   "nombre": "Día no lectivo (apartado 5.2.2 de la orden)"
+  },
+  {
+   "fecha": "2027-03-19",
+   "nombre": "Día no lectivo (apartado 5.2.2 de la orden)"
+  },
+  {
+   "fecha": "2027-03-29",
+   "nombre": "Día no lectivo (apartado 5.2.2 de la orden)"
+  }
+ ],
+ "nota": "Fechas de segundo ciclo de Infantil, Primaria y Educación Especial (primaria) y de ESO, Bachillerato y FP (eso); 2.º de Bachillerato termina según la prueba de acceso a la Universidad. Además son no lectivas las fiestas locales de cada municipio. En las Escuelas Infantiles del primer ciclo solo son no lectivos el 7 y 8 de enero de 2027."
+}

@@ -1,0 +1,16 @@
+---
+/** L'outil d'une page : buscador de municipio, cuenta atrás en directo, o un simulateur déclaratif de tool-specs.ts. */
+import SpecTool from './calc/SpecTool';
+import Buscador from './calc/Buscador';
+import Cuenta from './calc/Cuenta';
+import { route, hasRoute } from '../i18n/routes';
+import { COMUNIDADES } from '../lib/datos';
+import type { Lang } from '../lib/format';
+interface Props { kind: string; lang: Lang; arg?: Record<string, number | string>; idPrefix?: string }
+const { kind, lang, arg, idPrefix = 't' } = Astro.props;
+const ccaaHrefs = Object.fromEntries(COMUNIDADES.filter((c) => hasRoute(`cl-${c.id}`, lang)).map((c) => [c.id, route(`cl-${c.id}`, lang)]));
+const methodHref = route('method', lang);
+---
+{kind === 'buscador' ? <Buscador client:load lang={lang} methodHref={methodHref} ccaaHrefs={ccaaHrefs} idPrefix={idPrefix} ine={arg?.muni ? String(arg.muni) : undefined} ccaa={arg?.ccaa ? String(arg.ccaa) : undefined} />
+  : kind === 'cuenta' ? <Cuenta client:load lang={lang} methodHref={methodHref} idPrefix={idPrefix} ev={arg?.ev ? String(arg.ev) : undefined} ccaa={arg?.ccaa ? String(arg.ccaa) : undefined} />
+  : <SpecTool client:load kind={kind} lang={lang} arg={arg ? JSON.stringify(arg) : undefined} methodHref={methodHref} idPrefix={idPrefix} />}

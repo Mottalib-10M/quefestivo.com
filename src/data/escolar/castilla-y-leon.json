@@ -1,0 +1,59 @@
+{
+ "ccaa": "castilla-y-leon",
+ "curso": "2026-2027",
+ "fuente": {
+  "titulo": "ORDEN EDU/478/2026, de 25 de mayo, por la que se aprueba el calendario escolar para el curso académico 2026-2027 en los centros docentes que impartan enseñanzas no universitarias en la Comunidad de Castilla y León",
+  "boletin": "BOCYL",
+  "numero": "núm. 101",
+  "fecha": "2026-05-28",
+  "url": "https://bocyl.jcyl.es/html/2026/05/28/html/BOCYL-D-28052026-101-28.do",
+  "leido": "2026-10-28"
+ },
+ "primaria": {
+  "inicio": "2026-09-09",
+  "fin": "2027-06-24"
+ },
+ "eso": {
+  "inicio": "2026-09-15",
+  "fin": "2027-06-24"
+ },
+ "navidad": {
+  "desde": "2026-12-23",
+  "hasta": "2027-01-10"
+ },
+ "semana_santa": {
+  "desde": "2027-03-22",
+  "hasta": "2027-03-30"
+ },
+ "otros": [
+  {
+   "fecha": "2026-10-12",
+   "nombre": "Fiesta Nacional de España (festivo)"
+  },
+  {
+   "fecha": "2026-10-30",
+   "nombre": "Día del Docente (no lectivo)"
+  },
+  {
+   "fecha": "2026-11-02",
+   "nombre": "Festivo (traslado de Todos los Santos)"
+  },
+  {
+   "fecha": "2026-12-07",
+   "nombre": "Festivo (traslado del Día de la Constitución)"
+  },
+  {
+   "fecha": "2026-12-08",
+   "nombre": "Inmaculada Concepción (festivo)"
+  },
+  {
+   "fecha": "2027-02-08",
+   "nombre": "Fiestas de Carnaval (no lectivo)"
+  },
+  {
+   "fecha": "2027-02-09",
+   "nombre": "Fiestas de Carnaval (no lectivo)"
+  }
+ ],
+ "nota": "Bachillerato: inicio 2026-09-15; fin 2027-05-21 en 2.º y 2027-06-17 en 1.º. Navidad: vacaciones tras las actividades del martes 22-12-2026, vuelta el lunes 11-01-2027. Semana Santa: tras el viernes 19-03-2027, vuelta el miércoles 31-03-2027. Festivos de 2027: los del Decreto 7/2026 de fiestas laborales; además, las 2 fiestas locales de cada municipio."
+}

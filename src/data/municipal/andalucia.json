@@ -1,0 +1,719 @@
+{
+ "ccaa": "andalucia",
+ "fuentes": {
+  "2026": {
+   "titulo": "Resolución de 6 de octubre de 2025, de la Dirección General de Trabajo, Seguridad y Salud Laboral, por la que se publica la relación de fiestas locales de los municipios de la Comunidad Autónoma de Andalucía para el año 2026",
+   "boletin": "BOJA",
+   "numero": "núm. 197",
+   "fecha": "2025-10-14",
+   "url": "https://www.juntadeandalucia.es/boja/2025/197/28",
+   "leido": "2026-10-28",
+   "via": "directo (PDF oficial BOJA25-197-00016-13517-01_00327114.pdf); modificaciones revisadas: BOJA núm. 247 de 24/12/2025, núm. 32 de 17/02/2026, núm. 33 de 18/02/2026 y núm. 79 de 27/04/2026, ninguna afecta a los municipios de esta lista"
+  },
+  "2027": {
+   "estado": "no-publicado",
+   "comprobado": "2026-10-28",
+   "donde": "Sumarios BOJA núm. 140 (22/07/2026) a 209 (28/10/2026) y extraordinarios: ninguna resolución de fiestas locales 2027"
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "Decreto 101/2025, de 14 de mayo, por el que se determina el calendario de fiestas laborales de la Comunidad Autónoma de Andalucía para el año 2026",
+   "boletin": "BOJA",
+   "fecha": "2025-05-19",
+   "url": "https://www.juntadeandalucia.es/boja/2025/93/1"
+  },
+  "2027": {
+   "titulo": "Decreto 84/2026, de 29 de abril, por el que se determina el calendario de fiestas laborales de la Comunidad Autónoma de Andalucía para el año 2027",
+   "boletin": "BOJA",
+   "fecha": "2026-05-05",
+   "url": "https://www.juntadeandalucia.es/eboja/2026/84/BOJA26-084-00002-5812-01_00337048.pdf"
+  }
+ },
+ "municipios": [
+  {
+   "ine": "41091",
+   "nombre": "Sevilla",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-22",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-06-04",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "29067",
+   "nombre": "Málaga",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-08-19",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "14021",
+   "nombre": "Córdoba",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-10-24",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "18087",
+   "nombre": "Granada",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-01-02",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-06-04",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "11020",
+   "nombre": "Jerez de la Frontera",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-11",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-24",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "04013",
+   "nombre": "Almería",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-24",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-08-29",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "29069",
+   "nombre": "Marbella",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-11",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-10-19",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "21041",
+   "nombre": "Huelva",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-08-03",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "41038",
+   "nombre": "Dos Hermanas",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-07",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-10-19",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "11004",
+   "nombre": "Algeciras",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-24",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-07-16",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "23050",
+   "nombre": "Jaén",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-11",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-11-25",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "04079",
+   "nombre": "Roquetas de Mar",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-07-27",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-10-07",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "11012",
+   "nombre": "Cádiz",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-16",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-10-07",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "29070",
+   "nombre": "Mijas",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-10-15",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "11031",
+   "nombre": "San Fernando",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-07-16",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-24",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "04902",
+   "nombre": "El Ejido",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-27",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-06-29",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "11015",
+   "nombre": "Chiclana de la Frontera",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-12",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "11027",
+   "nombre": "El Puerto de Santa María",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-04",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "29094",
+   "nombre": "Vélez-Málaga",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-07-24",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-10-02",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "29054",
+   "nombre": "Fuengirola",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-07-16",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-10-07",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "29051",
+   "nombre": "Estepona",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-15",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-07-16",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "29025",
+   "nombre": "Benalmádena",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-24",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-07-16",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "41004",
+   "nombre": "Alcalá de Guadaíra",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-05",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-21",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "29901",
+   "nombre": "Torremolinos",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-07-16",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-29",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "11032",
+   "nombre": "Sanlúcar de Barrameda",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-08",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-10-19",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "11022",
+   "nombre": "La Línea de la Concepción",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-07-20",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-07-27",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "18140",
+   "nombre": "Motril",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-04",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-06-24",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "23055",
+   "nombre": "Linares",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-08-05",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-08-28",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "29082",
+   "nombre": "Rincón de la Victoria",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-02",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-07-16",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "41095",
+   "nombre": "Utrera",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-24",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "41059",
+   "nombre": "Mairena del Aljarafe",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-01-23",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-06-26",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "29007",
+   "nombre": "Alhaurín de la Torre",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-01-20",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-06-24",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "14038",
+   "nombre": "Lucena",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-04",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-11",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "11028",
+   "nombre": "Puerto Real",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-11",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-06-08",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "29015",
+   "nombre": "Antequera",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-08-21",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "41081",
+   "nombre": "La Rinconada",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-03-19",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-15",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "41039",
+   "nombre": "Écija",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-18",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "41069",
+   "nombre": "Los Palacios y Villafranca",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-08-05",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-24",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOJA solo da la fecha, sin nombre de la fiesta."
+  }
+ ]
+}

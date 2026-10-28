@@ -1,0 +1,1085 @@
+{
+ "fuente": "Resoluciones anuales de la Dirección General de Trabajo (BOE), art. 45.4 RD 2001/1983",
+ "ccaa": [
+  "andalucia",
+  "aragon",
+  "asturias",
+  "baleares",
+  "canarias",
+  "cantabria",
+  "castilla-la-mancha",
+  "castilla-y-leon",
+  "cataluna",
+  "extremadura",
+  "galicia",
+  "madrid",
+  "murcia",
+  "navarra",
+  "pais-vasco",
+  "la-rioja",
+  "valenciana",
+  "ceuta",
+  "melilla"
+ ],
+ "years": {
+  "2026": {
+   "id": "BOE-A-2025-21667",
+   "titulo": "Resolución de 17 de octubre de 2025, de la Dirección General de Trabajo, por la que se publica la relación de fiestas laborales para el año 2026",
+   "boe": "BOE núm. 259, de 28 de octubre de 2025",
+   "fecha": "2025-10-28",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667",
+   "fiestas": [
+    {
+     "fecha": "2026-01-01",
+     "es": "Año Nuevo",
+     "en": "New Year's Day",
+     "ccaa": {
+      "andalucia": "nacional",
+      "aragon": "nacional",
+      "asturias": "nacional",
+      "baleares": "nacional",
+      "canarias": "nacional",
+      "cantabria": "nacional",
+      "castilla-la-mancha": "nacional",
+      "castilla-y-leon": "nacional",
+      "cataluna": "nacional",
+      "extremadura": "nacional",
+      "galicia": "nacional",
+      "madrid": "nacional",
+      "murcia": "nacional",
+      "navarra": "nacional",
+      "pais-vasco": "nacional",
+      "la-rioja": "nacional",
+      "valenciana": "nacional",
+      "ceuta": "nacional",
+      "melilla": "nacional"
+     }
+    },
+    {
+     "fecha": "2026-01-06",
+     "es": "Epifanía del Señor",
+     "en": "Epiphany (Three Kings)",
+     "ccaa": {
+      "andalucia": "nacional-no-sustituida",
+      "aragon": "nacional-no-sustituida",
+      "asturias": "nacional-no-sustituida",
+      "baleares": "nacional-no-sustituida",
+      "canarias": "nacional-no-sustituida",
+      "cantabria": "nacional-no-sustituida",
+      "castilla-la-mancha": "nacional-no-sustituida",
+      "castilla-y-leon": "nacional-no-sustituida",
+      "cataluna": "nacional-no-sustituida",
+      "extremadura": "nacional-no-sustituida",
+      "galicia": "nacional-no-sustituida",
+      "madrid": "nacional-no-sustituida",
+      "murcia": "nacional-no-sustituida",
+      "navarra": "nacional-no-sustituida",
+      "pais-vasco": "nacional-no-sustituida",
+      "la-rioja": "nacional-no-sustituida",
+      "valenciana": "nacional-no-sustituida",
+      "ceuta": "nacional-no-sustituida",
+      "melilla": "nacional-no-sustituida"
+     }
+    },
+    {
+     "fecha": "2026-02-28",
+     "es": "Día de Andalucía",
+     "en": "Andalusia Day",
+     "ccaa": {
+      "andalucia": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-03-02",
+     "es": "Lunes siguiente al Día de les Illes Balears",
+     "en": "Monday after Balearic Islands Day",
+     "ccaa": {
+      "baleares": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-03-19",
+     "es": "San José",
+     "en": "St Joseph's Day",
+     "ccaa": {
+      "galicia": "nacional-no-sustituida",
+      "murcia": "nacional-no-sustituida",
+      "navarra": "nacional-no-sustituida",
+      "pais-vasco": "nacional-no-sustituida",
+      "valenciana": "nacional-no-sustituida"
+     }
+    },
+    {
+     "fecha": "2026-03-20",
+     "es": "Fiesta del Eid Fitr",
+     "en": "Eid al-Fitr",
+     "ccaa": {
+      "melilla": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-04-02",
+     "es": "Jueves Santo",
+     "en": "Maundy Thursday",
+     "ccaa": {
+      "andalucia": "nacional-no-sustituida",
+      "aragon": "nacional-no-sustituida",
+      "asturias": "nacional-no-sustituida",
+      "baleares": "nacional-no-sustituida",
+      "canarias": "nacional-no-sustituida",
+      "cantabria": "nacional-no-sustituida",
+      "castilla-la-mancha": "nacional-no-sustituida",
+      "castilla-y-leon": "nacional-no-sustituida",
+      "extremadura": "nacional-no-sustituida",
+      "galicia": "nacional-no-sustituida",
+      "madrid": "nacional-no-sustituida",
+      "murcia": "nacional-no-sustituida",
+      "navarra": "nacional-no-sustituida",
+      "pais-vasco": "nacional-no-sustituida",
+      "la-rioja": "nacional-no-sustituida",
+      "ceuta": "nacional-no-sustituida",
+      "melilla": "nacional-no-sustituida"
+     }
+    },
+    {
+     "fecha": "2026-04-03",
+     "es": "Viernes Santo",
+     "en": "Good Friday",
+     "ccaa": {
+      "andalucia": "nacional",
+      "aragon": "nacional",
+      "asturias": "nacional",
+      "baleares": "nacional",
+      "canarias": "nacional",
+      "cantabria": "nacional",
+      "castilla-la-mancha": "nacional",
+      "castilla-y-leon": "nacional",
+      "cataluna": "nacional",
+      "extremadura": "nacional",
+      "galicia": "nacional",
+      "madrid": "nacional",
+      "murcia": "nacional",
+      "navarra": "nacional",
+      "pais-vasco": "nacional",
+      "la-rioja": "nacional",
+      "valenciana": "nacional",
+      "ceuta": "nacional",
+      "melilla": "nacional"
+     }
+    },
+    {
+     "fecha": "2026-04-06",
+     "es": "Lunes de Pascua",
+     "en": "Easter Monday",
+     "ccaa": {
+      "baleares": "autonomica",
+      "castilla-la-mancha": "autonomica",
+      "cataluna": "autonomica",
+      "navarra": "autonomica",
+      "pais-vasco": "autonomica",
+      "la-rioja": "autonomica",
+      "valenciana": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-04-23",
+     "es": "San Jorge/Día de Aragón",
+     "en": "St George's Day / Aragon Day",
+     "ccaa": {
+      "aragon": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-04-23",
+     "es": "Fiesta de Castilla y León",
+     "en": "Castile and León Day",
+     "ccaa": {
+      "castilla-y-leon": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-05-01",
+     "es": "Fiesta del Trabajo",
+     "en": "Labour Day",
+     "ccaa": {
+      "andalucia": "nacional",
+      "aragon": "nacional",
+      "asturias": "nacional",
+      "baleares": "nacional",
+      "canarias": "nacional",
+      "cantabria": "nacional",
+      "castilla-la-mancha": "nacional",
+      "castilla-y-leon": "nacional",
+      "cataluna": "nacional",
+      "extremadura": "nacional",
+      "galicia": "nacional",
+      "madrid": "nacional",
+      "murcia": "nacional",
+      "navarra": "nacional",
+      "pais-vasco": "nacional",
+      "la-rioja": "nacional",
+      "valenciana": "nacional",
+      "ceuta": "nacional",
+      "melilla": "nacional"
+     }
+    },
+    {
+     "fecha": "2026-05-02",
+     "es": "Fiesta de la Comunidad de Madrid",
+     "en": "Madrid Region Day",
+     "ccaa": {
+      "madrid": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-05-27",
+     "es": "Fiesta Sacrificio-Eidul Adha",
+     "en": "Eid al-Adha",
+     "ccaa": {
+      "ceuta": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-05-27",
+     "es": "Fiesta Sacrificio-Aid al Adha",
+     "en": "Eid al-Adha",
+     "ccaa": {
+      "melilla": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-05-30",
+     "es": "Día de Canarias",
+     "en": "Canary Islands Day",
+     "ccaa": {
+      "canarias": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-06-04",
+     "es": "Corpus Christi",
+     "en": "Corpus Christi",
+     "ccaa": {
+      "castilla-la-mancha": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-06-09",
+     "es": "Día de la Región de Murcia",
+     "en": "Murcia Region Day",
+     "ccaa": {
+      "murcia": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-06-09",
+     "es": "Día de la Rioja",
+     "en": "La Rioja Day",
+     "ccaa": {
+      "la-rioja": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-06-24",
+     "es": "San Juan",
+     "en": "St John's Day",
+     "ccaa": {
+      "cataluna": "autonomica",
+      "galicia": "autonomica",
+      "valenciana": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-07-25",
+     "es": "Santiago Apóstol/Día Nacional de Galicia",
+     "en": "St James's Day / Galicia Day",
+     "ccaa": {
+      "galicia": "nacional-no-sustituida",
+      "pais-vasco": "nacional-no-sustituida"
+     }
+    },
+    {
+     "fecha": "2026-07-28",
+     "es": "Día de las Instituciones de Cantabria",
+     "en": "Cantabria Institutions Day",
+     "ccaa": {
+      "cantabria": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-08-05",
+     "es": "Nuestra Señora de África",
+     "en": "Our Lady of Africa",
+     "ccaa": {
+      "ceuta": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-08-15",
+     "es": "Asunción de la Virgen",
+     "en": "Assumption Day",
+     "ccaa": {
+      "andalucia": "nacional",
+      "aragon": "nacional",
+      "asturias": "nacional",
+      "baleares": "nacional",
+      "canarias": "nacional",
+      "cantabria": "nacional",
+      "castilla-la-mancha": "nacional",
+      "castilla-y-leon": "nacional",
+      "cataluna": "nacional",
+      "extremadura": "nacional",
+      "galicia": "nacional",
+      "madrid": "nacional",
+      "murcia": "nacional",
+      "navarra": "nacional",
+      "pais-vasco": "nacional",
+      "la-rioja": "nacional",
+      "valenciana": "nacional",
+      "ceuta": "nacional",
+      "melilla": "nacional"
+     }
+    },
+    {
+     "fecha": "2026-09-02",
+     "es": "Día de Ceuta",
+     "en": "Ceuta Day",
+     "ccaa": {
+      "ceuta": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-09-08",
+     "es": "Día de Asturias",
+     "en": "Asturias Day",
+     "ccaa": {
+      "asturias": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-09-08",
+     "es": "Día de Extremadura",
+     "en": "Extremadura Day",
+     "ccaa": {
+      "extremadura": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-09-11",
+     "es": "Fiesta Nacional de Cataluña",
+     "en": "National Day of Catalonia",
+     "ccaa": {
+      "cataluna": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-09-15",
+     "es": "La Bien Aparecida",
+     "en": "La Bien Aparecida",
+     "ccaa": {
+      "cantabria": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-10-09",
+     "es": "Día de la Comunitat Valenciana",
+     "en": "Valencian Community Day",
+     "ccaa": {
+      "valenciana": "autonomica"
+     }
+    },
+    {
+     "fecha": "2026-10-12",
+     "es": "Fiesta Nacional de España",
+     "en": "National Day of Spain",
+     "ccaa": {
+      "andalucia": "nacional",
+      "aragon": "nacional",
+      "asturias": "nacional",
+      "baleares": "nacional",
+      "canarias": "nacional",
+      "cantabria": "nacional",
+      "castilla-la-mancha": "nacional",
+      "castilla-y-leon": "nacional",
+      "cataluna": "nacional",
+      "extremadura": "nacional",
+      "galicia": "nacional",
+      "madrid": "nacional",
+      "murcia": "nacional",
+      "navarra": "nacional",
+      "pais-vasco": "nacional",
+      "la-rioja": "nacional",
+      "valenciana": "nacional",
+      "ceuta": "nacional",
+      "melilla": "nacional"
+     }
+    },
+    {
+     "fecha": "2026-11-02",
+     "es": "Día siguiente a Todos los Santos",
+     "en": "Day after All Saints' Day",
+     "ccaa": {
+      "andalucia": "nacional-no-sustituida",
+      "aragon": "nacional-no-sustituida",
+      "asturias": "nacional-no-sustituida",
+      "canarias": "nacional-no-sustituida",
+      "castilla-la-mancha": "nacional-no-sustituida",
+      "castilla-y-leon": "nacional-no-sustituida",
+      "extremadura": "nacional-no-sustituida",
+      "madrid": "nacional-no-sustituida",
+      "navarra": "nacional-no-sustituida"
+     }
+    },
+    {
+     "fecha": "2026-12-07",
+     "es": "Lunes siguiente al Día de la Constitución Española",
+     "en": "Monday after Constitution Day",
+     "ccaa": {
+      "andalucia": "nacional-no-sustituida",
+      "aragon": "nacional-no-sustituida",
+      "asturias": "nacional-no-sustituida",
+      "cantabria": "nacional-no-sustituida",
+      "castilla-y-leon": "nacional-no-sustituida",
+      "extremadura": "nacional-no-sustituida",
+      "madrid": "nacional-no-sustituida",
+      "murcia": "nacional-no-sustituida",
+      "la-rioja": "nacional-no-sustituida",
+      "melilla": "nacional-no-sustituida"
+     }
+    },
+    {
+     "fecha": "2026-12-08",
+     "es": "Inmaculada Concepción",
+     "en": "Immaculate Conception",
+     "ccaa": {
+      "andalucia": "nacional",
+      "aragon": "nacional",
+      "asturias": "nacional",
+      "baleares": "nacional",
+      "canarias": "nacional",
+      "cantabria": "nacional",
+      "castilla-la-mancha": "nacional",
+      "castilla-y-leon": "nacional",
+      "cataluna": "nacional",
+      "extremadura": "nacional",
+      "galicia": "nacional",
+      "madrid": "nacional",
+      "murcia": "nacional",
+      "navarra": "nacional",
+      "pais-vasco": "nacional",
+      "la-rioja": "nacional",
+      "valenciana": "nacional",
+      "ceuta": "nacional",
+      "melilla": "nacional"
+     }
+    },
+    {
+     "fecha": "2026-12-25",
+     "es": "Natividad del Señor",
+     "en": "Christmas Day",
+     "ccaa": {
+      "andalucia": "nacional",
+      "aragon": "nacional",
+      "asturias": "nacional",
+      "baleares": "nacional",
+      "canarias": "nacional",
+      "cantabria": "nacional",
+      "castilla-la-mancha": "nacional",
+      "castilla-y-leon": "nacional",
+      "cataluna": "nacional",
+      "extremadura": "nacional",
+      "galicia": "nacional",
+      "madrid": "nacional",
+      "murcia": "nacional",
+      "navarra": "nacional",
+      "pais-vasco": "nacional",
+      "la-rioja": "nacional",
+      "valenciana": "nacional",
+      "ceuta": "nacional",
+      "melilla": "nacional"
+     }
+    },
+    {
+     "fecha": "2026-12-26",
+     "es": "San Esteban",
+     "en": "St Stephen's Day",
+     "ccaa": {
+      "baleares": "autonomica",
+      "cataluna": "autonomica"
+     }
+    }
+   ],
+   "islas": {
+    "ref": "Decreto 61/2025, de 28 de abril (BOC de 5 de mayo de 2025)",
+    "fiestas": {
+     "el-hierro": {
+      "fecha": "2026-09-24",
+      "es": "Nuestra Señora de los Reyes",
+      "en": "Our Lady of the Kings"
+     },
+     "fuerteventura": {
+      "fecha": "2026-09-18",
+      "es": "Nuestra Señora de la Peña",
+      "en": "Our Lady of La Peña"
+     },
+     "gran-canaria": {
+      "fecha": "2026-09-08",
+      "es": "Nuestra Señora del Pino",
+      "en": "Our Lady of El Pino"
+     },
+     "la-gomera": {
+      "fecha": "2026-10-05",
+      "es": "Nuestra Señora de Guadalupe",
+      "en": "Our Lady of Guadalupe"
+     },
+     "la-palma": {
+      "fecha": "2026-08-05",
+      "es": "Nuestra Señora de las Nieves",
+      "en": "Our Lady of the Snows"
+     },
+     "lanzarote": {
+      "fecha": "2026-09-15",
+      "es": "Nuestra Señora de los Volcanes",
+      "en": "Our Lady of the Volcanoes"
+     },
+     "tenerife": {
+      "fecha": "2026-02-02",
+      "es": "Virgen de la Candelaria",
+      "en": "Our Lady of Candelaria"
+     }
+    }
+   },
+   "aran": {
+    "ref": "Orden EMT/66/2025, de 30 de abril (DOGC de 6 de mayo de 2025)",
+    "quita": "2026-12-26",
+    "pone": "2026-06-17"
+   }
+  },
+  "2027": {
+   "id": "BOE-A-2026-21254",
+   "titulo": "Resolución de 8 de octubre de 2026, de la Dirección General de Trabajo, por la que se publica relación de fiestas laborales para el año 2027",
+   "boe": "BOE núm. 254, de 13 de octubre de 2026",
+   "fecha": "2026-10-13",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+   "fiestas": [
+    {
+     "fecha": "2027-01-01",
+     "es": "Año Nuevo",
+     "en": "New Year's Day",
+     "ccaa": {
+      "andalucia": "nacional",
+      "aragon": "nacional",
+      "asturias": "nacional",
+      "baleares": "nacional",
+      "canarias": "nacional",
+      "cantabria": "nacional",
+      "castilla-la-mancha": "nacional",
+      "castilla-y-leon": "nacional",
+      "cataluna": "nacional",
+      "extremadura": "nacional",
+      "galicia": "nacional",
+      "madrid": "nacional",
+      "murcia": "nacional",
+      "navarra": "nacional",
+      "pais-vasco": "nacional",
+      "la-rioja": "nacional",
+      "valenciana": "nacional",
+      "ceuta": "nacional",
+      "melilla": "nacional"
+     }
+    },
+    {
+     "fecha": "2027-01-06",
+     "es": "Epifanía del Señor",
+     "en": "Epiphany (Three Kings)",
+     "ccaa": {
+      "andalucia": "nacional-no-sustituida",
+      "aragon": "nacional-no-sustituida",
+      "asturias": "nacional-no-sustituida",
+      "baleares": "nacional-no-sustituida",
+      "canarias": "nacional-no-sustituida",
+      "cantabria": "nacional-no-sustituida",
+      "castilla-la-mancha": "nacional-no-sustituida",
+      "castilla-y-leon": "nacional-no-sustituida",
+      "cataluna": "nacional-no-sustituida",
+      "extremadura": "nacional-no-sustituida",
+      "galicia": "nacional-no-sustituida",
+      "madrid": "nacional-no-sustituida",
+      "murcia": "nacional-no-sustituida",
+      "navarra": "nacional-no-sustituida",
+      "pais-vasco": "nacional-no-sustituida",
+      "la-rioja": "nacional-no-sustituida",
+      "valenciana": "nacional-no-sustituida",
+      "ceuta": "nacional-no-sustituida",
+      "melilla": "nacional-no-sustituida"
+     }
+    },
+    {
+     "fecha": "2027-03-01",
+     "es": "Día de Andalucía",
+     "en": "Andalusia Day",
+     "ccaa": {
+      "andalucia": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-03-01",
+     "es": "Día de les Illes Balears",
+     "en": "Balearic Islands Day",
+     "ccaa": {
+      "baleares": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-03-10",
+     "es": "Fiesta del Eid Fitr",
+     "en": "Eid al-Fitr",
+     "ccaa": {
+      "melilla": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-03-19",
+     "es": "San José",
+     "en": "St Joseph's Day",
+     "ccaa": {
+      "galicia": "nacional-no-sustituida",
+      "madrid": "nacional-no-sustituida",
+      "murcia": "nacional-no-sustituida",
+      "navarra": "nacional-no-sustituida",
+      "valenciana": "nacional-no-sustituida"
+     }
+    },
+    {
+     "fecha": "2027-03-25",
+     "es": "Jueves Santo",
+     "en": "Maundy Thursday",
+     "ccaa": {
+      "andalucia": "nacional-no-sustituida",
+      "aragon": "nacional-no-sustituida",
+      "asturias": "nacional-no-sustituida",
+      "baleares": "nacional-no-sustituida",
+      "canarias": "nacional-no-sustituida",
+      "cantabria": "nacional-no-sustituida",
+      "castilla-la-mancha": "nacional-no-sustituida",
+      "castilla-y-leon": "nacional-no-sustituida",
+      "extremadura": "nacional-no-sustituida",
+      "galicia": "nacional-no-sustituida",
+      "madrid": "nacional-no-sustituida",
+      "murcia": "nacional-no-sustituida",
+      "navarra": "nacional-no-sustituida",
+      "pais-vasco": "nacional-no-sustituida",
+      "la-rioja": "nacional-no-sustituida",
+      "ceuta": "nacional-no-sustituida",
+      "melilla": "nacional-no-sustituida"
+     }
+    },
+    {
+     "fecha": "2027-03-26",
+     "es": "Viernes Santo",
+     "en": "Good Friday",
+     "ccaa": {
+      "andalucia": "nacional",
+      "aragon": "nacional",
+      "asturias": "nacional",
+      "baleares": "nacional",
+      "canarias": "nacional",
+      "cantabria": "nacional",
+      "castilla-la-mancha": "nacional",
+      "castilla-y-leon": "nacional",
+      "cataluna": "nacional",
+      "extremadura": "nacional",
+      "galicia": "nacional",
+      "madrid": "nacional",
+      "murcia": "nacional",
+      "navarra": "nacional",
+      "pais-vasco": "nacional",
+      "la-rioja": "nacional",
+      "valenciana": "nacional",
+      "ceuta": "nacional",
+      "melilla": "nacional"
+     }
+    },
+    {
+     "fecha": "2027-03-29",
+     "es": "Lunes de Pascua",
+     "en": "Easter Monday",
+     "ccaa": {
+      "baleares": "autonomica",
+      "cataluna": "autonomica",
+      "navarra": "autonomica",
+      "pais-vasco": "autonomica",
+      "la-rioja": "autonomica",
+      "valenciana": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-04-23",
+     "es": "San Jorge/Día de Aragón",
+     "en": "St George's Day / Aragon Day",
+     "ccaa": {
+      "aragon": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-04-23",
+     "es": "Fiesta de Castilla y León",
+     "en": "Castile and León Day",
+     "ccaa": {
+      "castilla-y-leon": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-05-01",
+     "es": "Fiesta del Trabajo",
+     "en": "Labour Day",
+     "ccaa": {
+      "andalucia": "nacional",
+      "aragon": "nacional",
+      "asturias": "nacional",
+      "baleares": "nacional",
+      "canarias": "nacional",
+      "cantabria": "nacional",
+      "castilla-la-mancha": "nacional",
+      "castilla-y-leon": "nacional",
+      "cataluna": "nacional",
+      "extremadura": "nacional",
+      "galicia": "nacional",
+      "madrid": "nacional",
+      "murcia": "nacional",
+      "navarra": "nacional",
+      "pais-vasco": "nacional",
+      "la-rioja": "nacional",
+      "valenciana": "nacional",
+      "ceuta": "nacional",
+      "melilla": "nacional"
+     }
+    },
+    {
+     "fecha": "2027-05-17",
+     "es": "Día de las Letras Gallegas",
+     "en": "Galician Literature Day",
+     "ccaa": {
+      "galicia": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-05-17",
+     "es": "Eidul Adha-Fiesta Sacrificio",
+     "en": "Eid al-Adha",
+     "ccaa": {
+      "ceuta": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-05-17",
+     "es": "Fiesta Sacrificio-Aid Al Adha",
+     "en": "Eid al-Adha",
+     "ccaa": {
+      "melilla": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-05-27",
+     "es": "Corpus Christi",
+     "en": "Corpus Christi",
+     "ccaa": {
+      "castilla-la-mancha": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-05-31",
+     "es": "Día de Castilla-La Mancha",
+     "en": "Castilla-La Mancha Day",
+     "ccaa": {
+      "castilla-la-mancha": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-06-09",
+     "es": "Día de la Región de Murcia",
+     "en": "Murcia Region Day",
+     "ccaa": {
+      "murcia": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-06-09",
+     "es": "Día de La Rioja",
+     "en": "La Rioja Day",
+     "ccaa": {
+      "la-rioja": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-06-24",
+     "es": "Día de San Juan",
+     "en": "St John's Day",
+     "ccaa": {
+      "cataluna": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-07-28",
+     "es": "Día de las Instituciones de Cantabria",
+     "en": "Cantabria Institutions Day",
+     "ccaa": {
+      "cantabria": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-08-05",
+     "es": "Nuestra Señora de África",
+     "en": "Our Lady of Africa",
+     "ccaa": {
+      "ceuta": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-08-16",
+     "es": "Lunes siguiente a asunción de la Virgen",
+     "en": "Monday after Assumption Day",
+     "ccaa": {
+      "andalucia": "nacional-no-sustituida",
+      "aragon": "nacional-no-sustituida",
+      "asturias": "nacional-no-sustituida",
+      "canarias": "nacional-no-sustituida",
+      "castilla-y-leon": "nacional-no-sustituida",
+      "madrid": "nacional-no-sustituida"
+     }
+    },
+    {
+     "fecha": "2027-09-08",
+     "es": "Día de Asturias",
+     "en": "Asturias Day",
+     "ccaa": {
+      "asturias": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-09-08",
+     "es": "Día de Extremadura",
+     "en": "Extremadura Day",
+     "ccaa": {
+      "extremadura": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-09-11",
+     "es": "Fiesta Nacional de Cataluña",
+     "en": "National Day of Catalonia",
+     "ccaa": {
+      "cataluna": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-09-15",
+     "es": "La Bien Aparecida",
+     "en": "La Bien Aparecida",
+     "ccaa": {
+      "cantabria": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-10-07",
+     "es": "Aniversario 1er Gobierno Euskadi",
+     "en": "Anniversary of the first Basque Government",
+     "ccaa": {
+      "pais-vasco": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-10-09",
+     "es": "Día de la Comunitat Valenciana",
+     "en": "Valencian Community Day",
+     "ccaa": {
+      "valenciana": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-10-11",
+     "es": "Sustitución 15 de agosto",
+     "en": "Replaces 15 August (Assumption)",
+     "ccaa": {
+      "extremadura": "autonomica"
+     }
+    },
+    {
+     "fecha": "2027-10-12",
+     "es": "Fiesta Nacional de España",
+     "en": "National Day of Spain",
+     "ccaa": {
+      "andalucia": "nacional",
+      "aragon": "nacional",
+      "asturias": "nacional",
+      "baleares": "nacional",
+      "canarias": "nacional",
+      "cantabria": "nacional",
+      "castilla-la-mancha": "nacional",
+      "castilla-y-leon": "nacional",
+      "cataluna": "nacional",
+      "extremadura": "nacional",
+      "galicia": "nacional",
+      "madrid": "nacional",
+      "murcia": "nacional",
+      "navarra": "nacional",
+      "pais-vasco": "nacional",
+      "la-rioja": "nacional",
+      "valenciana": "nacional",
+      "ceuta": "nacional",
+      "melilla": "nacional"
+     }
+    },
+    {
+     "fecha": "2027-11-01",
+     "es": "Todos los Santos",
+     "en": "All Saints' Day",
+     "ccaa": {
+      "andalucia": "nacional",
+      "aragon": "nacional",
+      "asturias": "nacional",
+      "baleares": "nacional",
+      "canarias": "nacional",
+      "cantabria": "nacional",
+      "castilla-la-mancha": "nacional",
+      "castilla-y-leon": "nacional",
+      "cataluna": "nacional",
+      "extremadura": "nacional",
+      "galicia": "nacional",
+      "madrid": "nacional",
+      "murcia": "nacional",
+      "navarra": "nacional",
+      "pais-vasco": "nacional",
+      "la-rioja": "nacional",
+      "valenciana": "nacional",
+      "ceuta": "nacional",
+      "melilla": "nacional"
+     }
+    },
+    {
+     "fecha": "2027-12-06",
+     "es": "Día de la Constitución Española",
+     "en": "Constitution Day",
+     "ccaa": {
+      "andalucia": "nacional",
+      "aragon": "nacional",
+      "asturias": "nacional",
+      "baleares": "nacional",
+      "canarias": "nacional",
+      "cantabria": "nacional",
+      "castilla-la-mancha": "nacional",
+      "castilla-y-leon": "nacional",
+      "cataluna": "nacional",
+      "extremadura": "nacional",
+      "galicia": "nacional",
+      "madrid": "nacional",
+      "murcia": "nacional",
+      "navarra": "nacional",
+      "pais-vasco": "nacional",
+      "la-rioja": "nacional",
+      "valenciana": "nacional",
+      "ceuta": "nacional",
+      "melilla": "nacional"
+     }
+    },
+    {
+     "fecha": "2027-12-08",
+     "es": "Inmaculada Concepción",
+     "en": "Immaculate Conception",
+     "ccaa": {
+      "andalucia": "nacional",
+      "aragon": "nacional",
+      "asturias": "nacional",
+      "baleares": "nacional",
+      "canarias": "nacional",
+      "cantabria": "nacional",
+      "castilla-la-mancha": "nacional",
+      "castilla-y-leon": "nacional",
+      "cataluna": "nacional",
+      "extremadura": "nacional",
+      "galicia": "nacional",
+      "madrid": "nacional",
+      "murcia": "nacional",
+      "navarra": "nacional",
+      "pais-vasco": "nacional",
+      "la-rioja": "nacional",
+      "valenciana": "nacional",
+      "ceuta": "nacional",
+      "melilla": "nacional"
+     }
+    },
+    {
+     "fecha": "2027-12-25",
+     "es": "Natividad del Señor",
+     "en": "Christmas Day",
+     "ccaa": {
+      "andalucia": "nacional",
+      "aragon": "nacional",
+      "asturias": "nacional",
+      "baleares": "nacional",
+      "canarias": "nacional",
+      "cantabria": "nacional",
+      "castilla-la-mancha": "nacional",
+      "castilla-y-leon": "nacional",
+      "cataluna": "nacional",
+      "extremadura": "nacional",
+      "galicia": "nacional",
+      "madrid": "nacional",
+      "murcia": "nacional",
+      "navarra": "nacional",
+      "pais-vasco": "nacional",
+      "la-rioja": "nacional",
+      "valenciana": "nacional",
+      "ceuta": "nacional",
+      "melilla": "nacional"
+     }
+    }
+   ],
+   "islas": {
+    "ref": "Decreto 115/2026, de 29 de junio (BOC de 3 de julio de 2026)",
+    "fiestas": {
+     "el-hierro": {
+      "fecha": "2027-09-24",
+      "es": "Nuestra Señora de los Reyes",
+      "en": "Our Lady of the Kings"
+     },
+     "fuerteventura": {
+      "fecha": "2027-09-17",
+      "es": "Nuestra Señora de la Peña",
+      "en": "Our Lady of La Peña"
+     },
+     "gran-canaria": {
+      "fecha": "2027-09-08",
+      "es": "Nuestra Señora del Pino",
+      "en": "Our Lady of El Pino"
+     },
+     "la-gomera": {
+      "fecha": "2027-10-04",
+      "es": "Nuestra Señora de Guadalupe",
+      "en": "Our Lady of Guadalupe"
+     },
+     "la-palma": {
+      "fecha": "2027-08-05",
+      "es": "Nuestra Señora de las Nieves",
+      "en": "Our Lady of the Snows"
+     },
+     "lanzarote": {
+      "fecha": "2027-09-15",
+      "es": "Nuestra Señora de los Volcanes",
+      "en": "Our Lady of the Volcanoes"
+     },
+     "tenerife": {
+      "fecha": "2027-02-02",
+      "es": "Virgen de la Candelaria",
+      "en": "Our Lady of Candelaria"
+     }
+    }
+   },
+   "aran": {
+    "ref": "Orden EMT/52/2026, de 25 de marzo (DOGC de 1 de abril de 2026)",
+    "quita": "2027-03-29",
+    "pone": "2027-06-17"
+   }
+  }
+ }
+}

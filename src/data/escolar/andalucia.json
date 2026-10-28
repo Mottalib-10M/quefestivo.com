@@ -1,0 +1,29 @@
+{
+ "ccaa": "andalucia",
+ "curso": "2026-2027",
+ "fuente": {
+  "titulo": "Decreto 301/2009, de 14 de julio, por el que se regula el calendario y la jornada escolar en los centros docentes, a excepción de los universitarios",
+  "boletin": "BOJA",
+  "fecha": "2009-07-20",
+  "url": "https://cdn.juntadeandalucia.es/boja/2009/139/d1.pdf",
+  "leido": "2026-10-28"
+ },
+ "primaria": {
+  "inicio": "2026-09-10",
+  "fin": null
+ },
+ "eso": {
+  "inicio": "2026-09-15",
+  "fin": null
+ },
+ "navidad": {
+  "desde": null,
+  "hasta": null
+ },
+ "semana_santa": {
+  "desde": null,
+  "hasta": null
+ },
+ "otros": [],
+ "nota": "En Andalucía no hay calendario escolar autonómico: lo aprueba cada Delegación Territorial por resolución provincial (art. 4 del Decreto 301/2009), publicada en su tablón y web, no en el BOJA (sumarios BOJA núm. 60 a 209 de 2026 revisados). Inicio según arts. 6 y 7 del Decreto (10 y 15 de septiembre); el fin solo está acotado (no antes del 22 de junio), y Navidad y Semana Santa las fija cada provincia: no se han leído las 8 resoluciones provinciales."
+}

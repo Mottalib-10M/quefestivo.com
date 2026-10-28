@@ -1,0 +1,412 @@
+{
+ "ccaa": "valenciana",
+ "fuentes": {
+  "2026": {
+   "titulo": "Resolución de 12 de noviembre de 2025, por la que se aprueba el calendario de fiestas locales, retribuidas y no recuperables, en el ámbito de la Comunitat Valenciana para el año 2026",
+   "boletin": "DOGV",
+   "numero": "núm. 10238 (CVE DOGV-C-2025-46326)",
+   "fecha": "2025-11-14",
+   "url": "https://dogv.gva.es/datos/2025/11/14/pdf/2025_46326_es.pdf",
+   "leido": "2026-10-28",
+   "via": "directo",
+   "modificaciones": [
+    {
+     "titulo": "Resolución de 13 de enero de 2026, por la que se modifica el anexo de la Resolución de 12 de noviembre de 2025 (Alcosser, Onil, Penàguila, Villamalur, Benissoda)",
+     "boletin": "DOGV",
+     "numero": "núm. 10281 (CVE DOGV-C-2026-1043)",
+     "fecha": "2026-01-15",
+     "url": "https://dogv.gva.es/datos/2026/01/15/pdf/2026_1043_es.pdf"
+    },
+    {
+     "titulo": "Resolución de 27 de febrero de 2026, por la que se modifica el anexo de la Resolución de 12 de noviembre de 2025 (Orba)",
+     "boletin": "DOGV",
+     "numero": "núm. 10314 (CVE DOGV-C-2026-6733)",
+     "fecha": "2026-03-03",
+     "url": "https://dogv.gva.es/datos/2026/03/03/pdf/2026_6733_es.pdf"
+    }
+   ],
+   "nota": "Ninguna de las dos modificaciones afecta a los municipios cubiertos."
+  },
+  "2027": {
+   "estado": "no-publicado",
+   "comprobado": "2026-10-28",
+   "donde": "DOGV, buscador oficial (dogv.gva.es) por título «fiestas locales» del 01-11-2025 al 28-10-2026: solo la resolución 2026, sus dos modificaciones y anuncios municipales sueltos (Tavernes Blanques, Gata de Gorgos). La resolución 2026 se publicó el 14-11-2025."
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "Decreto 100/2025, de 1 de julio, del Consell, por el que se determina el calendario laboral de aplicación en el ámbito territorial de la Comunitat Valenciana para el año 2026",
+   "boletin": "DOGV",
+   "fecha": "2025-07-07",
+   "url": "https://dogv.gva.es/datos/2025/07/07/pdf/2025_24690_es.pdf"
+  },
+  "2027": {
+   "titulo": "Decreto 42/2026, de 20 de marzo, del Consell, por el que se determina el calendario laboral de aplicación en el ámbito territorial de la Comunitat Valenciana para el año 2027",
+   "boletin": "DOGV",
+   "fecha": "2026-03-25",
+   "url": "https://dogv.gva.es/datos/2026/03/25/pdf/2026_8641_es.pdf"
+  }
+ },
+ "municipios": [
+  {
+   "ine": "46250",
+   "nombre": "València",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-01-22",
+      "nombre": "San Vicente Mártir, patrón de la ciudad de València"
+     },
+     {
+      "fecha": "2026-04-13",
+      "nombre": "San Vicente Ferrer, patrón de la Comunidad Valenciana"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "Entrada «VALÈNCIA» del anexo (provincia de Valencia)."
+  },
+  {
+   "ine": "03014",
+   "nombre": "Alacant/Alicante",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-16",
+      "nombre": "Festividad de Santa Faz"
+     },
+     {
+      "fecha": "2026-06-23",
+      "nombre": "Fogueres de Sant Joan"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "Entrada «ALICANTE»."
+  },
+  {
+   "ine": "03065",
+   "nombre": "Elx/Elche",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-13",
+      "nombre": "Festividad de San Vicente Ferrer"
+     },
+     {
+      "fecha": "2026-12-29",
+      "nombre": "Festividad de la Venida de la Virgen"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "Entrada «ELCHE»."
+  },
+  {
+   "ine": "12040",
+   "nombre": "Castelló de la Plana/Castellón de la Plana",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-03-09",
+      "nombre": "Lunes de la Magdalena"
+     },
+     {
+      "fecha": "2026-06-29",
+      "nombre": "Festividad de San Pedro"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "Entrada «CASTELLÓN DE LA PLANA»."
+  },
+  {
+   "ine": "03133",
+   "nombre": "Torrevieja",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-13",
+      "nombre": "San Vicente Ferrer"
+     },
+     {
+      "fecha": "2026-07-16",
+      "nombre": "Virgen del Carmen"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "46244",
+   "nombre": "Torrent",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-13",
+      "nombre": "San Vicente Ferrer"
+     },
+     {
+      "fecha": "2026-07-30",
+      "nombre": "Santos Patrones"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "03099",
+   "nombre": "Orihuela",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-07-17",
+      "nombre": "Gloriosa Enseña del Oriol y Fiestas de la Reconquista"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Festividad de Ntra. Sra. Virgen de Monserrate, Patrona de Orihuela"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "46131",
+   "nombre": "Gandia",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-13",
+      "nombre": "San Vicente Ferrer"
+     },
+     {
+      "fecha": "2026-10-05",
+      "nombre": "San Francisco de Borja - Feria de Gandía"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "03031",
+   "nombre": "Benidorm",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-11-09",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-11-10",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El texto oficial da solo las fechas («9 y 10 de noviembre»), sin denominación."
+  },
+  {
+   "ine": "46190",
+   "nombre": "Paterna",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-13",
+      "nombre": "San Vicente Ferrer"
+     },
+     {
+      "fecha": "2026-08-31",
+      "nombre": "Santísimo Cristo de la Fe"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "46220",
+   "nombre": "Sagunt/Sagunto",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-13",
+      "nombre": "San Vicente Ferrer"
+     },
+     {
+      "fecha": "2026-07-30",
+      "nombre": "Santos Abdón y Senén"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "03009",
+   "nombre": "Alcoi/Alcoy",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-25",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-04-27",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El texto oficial da solo las fechas («25 de abril; 27 de abril»), sin denominación. El 25 de abril de 2026 es sábado."
+  },
+  {
+   "ine": "03122",
+   "nombre": "Sant Vicent del Raspeig/San Vicente del Raspeig",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-13",
+      "nombre": "Fiestas Patronales y de Moros y Cristianos"
+     },
+     {
+      "fecha": "2026-04-14",
+      "nombre": "Fiestas Patronales y de Moros y Cristianos"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "03066",
+   "nombre": "Elda",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiestas Patronales"
+     },
+     {
+      "fecha": "2026-09-09",
+      "nombre": "Fiestas Patronales"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "12135",
+   "nombre": "Vila-real",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-18",
+      "nombre": "Festividad de San Pascual"
+     },
+     {
+      "fecha": "2026-12-26",
+      "nombre": "San Esteban"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El 26 de diciembre de 2026 es sábado."
+  },
+  {
+   "ine": "46017",
+   "nombre": "Alzira",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-13",
+      "nombre": "San Vicente Ferrer"
+     },
+     {
+      "fecha": "2026-07-23",
+      "nombre": "San Bernardo"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "03063",
+   "nombre": "Dénia",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-13",
+      "nombre": "Festividad de San Vicente"
+     },
+     {
+      "fecha": "2026-07-08",
+      "nombre": "Festividad de La Santísima Sangre"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "46169",
+   "nombre": "Mislata",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-13",
+      "nombre": "San Vicente Ferrer"
+     },
+     {
+      "fecha": "2026-08-31",
+      "nombre": "Nuestra Señora de los Ángeles"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "46078",
+   "nombre": "Burjassot",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-13",
+      "nombre": "San Vicente Ferrer"
+     },
+     {
+      "fecha": "2026-09-30",
+      "nombre": "La Virgen de la Cabeza"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "03121",
+   "nombre": "Santa Pola",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-07-16",
+      "nombre": "Virgen del Carmen"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Virgen de Loreto"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  }
+ ]
+}

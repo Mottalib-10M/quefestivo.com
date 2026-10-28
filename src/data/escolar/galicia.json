@@ -1,0 +1,46 @@
+{
+ "ccaa": "galicia",
+ "curso": "2026-2027",
+ "fuente": {
+  "titulo": "Orden de 4 de junio de 2026 por la que se aprueba el calendario escolar para el curso 2026/27 en los centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Galicia",
+  "boletin": "DOG",
+  "fecha": "2026-06-15",
+  "url": "https://www.xunta.gal/dog/Publicados/2026/20260615/AnuncioG0761-050626-0001_es.html",
+  "leido": "2026-10-28"
+ },
+ "primaria": {
+  "inicio": "2026-09-09",
+  "fin": "2027-06-21"
+ },
+ "eso": {
+  "inicio": "2026-09-09",
+  "fin": "2027-06-21"
+ },
+ "navidad": {
+  "desde": "2026-12-22",
+  "hasta": "2027-01-07"
+ },
+ "semana_santa": {
+  "desde": "2027-03-22",
+  "hasta": "2027-03-29"
+ },
+ "otros": [
+  {
+   "fecha": "2026-12-07",
+   "nombre": "Día de la Enseñanza (no lectivo)"
+  },
+  {
+   "fecha": "2027-02-08",
+   "nombre": "Vacaciones de Entroido (Carnaval)"
+  },
+  {
+   "fecha": "2027-02-09",
+   "nombre": "Vacaciones de Entroido (Carnaval)"
+  },
+  {
+   "fecha": "2027-02-10",
+   "nombre": "Vacaciones de Entroido (Carnaval)"
+  }
+ ],
+ "nota": "Mismas fechas para Infantil, Primaria, ESO y Bachillerato (art. 5); en 2.º de Bachillerato las clases terminan según las fechas de la PAU. Son también no lectivas las fiestas estatales, autonómicas y las dos locales de cada ayuntamiento (art. 7)."
+}

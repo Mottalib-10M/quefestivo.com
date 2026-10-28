@@ -1,0 +1,184 @@
+{
+ "ccaa": "asturias",
+ "fuentes": {
+  "2026": {
+   "titulo": "Resolución de 3 de junio de 2025, de la Consejería de Ciencia, Industria y Empleo, por la que se aprueba el calendario de fiestas locales para el año 2026 en la Comunidad Autónoma del Principado de Asturias (Cód. 2025-04744)",
+   "boletin": "BOPA",
+   "numero": "núm. 114",
+   "fecha": "2025-06-16",
+   "url": "https://miprincipado.asturias.es/documents/d/guest/2025-04744",
+   "leido": "2026-10-28",
+   "via": "directo"
+  },
+  "2027": {
+   "titulo": "Resolución de 22 de mayo de 2026, de la Consejería de Ciencia, Industria y Empleo, por la que se aprueba el calendario de fiestas locales para el año 2027 en la Comunidad Autónoma del Principado de Asturias (Cód. 2026-04656)",
+   "boletin": "BOPA",
+   "numero": "núm. 110",
+   "fecha": "2026-06-10",
+   "url": "https://www.asturias.es/bopa/2026/06/10/2026-04656.pdf",
+   "leido": "2026-10-28",
+   "via": "copia Wayback del PDF oficial (https://web.archive.org/web/2026id_/https://www.asturias.es/bopa/2026/06/10/2026-04656.pdf): el servidor asturias.es no respondía desde aquí el 2026-10-28"
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "Decreto 35/2025, de 7 de marzo, por el que se sustituye para el año 2026 una de las fiestas de ámbito nacional por el día 8 de septiembre, Día de Asturias",
+   "boletin": "BOPA",
+   "fecha": "2025-03-24",
+   "url": null,
+   "nota": "Código BOPA no localizado; referencia tomada del INAP."
+  },
+  "2027": {
+   "titulo": "Decreto 7/2026, de 16 de febrero, por el que se sustituye para el año 2027 una de las fiestas de ámbito nacional por el día 8 de septiembre, Día de Asturias",
+   "boletin": "BOPA",
+   "fecha": "2026-02-26",
+   "url": null,
+   "nota": "Código BOPA no localizado; referencia tomada del INAP."
+  }
+ },
+ "municipios": [
+  {
+   "ine": "33024",
+   "nombre": "Gijón",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-17",
+      "nombre": "Carnaval/Antroxu"
+     },
+     {
+      "fecha": "2026-06-29",
+      "nombre": "San Pedro"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-09",
+      "nombre": "Carnaval/Antroxu"
+     },
+     {
+      "fecha": "2027-06-29",
+      "nombre": "San Pedro"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "33044",
+   "nombre": "Oviedo",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-26",
+      "nombre": "Martes de Campo"
+     },
+     {
+      "fecha": "2026-09-21",
+      "nombre": "San Mateo"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-05-18",
+      "nombre": "Martes de Campo"
+     },
+     {
+      "fecha": "2027-09-21",
+      "nombre": "San Mateo"
+     }
+    ]
+   },
+   "nota": ""
+  },
+  {
+   "ine": "33004",
+   "nombre": "Avilés",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-06",
+      "nombre": "Lunes de Pascua"
+     },
+     {
+      "fecha": "2026-08-28",
+      "nombre": "San Agustín"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-03-29",
+      "nombre": "Lunes de Pascua"
+     },
+     {
+      "fecha": "2027-08-28",
+      "nombre": "San Agustín"
+     }
+    ]
+   },
+   "nota": "El 28 de agosto de 2027 cae en sábado (así figura en el BOPA)."
+  },
+  {
+   "ine": "33066",
+   "nombre": "Siero",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-07",
+      "nombre": "Huevos Pintos, en todo el Concejo"
+     },
+     {
+      "fecha": "2026-07-20",
+      "nombre": "El Carmín, en todo el Concejo excepto en la parroquia de Lugones/Llugones"
+     },
+     {
+      "fecha": "2026-08-31",
+      "nombre": "Santa Isabel, en la parroquia de Lugones/Llugones"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-03-30",
+      "nombre": "Huevos Pintos, en todo el Concejo"
+     },
+     {
+      "fecha": "2027-07-19",
+      "nombre": "El Carmín, en todo el Concejo excepto en la parroquia de Lugones/Llugones"
+     },
+     {
+      "fecha": "2027-08-30",
+      "nombre": "Santa Isabel, en la parroquia de Lugones/Llugones"
+     }
+    ]
+   },
+   "nota": "Tres fechas en el BOPA porque la segunda fiesta varía según la parroquia: cada lugar del concejo tiene dos (Huevos Pintos + El Carmín, o en Lugones/Llugones Huevos Pintos + Santa Isabel)."
+  },
+  {
+   "ine": "33031",
+   "nombre": "Langreo",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-29",
+      "nombre": "San Pedro"
+     },
+     {
+      "fecha": "2026-07-25",
+      "nombre": "Festividad de Santiago"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-09",
+      "nombre": "Martes de Carnaval"
+     },
+     {
+      "fecha": "2027-06-29",
+      "nombre": "San Pedro"
+     }
+    ]
+   },
+   "nota": "El 25 de julio de 2026 cae en sábado (así figura en el BOPA)."
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "ccaa": "pais-vasco",
+ "curso": "2026-2027",
+ "fuente": {
+  "titulo": "Resolución de la Viceconsejera de Políticas Educativas por la que se dictan normas complementarias que han de regular la elaboración del calendario escolar para el curso 2026-2027 de los centros públicos de la Comunidad Autónoma del País Vasco, en las etapas de Educación Infantil y Primaria",
+  "boletin": "euskadi.eus (Departamento de Educación; resolución firmada electrónicamente el 2026-04-21, no publicada en el BOPV)",
+  "fecha": "2026-04-21",
+  "url": "https://www.euskadi.eus/contenidos/informacion/cee_organizacioncentros_calend/es_def/adjuntos/2026_2027/Resolucion-calendario-Primaria-2026_27-cast-.pdf",
+  "leido": "2026-10-28"
+ },
+ "fuente_eso": {
+  "titulo": "Resolución de la Viceconsejera de Políticas Educativas y del Viceconsejero de Formación Profesional por la que se dictan normas complementarias que han de regular la elaboración del calendario escolar para el curso 2026-2027 de los centros públicos (salvo Centros Integrados de FP) en ESO, Bachillerato y Formación Profesional",
+  "boletin": "euskadi.eus (Departamento de Educación; firmada el 2026-04-21)",
+  "fecha": "2026-04-21",
+  "url": "https://www.euskadi.eus/contenidos/informacion/cee_organizacioncentros_calend/es_def/adjuntos/2026_2027/Egutegiaren-ebazpena-BH-2026-2027-CAST-_Lanbide-Heziketa-sartuta.pdf",
+  "leido": "2026-10-28"
+ },
+ "primaria": {
+  "inicio": null,
+  "fin": null
+ },
+ "eso": {
+  "inicio": null,
+  "fin": null
+ },
+ "limites": {
+  "inicio_no_antes_de": "2026-09-07",
+  "fin_a_mas_tardar": "2027-06-18",
+  "fp_inicio_no_antes_de": "2026-09-03"
+ },
+ "navidad": {
+  "desde": "2026-12-24",
+  "hasta": "2027-01-06"
+ },
+ "semana_santa": {
+  "desde": "2027-03-25",
+  "hasta": "2027-03-29"
+ },
+ "otros": [],
+ "nota": "En Euskadi no hay fechas únicas: cada centro público aprueba su calendario dentro de un marco común. Inicio de clases no antes del 7-09-2026 (FP no antes del 3-09-2026) y fin a más tardar el 18-06-2027 (Infantil/Primaria y ESO/Bachillerato). Navidad y Semana Santa son periodos mínimos («al menos») del 24-12-2026 al 6-01-2027 y del 25 al 29-03-2027. Son festivos los del calendario laboral oficial y las fiestas patronales de la localidad y del territorio. Aplicable a centros públicos."
+}

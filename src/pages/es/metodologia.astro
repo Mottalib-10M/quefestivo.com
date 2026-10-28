@@ -1,0 +1,36 @@
+---
+/** Método: fuentes, capas de fiestas, municipios, reglas de fechas, pruebas y límites. Cada fecha sale de los datos. */
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { KIT as K } from '../../lib/kit';
+import { srcLink } from '../../lib/helpers';
+import { breadcrumbSchema, webPageSchema } from '../../lib/seo';
+import { estadoLocales } from '../../content/guides/_util';
+const lang = 'es';
+const path = route('method', lang);
+const title = 'Método del calendario laboral 2027: fuentes y límites';
+const description = 'Cómo se arma el calendario laboral 2027 y 2026 de cada municipio: BOE, decretos autonómicos, boletines de fiestas locales, reglas de Pascua y hora, y pruebas.';
+const s = (k: string, t: string) => srcLink(k, lang, t);
+const e27 = estadoLocales(2027).filter((x) => x.conFiestas > 0).length, e26 = estadoLocales(2026).filter((x) => x.conFiestas > 0).length;
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={[webPageSchema({ name: 'Método', description, path, lang }), breadcrumbSchema([{ name: 'Inicio', path: route('home', lang) }, { name: 'Método', path }])]} breadcrumbs={[{ label: 'Método' }]}>
+  <article class="prose prose-slate max-w-none">
+    <h1>Cómo se hace este calendario laboral</h1>
+    <p class="text-xs font-medium uppercase tracking-wide text-navy-500">Sitio independiente, no gubernamental</p>
+    <p>Todas las herramientas funcionan en tu navegador: lo que buscas o escribes no se envía ni se guarda. Las fechas vienen de textos oficiales leídos a mano y las que dependen de una regla se calculan con funciones probadas. Última lectura: {K.fFecha(K.LECTURA, 'es')}.</p>
+    <h2>Fiestas nacionales y autonómicas</h2>
+    <p>Salen de la resolución anual de la Dirección General de Trabajo: <Fragment set:html={s('boe-2027', 'la de 2027')} /> y <Fragment set:html={s('boe-2026', 'la de 2026')} />. Leemos su versión en XML del BOE y convertimos el cuadro, columna por columna, en una lista de fiestas por comunidad, respetando las notas que distinguen las fiestas nacionales no sustituibles, las que la comunidad conserva y las propias. Un programa comprueba que cada comunidad suma 12 fiestas, 11 en Canarias más la de cada isla, y que ninguna fiesta autonómica cae en domingo. Las fiestas insulares de Canarias salen del decreto del Gobierno de Canarias ({K.ISLAS_REF(2027)} para 2027) y la sustitución del Valle de Arán, de la orden de la Generalitat ({K.ARAN(2027)?.ref}).</p>
+    <h2>Fiestas locales</h2>
+    <p>Cada comunidad, o cada provincia, publica una resolución con las dos fiestas de cada municipio, según el <Fragment set:html={s('rd2001', 'artículo 46 del Real Decreto 2001/1983')} />. Las leemos en ese boletín y las copiamos con su número, su fecha y la fecha en que las leímos; revisamos también las correcciones publicadas después. Cubrimos {K.MUNICIPIOS.length} municipios: las 50 capitales de provincia, Ceuta, Melilla y los municipios más poblados según el Padrón municipal a 1 de enero de 2025. Elaboración propia con datos extraídos del sitio web del INE: www.ine.es. Las fiestas locales de 2026 están leídas en {e26} comunidades y ciudades autónomas y las de 2027 en {e27}. Cuando un boletín aún no ha salido, el sitio dice «sin publicar» y nunca rellena con las fechas del año anterior.</p>
+    <h2>Días laborables y puentes</h2>
+    <p>Un día laborable es un día de lunes a viernes que no es festivo en el lugar elegido; el sábado se cuenta aparte, porque depende del convenio. Los puentes se buscan así: primero los tramos seguidos de días libres (fines de semana y festivos), después los huecos de uno a cinco días laborables que unen dos tramos. Con tus días de vacaciones, un cálculo de programación dinámica elige la combinación de huecos que da más días libres seguidos sin que dos escapadas se solapen y sin pasar de los días que tienes. A igualdad, gana la que usa menos días.</p>
+    <h2>Fechas que dependen de una regla</h2>
+    <p>La Pascua se calcula con el algoritmo de Meeus para el calendario gregoriano; Jueves Santo, Viernes Santo, Lunes de Pascua, Carnaval (47 días antes), Pentecostés y Corpus Christi (60 días después) se derivan de ella. Las pruebas comparan el resultado con el BOE de 2026 y 2027. El cambio de hora sigue la <Fragment set:html={s('dir2000', 'Directiva 2000/84/CE')} /> y el <Fragment set:html={s('rd236', 'Real Decreto 236/2002')} />: último domingo de marzo y de octubre, a la 01:00 en tiempo universal. Las fechas de 2022 a 2026 se prueban contra la <Fragment set:html={s('pcm186', 'Orden PCM/186/2022')} /> y las de 2027 a 2031 contra la <Fragment set:html={s('c2026', 'comunicación C/2026/1660')} />.</p>
+    <h2>Cuenta atrás</h2>
+    <p>El contador usa el reloj y la zona horaria de tu dispositivo. Una fiesta empieza a las 00:00 de tu hora local; el cambio de hora ocurre en un instante universal, que el contador convierte a tu hora. Si tu reloj está mal, el contador también lo estará.</p>
+    <h2>Límites</h2>
+    <p>El sitio no conoce tu convenio ni el calendario de tu empresa, que puede fijar días de libre disposición, cierres o turnos. Las fiestas locales que no son laborales, como las de un barrio, no aparecen. Fuera de los {K.MUNICIPIOS.length} municipios del buscador ves las 12 fiestas de la comunidad sin las dos locales.</p>
+    <h2>Actualización</h2>
+    <p>Releemos el BOE y los boletines cada otoño, cuando salen las fiestas del año siguiente, y siempre que nos avisan de un cambio. Si ves un error, escríbenos desde la página de <a href={route('contact', lang)}>contacto</a>; cómo corregimos está en la <a href={route('editorial', lang)}>política editorial</a>.</p>
+  </article>
+</PageLayout>

@@ -1,0 +1,50 @@
+{
+ "ccaa": "aragon",
+ "curso": "2026-2027",
+ "fuente": {
+  "titulo": "Resolución de 29 de abril de 2025, del Director General de Planificación, Centros y Formación Profesional, por la que se aprueban los calendarios escolares de los cursos 2025-2026 y 2026-2027 correspondientes a las enseñanzas de niveles no universitarios de la Comunidad Autónoma de Aragón",
+  "boletin": "BOA",
+  "fecha": "2025-05-12",
+  "url": "https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1392479120808",
+  "leido": "2026-10-28"
+ },
+ "primaria": {
+  "inicio": "2026-09-08",
+  "fin": "2027-06-18"
+ },
+ "eso": {
+  "inicio": "2026-09-08",
+  "fin": "2027-06-18"
+ },
+ "navidad": {
+  "desde": "2026-12-23",
+  "hasta": "2027-01-06"
+ },
+ "semana_santa": {
+  "desde": "2027-03-25",
+  "hasta": "2027-04-02"
+ },
+ "otros": [
+  {
+   "fecha": "2026-10-12",
+   "nombre": "Fiesta nacional"
+  },
+  {
+   "fecha": "2026-11-02",
+   "nombre": "En sustitución del Día de Todos los Santos"
+  },
+  {
+   "fecha": "2026-12-07",
+   "nombre": "En sustitución del Día de la Constitución"
+  },
+  {
+   "fecha": "2026-12-08",
+   "nombre": "Día de la Inmaculada Concepción"
+  },
+  {
+   "fecha": "2027-04-23",
+   "nombre": "Día de Aragón"
+  }
+ ],
+ "nota": "Las vacaciones de Navidad empiezan tras las clases de la mañana del 22/12/2026. Días provinciales: Huesca 18 y 19/02/2027 y 3/05/2027; Teruel 18 y 19/02/2027 y 26/04/2027; Zaragoza 13 y 14/10/2026 y 3/05/2027. Bachillerato empieza el 9/09/2026. Sin modificación en el BOA hasta el 28/10/2026."
+}

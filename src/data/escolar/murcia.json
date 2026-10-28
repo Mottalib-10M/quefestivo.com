@@ -1,0 +1,42 @@
+{
+ "ccaa": "murcia",
+ "curso": "2026-2027",
+ "fuente": {
+  "titulo": "Resolución de 8 de junio de 2026 de la Dirección General de Centros Educativos e Infraestructuras por la que se establece el período lectivo del curso escolar 2026-2027",
+  "boletin": "BORM",
+  "fecha": "2026-06-11",
+  "url": "https://www.borm.es/services/anuncio/ano/2026/numero/2748/pdf",
+  "leido": "2026-10-28"
+ },
+ "primaria": {
+  "inicio": "2026-09-08",
+  "fin": "2027-06-22"
+ },
+ "eso": {
+  "inicio": "2026-09-10",
+  "fin": "2027-06-21"
+ },
+ "navidad": {
+  "desde": "2026-12-24",
+  "hasta": "2027-01-06"
+ },
+ "semana_santa": {
+  "desde": "2027-03-22",
+  "hasta": "2027-03-29"
+ },
+ "otros": [
+  {
+   "fecha": "2026-11-27",
+   "nombre": "Festividad del patrón de Infantil, Primaria y Educación Especial (solo esas enseñanzas)"
+  },
+  {
+   "fecha": "2026-12-23",
+   "nombre": "Día no lectivo fijado por la Dirección General"
+  },
+  {
+   "fecha": "2027-01-29",
+   "nombre": "Festividad del patrón de ESO, Bachillerato y FPGB (solo esas enseñanzas)"
+  }
+ ],
+ "nota": "Además, cada municipio fija sus 2 fiestas locales y 3 días no lectivos (anexo V de la resolución, modificado para Alguazas en el BORM núm. 167 de 22/07/2026)."
+}

@@ -1,0 +1,29 @@
+{
+ "ccaa": "cataluna",
+ "curso": "2026-2027",
+ "fuente": {
+  "titulo": "Ordre EDF/66/2026, de 22 d'abril, per la qual s'estableix el calendari escolar dels cursos 2026-2027, 2027-2028 i 2028-2029 per als centres educatius no universitaris de Catalunya",
+  "boletin": "DOGC",
+  "fecha": "2026-04-27",
+  "url": "https://portaljuridic.gencat.cat/eli/es-ct/o/2026/04/22/edf66",
+  "leido": "2026-10-28"
+ },
+ "primaria": {
+  "inicio": "2026-09-08",
+  "fin": "2027-06-21"
+ },
+ "eso": {
+  "inicio": "2026-09-08",
+  "fin": "2027-06-21"
+ },
+ "navidad": {
+  "desde": "2026-12-22",
+  "hasta": "2027-01-07"
+ },
+ "semana_santa": {
+  "desde": "2027-03-20",
+  "hasta": "2027-03-29"
+ },
+ "otros": [],
+ "nota": "Sin otros días comunes a toda Cataluña: cada centro fija 4 días de libre disposición y se añaden las 2 fiestas locales. 1.º de Bachillerato termina el 17/06/2027; 2.º según la programación del centro."
+}

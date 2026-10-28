@@ -1,0 +1,68 @@
+{
+ "ccaa": "la-rioja",
+ "fuentes": {
+  "2026": {
+   "titulo": "Calendario laboral de fiestas locales 2026 (resolución de 14 de agosto de 2025 de la Dirección General de Trabajo y Salud Laboral)",
+   "boletin": "BOR",
+   "numero": "núm. 159",
+   "fecha": "2025-08-19",
+   "url": "https://ias1.larioja.org/boletin/Bor_Boletin_visor_Servlet?referencia=36153930-1-PDF-571537",
+   "leido": "2026-10-28",
+   "via": "directo"
+  },
+  "2027": {
+   "titulo": "Calendario laboral de fiestas locales 2027 (resolución de 18 de agosto de 2026 de la Dirección General de Trabajo y Salud Laboral)",
+   "boletin": "BOR",
+   "numero": "núm. 160",
+   "fecha": "2026-08-21",
+   "url": "https://ias1.larioja.org/boletin/Bor_Boletin_visor_Servlet?referencia=41863576-1-PDF-579228",
+   "leido": "2026-10-28",
+   "via": "directo"
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "Resolución 164/2025, de 8 de mayo, de la Secretaría General Técnica de la Consejería de Economía, Innovación, Empresa y Trabajo Autónomo, por la que se dispone la publicación del Acuerdo de Gobierno por el que se aprueba el calendario de festivos laborales para el año 2026 en la Comunidad Autónoma de La Rioja",
+   "boletin": "BOR",
+   "numero": "núm. 89",
+   "fecha": "2025-05-12",
+   "url": "https://ias1.larioja.org/boletin/Bor_Boletin_visor_Servlet?referencia=34613593-1-PDF-569387"
+  },
+  "2027": {
+   "titulo": "Resolución 186/2026, de 30 de abril, de la Secretaría General Técnica de la Consejería de Economía, Innovación, Empresa y Trabajo Autónomo, por la que se dispone la publicación del Acuerdo de Consejo de Gobierno por el que se aprueba el calendario de festivos laborales para el año 2027 en la Comunidad Autónoma de La Rioja",
+   "boletin": "BOR",
+   "numero": "núm. 86",
+   "fecha": "2026-05-08",
+   "url": "https://ias1.larioja.org/boletin/Bor_Boletin_visor_Servlet?referencia=40284752-1-PDF-577043"
+  }
+ },
+ "municipios": [
+  {
+   "ine": "26089",
+   "nombre": "Logroño",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-11",
+      "nombre": "San Bernabé"
+     },
+     {
+      "fecha": "2026-09-21",
+      "nombre": "San Mateo"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-06-11",
+      "nombre": "San Bernabé"
+     },
+     {
+      "fecha": "2027-09-21",
+      "nombre": "San Mateo"
+     }
+    ]
+   },
+   "nota": ""
+  }
+ ]
+}

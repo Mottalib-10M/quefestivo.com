@@ -1,0 +1,71 @@
+{
+ "ccaa": "cantabria",
+ "curso": "2026-2027",
+ "fuente": {
+  "titulo": "Orden EDU/10/2026, de 24 de marzo, por la que se establece el calendario escolar para el curso 2026-2027 para centros docentes no universitarios (CVE-2026-3151)",
+  "boletin": "BOC",
+  "numero": "núm. 75",
+  "fecha": "2026-04-21",
+  "url": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=434226",
+  "leido": "2026-10-28"
+ },
+ "primaria": {
+  "inicio": "2026-09-08",
+  "fin": "2027-06-23"
+ },
+ "eso": {
+  "inicio": "2026-09-09",
+  "fin": "2027-06-24"
+ },
+ "navidad": {
+  "desde": "2026-12-23",
+  "hasta": "2027-01-10"
+ },
+ "semana_santa": {
+  "desde": "2027-03-22",
+  "hasta": "2027-03-28"
+ },
+ "otros": [
+  {
+   "fecha": "2026-11-02",
+   "nombre": "Día no lectivo (apartado octavo de la orden)"
+  },
+  {
+   "fecha": "2026-11-03",
+   "nombre": "Día no lectivo (apartado octavo de la orden)"
+  },
+  {
+   "fecha": "2026-11-04",
+   "nombre": "Día no lectivo (apartado octavo de la orden)"
+  },
+  {
+   "fecha": "2026-11-05",
+   "nombre": "Día no lectivo (apartado octavo de la orden)"
+  },
+  {
+   "fecha": "2026-11-06",
+   "nombre": "Día no lectivo (apartado octavo de la orden)"
+  },
+  {
+   "fecha": "2027-02-10",
+   "nombre": "Día no lectivo (apartado octavo de la orden)"
+  },
+  {
+   "fecha": "2027-02-11",
+   "nombre": "Día no lectivo (apartado octavo de la orden)"
+  },
+  {
+   "fecha": "2027-02-12",
+   "nombre": "Día no lectivo (apartado octavo de la orden)"
+  },
+  {
+   "fecha": "2027-05-03",
+   "nombre": "Día no lectivo (apartado octavo de la orden)"
+  },
+  {
+   "fecha": "2027-05-04",
+   "nombre": "Día no lectivo (apartado octavo de la orden)"
+  }
+ ],
+ "nota": "La orden no define periodos de «vacaciones»: fija días no lectivos (23, 24, 28-31 de diciembre de 2026; 4, 5, 7 y 8 de enero de 2027; 22-24 de marzo de 2027) que, con festivos y fines de semana, dan las fechas de Navidad (clases hasta el 22-12 y de nuevo el 11-01-2027) y Semana Santa (clases de nuevo el 29-03-2027). El fin de clases se retrasa si un día lectivo se declara festivo local."
+}

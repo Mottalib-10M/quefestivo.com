@@ -1,0 +1,11 @@
+---
+/** Chaque page de sujet (src/content/guides), version es. */
+import ContentPage from '../../components/ContentPage.astro';
+import { GUIDES } from '../../lib/pages';
+import type { GuideDef } from '../../lib/page-types';
+export function getStaticPaths() {
+  return GUIDES.filter((page) => page.es).map((page) => ({ params: { slug: page.es!.slug }, props: { page } }));
+}
+const { page } = Astro.props as { page: GuideDef };
+---
+<ContentPage page={page} lang="es" />

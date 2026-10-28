@@ -1,0 +1,201 @@
+{
+ "ccaa": "murcia",
+ "fuentes": {
+  "2026": {
+   "titulo": "Resolución de la Dirección General de Trabajo por la que se publica el calendario de fiestas laborales para el año 2026",
+   "boletin": "BORM",
+   "numero": "núm. 163 (anuncio 3546)",
+   "fecha": "2025-07-17",
+   "url": "https://www.borm.es/services/anuncio/ano/2025/numero/3546/pdf?id=837607",
+   "leido": "2026-10-28",
+   "via": "directo (PDF oficial del BORM); sumarios BORM 164/2025 a 249/2026 revisados: sin modificación"
+  },
+  "2027": {
+   "titulo": "Resolución de la Dirección General de Trabajo por la que se publica el calendario de fiestas laborales para el año 2027",
+   "boletin": "BORM",
+   "numero": "núm. 171 (anuncio 3718)",
+   "fecha": "2026-07-27",
+   "url": "https://www.borm.es/services/anuncio/844400/pdf",
+   "leido": "2026-10-28",
+   "via": "directo (PDF oficial del BORM); sumarios BORM hasta el núm. 249 (28/10/2026) revisados: sin modificación"
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "Resolución de la Dirección General de Trabajo por la que se publica el calendario de fiestas laborales para el año 2026 (fiestas regionales acordadas por el Consejo de Gobierno el 24 de abril de 2025)",
+   "boletin": "BORM",
+   "fecha": "2025-07-17",
+   "url": "https://www.borm.es/services/anuncio/ano/2025/numero/3546/pdf?id=837607"
+  },
+  "2027": {
+   "titulo": "Resolución de la Dirección General de Trabajo por la que se publica el calendario de fiestas laborales para el año 2027 (fiestas regionales acordadas por el Consejo de Gobierno el 9 de abril de 2026)",
+   "boletin": "BORM",
+   "fecha": "2026-07-27",
+   "url": "https://www.borm.es/services/anuncio/844400/pdf"
+  }
+ },
+ "municipios": [
+  {
+   "ine": "30030",
+   "nombre": "Murcia",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-07",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-15",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-03-30",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-09-14",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "nota": "La resolución solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "30016",
+   "nombre": "Cartagena",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-03-27",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-25",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-01-07",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-09-24",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "nota": "La resolución solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "30024",
+   "nombre": "Lorca",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-11-23",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-09-08",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-11-23",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "nota": "La resolución solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "30027",
+   "nombre": "Molina de Segura",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-01-22",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-21",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-01-22",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-09-20",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "nota": "La resolución solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "30005",
+   "nombre": "Alcantarilla",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-29",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-15",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-05-14",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-09-14",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "nota": "La resolución solo da la fecha, sin nombre de la fiesta."
+  },
+  {
+   "ine": "30037",
+   "nombre": "Torre-Pacheco",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-08",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-10-07",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-10-07",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-12-27",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "nota": "La resolución solo da la fecha, sin nombre de la fiesta. Figura como «Torre Pacheco»."
+  }
+ ]
+}

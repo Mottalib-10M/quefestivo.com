@@ -1,0 +1,689 @@
+{
+ "ccaa": "cataluna",
+ "fuentes": {
+  "2026": {
+   "titulo": "Ordre EMT/208/2025, d'11 de desembre, per la qual s'estableix el calendari de festes locals a Catalunya per a l'any 2026",
+   "boletin": "DOGC",
+   "numero": "núm. 9565",
+   "fecha": "2025-12-17",
+   "url": "https://portaljuridic.gencat.cat/eli/es-ct/o/2025/12/11/emt208",
+   "leido": "2026-10-28",
+   "via": "directo (PDF oficial del DOGC servido por el Portal Jurídic de Catalunya)"
+  },
+  "2026-mod": {
+   "titulo": "Ordre EMT/3/2026, de 14 de gener, de modificació de l'Ordre EMT/208/2025, d'11 de desembre, per la qual s'estableix el calendari de festes locals a Catalunya per a l'any 2026",
+   "boletin": "DOGC",
+   "numero": "núm. 9586",
+   "fecha": "2026-01-20",
+   "url": "https://portaljuridic.gencat.cat/eli/es-ct/o/2026/01/14/emt3",
+   "leido": "2026-10-28",
+   "via": "directo"
+  },
+  "2027": {
+   "estado": "no-publicado",
+   "comprobado": "2026-10-28",
+   "donde": "DOGC / Portal Jurídic de Catalunya y CIDO (Diputació de Barcelona, calendaris oficials): solo consta l'Ordre EMT/52/2026 de festes laborals 2027, cap ordre de festes locals 2027"
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "Ordre EMT/66/2025, de 30 d'abril, per la qual s'estableix el calendari oficial de festes laborals a Catalunya per a l'any 2026",
+   "boletin": "DOGC",
+   "fecha": "2025-05-06",
+   "url": "https://portaljuridic.gencat.cat/eli/es-ct/o/2025/04/30/emt66"
+  },
+  "2027": {
+   "titulo": "Ordre EMT/52/2026, de 25 de març, per la qual s'estableix el calendari oficial de festes laborals a Catalunya per a l'any 2027",
+   "boletin": "DOGC",
+   "fecha": "2026-04-01",
+   "url": "https://portaljuridic.gencat.cat/eli/es-ct/o/2026/03/25/emt52"
+  }
+ },
+ "municipios": [
+  {
+   "ine": "08019",
+   "nombre": "Barcelona",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-09-24",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08101",
+   "nombre": "L'Hospitalet de Llobregat",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-09-24",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08279",
+   "nombre": "Terrassa",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-02",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-07-06",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08015",
+   "nombre": "Badalona",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-11",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08187",
+   "nombre": "Sabadell",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-11",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-09-07",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "25120",
+   "nombre": "Lleida",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-11",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-09-29",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "43148",
+   "nombre": "Tarragona",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-08-19",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-09-23",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08121",
+   "nombre": "Mataró",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-07-27",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08245",
+   "nombre": "Santa Coloma de Gramenet",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-09-24",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "43123",
+   "nombre": "Reus",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-29",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-09-25",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "17079",
+   "nombre": "Girona",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-07-25",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-10-29",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08205",
+   "nombre": "Sant Cugat del Vallès",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-03-03",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-06-29",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08073",
+   "nombre": "Cornellà de Llobregat",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-06-05",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08200",
+   "nombre": "Sant Boi de Llobregat",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-20",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-12-07",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08184",
+   "nombre": "Rubí",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-16",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-06-29",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08113",
+   "nombre": "Manresa",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-21",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-08-31",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08307",
+   "nombre": "Vilanova i la Geltrú",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-01-17",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-08-05",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08056",
+   "nombre": "Castelldefels",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-08-14",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-12-07",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "Fechas según la Ordre EMT/3/2026, que modifica la Ordre EMT/208/2025. L'Ordre només dona la data, sense el nom de la festa.",
+   "fuente": {
+    "2026": "2026-mod"
+   }
+  },
+  {
+   "ine": "08301",
+   "nombre": "Viladecans",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "Fechas según la Ordre EMT/3/2026, que modifica la Ordre EMT/208/2025. L'Ordre només dona la data, sense el nom de la festa.",
+   "fuente": {
+    "2026": "2026-mod"
+   }
+  },
+  {
+   "ine": "08169",
+   "nombre": "El Prat de Llobregat",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-09-28",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08096",
+   "nombre": "Granollers",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-15",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-08-28",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08266",
+   "nombre": "Cerdanyola del Vallès",
+   "fiestas": {
+    "2026": null,
+    "2027": null
+   },
+   "nota": "La Ordre EMT/208/2025 (DOGC 9565) indica «proposta no formulada» para este municipio y la Ordre EMT/3/2026 no lo modifica: sin fiestas locales publicadas para 2026."
+  },
+  {
+   "ine": "08124",
+   "nombre": "Mollet del Vallès",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-01-22",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-08-17",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08298",
+   "nombre": "Vic",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-07-06",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "17066",
+   "nombre": "Figueres",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-06-29",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08089",
+   "nombre": "Gavà",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-29",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-12-14",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08077",
+   "nombre": "Esplugues de Llobregat",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-09-21",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08211",
+   "nombre": "Sant Feliu de Llobregat",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-10-09",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "17095",
+   "nombre": "Lloret de Mar",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-07-24",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-11-18",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "17023",
+   "nombre": "Blanes",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-07",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-08-21",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08305",
+   "nombre": "Vilafranca del Penedès",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-08-31",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-09-01",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08102",
+   "nombre": "Igualada",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-07",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-08-24",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "43163",
+   "nombre": "El Vendrell",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-07-27",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-07-28",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08180",
+   "nombre": "Ripollet",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-08-31",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "17114",
+   "nombre": "Olot",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-09-07",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  },
+  {
+   "ine": "08194",
+   "nombre": "Sant Adrià de Besòs",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Festa local"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Festa local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "L'Ordre només dona la data, sense el nom de la festa."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { CONTACT_EMAIL, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { contactPageSchema } from '../../lib/seo';
+const lang = 'en';
+const description = 'Write to us if a holiday, a date or a town looks wrong or is missing, or if you would like to embed the holiday search or the long-weekend planner on your site.';
+---
+<PageLayout title={`Contact ${SITE_NAMES[lang]}: report an error`} description={description} lang={lang} noindex={true} jsonLd={[contactPageSchema({ name: 'Contact', description, path: route('contact', lang), lang })]} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Contact</h1>
+    <p>Email: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. We usually reply within a week.</p>
+    <h2>A misread date or a missing town</h2>
+    <p>Tell us the town, the year and, if you can, the link to the gazette that publishes its holidays. We check the source and correct within a few days.</p>
+    <h2>Your employer's calendar</h2>
+    <p>We do not know your collective agreement or your workplace calendar. For questions about your own case, ask your staff representatives or the labour inspectorate. Please do not send us personal data.</p>
+    <h2>Embedding a tool</h2>
+    <p>Councils, associations and media can embed the holiday search for free: <a href={route('widget', lang)}>embed</a>.</p>
+  </div>
+</PageLayout>

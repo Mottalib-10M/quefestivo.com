@@ -1,0 +1,48 @@
+{
+ "ccaa": "melilla",
+ "fuentes": {
+  "2026": {
+   "titulo": "Acuerdo del Consejo de Gobierno, de fecha 19 de septiembre de 2025, relativo a calendario laboral para el año 2026",
+   "boletin": "BOME",
+   "numero": "núm. 6.315 (BOME-A-2025-1033)",
+   "fecha": "2025-10-03",
+   "url": "https://bomemelilla.es/bome/descargar/BOME-A-2025-1033.pdf",
+   "leido": "2026-10-28",
+   "via": "directo (PDF oficial del BOME)"
+  },
+  "2027": {
+   "estado": "no-publicado",
+   "comprobado": "2026-10-28",
+   "donde": "Sumarios BOME núm. 6.395 (10/07/2026) a 6.426 (27/10/2026): ningún acuerdo de calendario laboral 2027"
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "Acuerdo del Consejo de Gobierno, de fecha 19 de septiembre de 2025, relativo a calendario laboral para el año 2026",
+   "boletin": "BOME",
+   "fecha": "2025-10-03",
+   "url": "https://bomemelilla.es/bome/descargar/BOME-A-2025-1033.pdf"
+  },
+  "2027": null
+ },
+ "municipios": [
+  {
+   "ine": "52001",
+   "nombre": "Melilla",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Día de Ntra. Sra. Virgen de la Victoria"
+     },
+     {
+      "fecha": "2026-09-17",
+      "nombre": "Día de Melilla"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El acuerdo fija las 14 fiestas de la ciudad y señala estas dos como locales."
+  }
+ ]
+}

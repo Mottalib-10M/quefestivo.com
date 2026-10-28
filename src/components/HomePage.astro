@@ -1,0 +1,80 @@
+---
+/**
+ * Portada: buscador de municipio arriba (respuesta inmediata), la respuesta en un párrafo plegado, las fechas que vienen
+ * en tarjetas, las 19 comunidades con el estado de sus fiestas locales, el texto largo en acordeones y la FAQ.
+ * Texto: src/content/home.ts; fechas: festivos.json, src/data/municipal y engine/fechas.ts.
+ */
+import PageLayout from '../layouts/PageLayout.astro';
+import Clamp from './Clamp.astro';
+import Tool from './Tool.astro';
+import Body from './Body.astro';
+import { HOME } from '../content/home';
+import { route, hasRoute, type Locale } from '../i18n/routes';
+import { GROUPS } from '../i18n/nav';
+import { t } from '../i18n/ui';
+import { helpers, sourceList } from '../lib/helpers';
+import { GUIDES } from '../lib/pages';
+import { KIT as K } from '../lib/kit';
+import { estadoLocales } from '../content/guides/_util';
+import { faqSchema, organizationSchema, websiteSchema, webPageSchema, webApplicationSchema } from '../lib/seo';
+interface Props { lang: Locale }
+const { lang } = Astro.props;
+const x = HOME[lang];
+const path = route('home', lang);
+const h = helpers(lang);
+const sources = sourceList(HOME.sources, lang);
+const jsonLd = [websiteSchema(lang), organizationSchema(lang), webPageSchema({ name: x.h1, description: x.description, path, lang }), webApplicationSchema({ name: x.h1, description: x.description, path, lang }), faqSchema(x.faqs, lang)];
+const ui = t(lang);
+const L = (es: string, en: string) => (lang === 'es' ? es : en);
+const m27 = K.movibles(2027), ch = K.cambioHora(2027);
+const cards = [
+  { id: 'semana-santa', k: L('Semana Santa 2027', 'Easter 2027'), v: `${K.fDia(m27.jueves, lang)} · ${K.fDia(m27.lunes, lang)}`, d: L('Jueves Santo y Lunes de Pascua', 'Maundy Thursday and Easter Monday') },
+  { id: 'cambio-de-hora', k: L('Cambio de hora 2027', 'Clock change 2027'), v: `${K.fDia(ch.verano, lang)} · ${K.fDia(ch.invierno, lang)}`, d: L('Horario de verano e invierno', 'Summer and winter time') },
+  { id: 'puentes-2027', k: L('Mejor puente de 2027', 'Best bridge of 2027'), v: K.fDia('2027-12-07', lang), d: L('1 día pedido, 5 libres seguidos', '1 day of leave, 5 days off in a row') },
+  { id: 'carnaval', k: L('Carnaval 2027', 'Carnival 2027'), v: K.fDia(m27.carnaval, lang), d: L('Martes de Carnaval', 'Shrove Tuesday') },
+].filter((c) => hasRoute(c.id, lang));
+const est = estadoLocales(2027);
+const regions = K.COMUNIDADES.filter((c) => hasRoute(`cl-${c.id}`, lang)).sort((a, b) => a[lang].localeCompare(b[lang], 'es'));
+---
+<PageLayout title={x.title} description={x.description} lang={lang} jsonLd={jsonLd} faqs={x.faqs} sources={sources}>
+  <header class="mb-4">
+    <h1 class="text-[1.7rem] font-bold text-navy-900 max-sm:leading-tight sm:text-3xl md:text-4xl">{x.h1}</h1>
+    <p class="mt-1 text-xs font-medium uppercase tracking-wide text-navy-500">{ui.independent}</p>
+    <p class="mt-2 text-base text-navy-700 sm:text-lg">{x.intro}</p>
+  </header>
+  <div data-outil data-chrome><Tool kind="buscador" lang={lang} idPrefix="home" /></div>
+  <Clamp text={x.resume} lang={lang} id="clamp-home" class="my-8" />
+  <section data-chrome class="mt-8">
+    <h2 class="text-2xl font-bold text-navy-900">{x.datesTitle}</h2>
+    <ul class="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+      {cards.map((c) => <li class="rounded-xl border border-navy-200 border-t-4 border-t-accent-500 bg-white p-4"><a href={route(c.id, lang)} class="block hover:underline"><span class="text-sm font-semibold text-accent-700">{c.k}</span><span class="tabular-nums mt-1 block text-xl font-bold text-navy-900">{c.v}</span><span class="mt-1 block text-sm text-navy-600">{c.d}</span></a></li>)}
+    </ul>
+  </section>
+  <section data-chrome class="mt-10">
+    <h2 class="text-2xl font-bold text-navy-900">{x.regionsTitle}</h2>
+    <p class="mt-1 text-sm text-navy-600">{x.regionsNote}</p>
+    <ul class="ccaa-grid mt-4">
+      {regions.map((c) => { const e = est.find((y) => y.c.id === c.id)!; return <li><a href={route(`cl-${c.id}`, lang)}><span class="n">{c[lang]}</span><span class={`chip ${e.conFiestas ? 'chip-on' : ''}`}>{e.conFiestas ? L(`locales 2027: ${e.conFiestas} municipios`, `2027 local days: ${e.conFiestas} towns`) : L('locales 2027 sin publicar', '2027 local days pending')}</span></a></li>; })}
+    </ul>
+  </section>
+  <section class="mt-10"><Body html={x.why(h)} path={path} lang={lang} /></section>
+  <section class="mt-10" data-chrome>
+    <h2 class="text-2xl font-bold text-navy-900">{x.familiesTitle}</h2>
+    {GROUPS.filter((g) => g.id !== 'comunidades').map((g) => {
+      const list = GUIDES.filter((p) => p.group === g.id && hasRoute(p.id, lang));
+      return list.length > 0 && (
+        <div class="mt-4">
+          <h3 class="text-lg font-semibold text-navy-900">{g.label[lang]}</h3>
+          <ul class="mt-2 grid gap-x-6 gap-y-2 text-sm sm:grid-cols-2 lg:grid-cols-3">
+            {list.map((p) => <li><a href={route(p.id, lang)} class="font-medium text-accent-700 underline-offset-2 hover:underline">{p[lang].nav}</a><span class="block text-navy-600">{p[lang].card}</span></li>)}
+          </ul>
+        </div>
+      );
+    })}
+    <p class="mt-4 text-sm text-navy-700"><a href={route('method', lang)} class="font-medium text-accent-700 underline">{L('De dónde salen las fechas y cómo se calculan', 'Where the dates come from and how they are computed')}</a> · <a href={route('about', lang)} class="font-medium text-accent-700 underline">{L('Quién publica este sitio', 'Who publishes this site')}</a></p>
+  </section>
+  <section class="mt-10">
+    <h2 class="text-2xl font-bold text-navy-900">{x.foldTitle}</h2>
+    {x.sections(h).map((s) => <details class="fold"><summary><h3 class="fold-h">{s.title}</h3></summary><div class="pb-4"><Body html={s.html} path={path} lang={lang} /></div></details>)}
+  </section>
+</PageLayout>

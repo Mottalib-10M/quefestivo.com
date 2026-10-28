@@ -1,0 +1,30 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { AUTHOR_NAME, CONTACT_EMAIL, LAST_UPDATED, REVIEW_CYCLE_MONTHS, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { displayDate } from '../../lib/format';
+const lang = 'en';
+---
+<PageLayout title={`Editorial policy of ${SITE_NAMES[lang]}: sources and corrections`} description="Where the holidays come from, which sources weigh most, how computed dates are tested, when the gazettes are read again and what happens if something on the site is wrong." lang={lang} noindex={true} breadcrumbs={[{ label: 'Editorial policy' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Editorial policy and corrections</h1>
+    <p>Planning a trip or a shift around the wrong holiday is costly. This page says where every date comes from and what we do when something goes wrong.</p>
+    <h2>Responsibility</h2><p>{AUTHOR_NAME} is responsible for the content and the tools. Contact: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+    <h2>Order of sources</h2>
+    <ol>
+      <li><strong>BOE</strong>: the Directorate-General for Labour's yearly public-holiday resolutions, the Workers' Statute, Royal Decree 2001/1983 and Royal Decree 236/2002;</li>
+      <li><strong>Regional and provincial gazettes</strong>: each region's holiday decree and the local-holiday resolutions, with later corrections;</li>
+      <li><strong>Official Journal of the European Union</strong>, for the summer-time calendar.</li>
+    </ol>
+    <p>We do not use the press, blogs or council websites as the source of a date: if a council announces its holidays before the gazette does, we wait for the gazette.</p>
+    <h2>Computed dates</h2>
+    <p>Easter, Carnival, Corpus Christi, Mother's Day and the clock change are computed with fixed rules, tested automatically against the dates published in the BOE and the Official Journal. The site is not published if a test fails.</p>
+    <h2>Review</h2>
+    <p>Every holiday carries its gazette and reading date. Full review at least every {REVIEW_CYCLE_MONTHS} months, and every autumn when the BOE resolution and next year's local holidays come out. Last review: {displayDate(LAST_UPDATED, 'en-GB')}.</p>
+    <h2>Corrections</h2>
+    <p>If you report an error, we check the source and correct within a few days. Substantive corrections show in the update date.</p>
+    <h2>Independence</h2>
+    <p>No advertiser influences the content; there are no affiliate links and no deals with travel agencies. We collect no contact details and sell nothing.</p>
+    <p>More about the publisher in <a href={route('about', lang)}>about</a> and about the calculations in the <a href={route('method', lang)}>method</a>.</p>
+  </div>
+</PageLayout>

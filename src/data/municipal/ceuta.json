@@ -1,0 +1,48 @@
+{
+ "ccaa": "ceuta",
+ "fuentes": {
+  "2026": {
+   "titulo": "Resolución de 15 de septiembre de 2025, de la Delegación del Gobierno en Ceuta, por la que se publica la relación de fiestas locales de la Ciudad Autónoma de Ceuta para el año 2026",
+   "boletin": "BOCCE",
+   "numero": "núm. 6.549 (anuncio 580)",
+   "fecha": "2025-09-19",
+   "url": "https://www.ceuta.es/ceuta/component/jdownloads/finish/1960-septiembre/22923-bocce-6549-19-09-2025?Itemid=0",
+   "leido": "2026-10-28",
+   "via": "directo (PDF del BOCCE en ceuta.es)"
+  },
+  "2027": {
+   "estado": "no-publicado",
+   "comprobado": "2026-10-28",
+   "donde": "BOCCE ordinarios y extraordinarios del 21/07/2026 (núm. 6.636) al 27/10/2026 (núm. 6.664): ninguna resolución de fiestas locales 2027"
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "Decreto de 29 de agosto de 2025 de la Presidencia de la Ciudad de Ceuta, por el que se determina el calendario de fiestas laborales de la Ciudad de Ceuta para el año 2026 (relación de festivos publicada en el BOCCE núm. 6.551, anuncio 591)",
+   "boletin": "BOCCE",
+   "fecha": "2025-09-26",
+   "url": "https://www.ceuta.es/ceuta/component/jdownloads/finish/1960-septiembre/22934-bocce-6551-26-09-2025?Itemid=0"
+  },
+  "2027": null
+ },
+ "municipios": [
+  {
+   "ine": "51001",
+   "nombre": "Ceuta",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-03-20",
+      "nombre": "Fiesta de Culminación de Ramadán Eid al-Fitr"
+     },
+     {
+      "fecha": "2026-06-13",
+      "nombre": "San Antonio"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  }
+ ]
+}

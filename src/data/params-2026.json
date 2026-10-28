@@ -1,0 +1,15 @@
+{
+  "_lisezmoi": "Fuentes oficiales del sitio, leídas el día indicado. Las fechas de las fiestas viven en festivos.json (BOE) y en src/data/municipal (boletines autonómicos y provinciales); las reglas de fechas en src/lib/engine/fechas.ts.",
+  "year": 2026,
+  "retrieved_at": "2026-10-28",
+  "valid_from": "2026-01-01",
+  "valid_to": "2027-12-31",
+  "sources": {
+    "et": { "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430", "label": { "es": "Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015), artículo 37.2: catorce fiestas laborales al año", "en": "Workers' Statute (Royal Legislative Decree 2/2015), article 37.2: fourteen public holidays a year" } },
+    "rd2001": { "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1983-20906", "label": { "es": "Real Decreto 2001/1983, de 28 de julio, artículos 45 a 47: fiestas laborales, sustituciones y fiestas locales", "en": "Royal Decree 2001/1983 of 28 July, articles 45 to 47: public holidays, substitutions and local holidays" } },
+    "rd236": { "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2002-4221", "label": { "es": "Real Decreto 236/2002, de 1 de marzo, por el que se establece la hora de verano", "en": "Royal Decree 236/2002 of 1 March establishing summer time" } },
+    "pcm186": { "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4026", "label": { "es": "Orden PCM/186/2022: calendario de la hora de verano de 2022 a 2026 (BOE de 15 de marzo de 2022)", "en": "Order PCM/186/2022: summer-time calendar 2022 to 2026 (BOE of 15 March 2022)" } },
+    "c2026": { "url": "https://www.boe.es/doue/2026/1660/Z00001-00001.pdf", "label": { "es": "Comunicación de la Comisión C/2026/1660: calendario de la hora de verano de 2027 a 2031 (DOUE de 18 de marzo de 2026)", "en": "Commission Communication C/2026/1660: summer-time calendar 2027 to 2031 (Official Journal of 18 March 2026)" } },
+    "dir2000": { "url": "https://eur-lex.europa.eu/eli/dir/2000/84/oj", "label": { "es": "Directiva 2000/84/CE relativa a las disposiciones sobre la hora de verano", "en": "Directive 2000/84/EC on summer-time arrangements" } }
+  }
+}

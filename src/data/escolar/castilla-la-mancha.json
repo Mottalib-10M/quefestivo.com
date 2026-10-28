@@ -1,0 +1,50 @@
+{
+ "ccaa": "castilla-la-mancha",
+ "curso": "2026-2027",
+ "fuente": {
+  "titulo": "Orden 79/2026, de 26 de mayo, de la Consejería de Educación, Cultura y Deportes, por la que se establece el calendario escolar para el curso 2026/2027, y los criterios y el procedimiento para la elaboración de los calendarios escolares provinciales en enseñanzas no universitarias de la comunidad de Castilla-La Mancha",
+  "boletin": "DOCM",
+  "fecha": "2026-06-03",
+  "url": "https://docm.jccm.es/docm/verArchivoHtml.do?ruta=2026/06/03/html/2026_4106.html&tipo=rutaDocm",
+  "leido": "2026-10-28"
+ },
+ "primaria": {
+  "inicio": "2026-09-08",
+  "fin": "2027-06-22"
+ },
+ "eso": {
+  "inicio": "2026-09-08",
+  "fin": "2027-06-22"
+ },
+ "navidad": {
+  "desde": "2026-12-23",
+  "hasta": "2027-01-08"
+ },
+ "semana_santa": {
+  "desde": "2027-03-22",
+  "hasta": "2027-03-29"
+ },
+ "otros": [
+  {
+   "fecha": "2026-11-20",
+   "nombre": "Día de la Enseñanza"
+  },
+  {
+   "fecha": "2026-12-07",
+   "nombre": "Día no lectivo"
+  },
+  {
+   "fecha": "2027-02-08",
+   "nombre": "Día de libre disposición (si se cumplen los 175 días lectivos)"
+  },
+  {
+   "fecha": "2027-02-09",
+   "nombre": "Día de libre disposición (si se cumplen los 175 días lectivos)"
+  },
+  {
+   "fecha": "2027-05-28",
+   "nombre": "Día no lectivo"
+  }
+ ],
+ "nota": "Bachillerato: mismas fechas (08/09/2026-22/06/2027), salvo 2.º, que termina según la prueba de acceso a la universidad. Las Delegaciones Provinciales de Educación aprueban además un calendario escolar por provincia (art. 5) que añade las fiestas locales de cada localidad."
+}

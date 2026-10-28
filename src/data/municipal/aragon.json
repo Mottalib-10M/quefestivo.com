@@ -1,0 +1,89 @@
+{
+ "ccaa": "aragon",
+ "fuentes": {
+  "2026": {
+   "titulo": "Resolución de 4 de noviembre de 2025, del Director General de Trabajo, por la que se determinan las fiestas laborales, de carácter retribuido, no recuperables e inhábiles, para el año 2026, en los municipios de las provincias de Huesca, Teruel y Zaragoza",
+   "boletin": "BOA",
+   "numero": "núm. 225",
+   "fecha": "2025-11-20",
+   "url": "https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1421874360606",
+   "leido": "2026-10-28",
+   "via": "directo (texto oficial por la API de datos abiertos del BOA, documento 007953759); la Resolución complementaria de 10 de marzo de 2026 (BOA núm. 56, 23/03/2026) no afecta a Zaragoza, Huesca ni Teruel"
+  },
+  "2027": {
+   "estado": "no-publicado",
+   "comprobado": "2026-10-28",
+   "donde": "BOA (datos abiertos, todos los boletines del 21/11/2025 al 28/10/2026): solo consta el Decreto 163/2026 de fiestas autonómicas 2027; las propuestas municipales vencían el 15/10/2026"
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "Decreto 70/2025, de 9 de julio, del Gobierno de Aragón, por el que se fijan las fiestas laborables retribuidas, no recuperables e inhábiles para el año 2026 en la Comunidad Autónoma de Aragón",
+   "boletin": "BOA",
+   "fecha": "2025-07-16",
+   "url": "https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1403827540808"
+  },
+  "2027": {
+   "titulo": "Decreto 163/2026, de 9 de septiembre, del Gobierno de Aragón, por el que se fijan las fiestas laborales retribuidas, no recuperables e inhábiles para el año 2027 en la Comunidad Autónoma de Aragón",
+   "boletin": "BOA",
+   "fecha": "2026-09-16",
+   "url": "https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1466225130707"
+  }
+ },
+ "municipios": [
+  {
+   "ine": "50297",
+   "nombre": "Zaragoza",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-01-29",
+      "nombre": "San Valero"
+     },
+     {
+      "fecha": "2026-03-05",
+      "nombre": "Cincomarzada"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "22125",
+   "nombre": "Huesca",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-01-22",
+      "nombre": "San Vicente"
+     },
+     {
+      "fecha": "2026-08-10",
+      "nombre": "San Lorenzo"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "44216",
+   "nombre": "Teruel",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-07",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-07-13",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo solo da la fecha, sin nombre de la fiesta."
+  }
+ ]
+}

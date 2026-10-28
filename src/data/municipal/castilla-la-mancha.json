@@ -1,0 +1,296 @@
+{
+ "ccaa": "castilla-la-mancha",
+ "fuentes": {
+  "2026": {
+   "titulo": "Anuncio de 04/12/2025, de la Dirección General de Autónomos, Trabajo y Economía Social, por el que se da publicidad a la relación de las fiestas de carácter local, retribuidas y no recuperables para el año 2026, de los municipios de la comunidad autónoma de Castilla-La Mancha",
+   "boletin": "DOCM",
+   "numero": "núm. 240",
+   "fecha": "2025-12-12",
+   "url": "https://docm.jccm.es/docm/verArchivoHtml.do?ruta=2025/12/12/html/2025_9468.html&tipo=rutaDocm",
+   "leido": "2026-10-28",
+   "via": "directo",
+   "boletines_provinciales": [
+    {
+     "provincia": "Albacete",
+     "titulo": "Resolución de 19 de noviembre de 2025 de la Delegación Provincial de la Consejería de Economía, Empresas y Empleo en Albacete (calendario de fiestas laborales locales 2026)",
+     "boletin": "BOP Albacete",
+     "numero": "núm. 138",
+     "fecha": "2025-11-26",
+     "url": "https://bop.dipualba.es/servicesajax/descararchivobopcompleto/?a=22627"
+    },
+    {
+     "provincia": "Ciudad Real",
+     "titulo": "Resolución de 13 de octubre de 2025 de la Delegación Provincial de Economía, Empresas y Empleo en Ciudad Real (fiestas locales 2026)",
+     "boletin": "BOP Ciudad Real",
+     "numero": "núm. 199",
+     "fecha": "2025-10-15",
+     "url": "https://se1.dipucr.es:4443/SIGEM_BuscadorDocsWeb/getDocument.do?entidad=005&doc=7160514"
+    },
+    {
+     "provincia": "Cuenca",
+     "titulo": "Resolución de 10/11/2025 de la Delegación Provincial de la Consejería de Economía, Empresas y Empleo en Cuenca (festivos locales 2026)",
+     "boletin": "BOP Cuenca",
+     "numero": "núm. 132",
+     "fecha": "2025-11-14",
+     "url": null,
+     "nota": "Sede del BOP de Cuenca inaccesible (403); texto leído en el DOCM consolidado"
+    },
+    {
+     "provincia": "Guadalajara",
+     "titulo": "Anuncio de 20 de noviembre de 2025 de la Delegación Provincial de la Consejería de Economía, Empresas y Empleo de Guadalajara (fiestas locales 2026)",
+     "boletin": "BOP Guadalajara",
+     "numero": "núm. 225",
+     "fecha": "2025-11-24",
+     "url": "https://boletin.dguadalajara.es/boletin/pdf/pdf2025_3507.pdf"
+    },
+    {
+     "provincia": "Toledo",
+     "titulo": "Resolución de 13 de octubre de 2025 de la Delegación Provincial de la Consejería de Economía, Empresas y Empleo en Toledo (fiestas locales 2026)",
+     "boletin": "BOP Toledo",
+     "numero": "núm. 199",
+     "fecha": "2025-10-17",
+     "url": "https://bop.diputoledo.es/webEbop/DocGet?bop=199&insert_year=2025&publication_date=17102025&anexo=0"
+    }
+   ]
+  },
+  "2027-toledo": {
+   "titulo": "Resolución de 16 de octubre de 2026 de la Delegación Provincial de la Consejería de Economía, Empresas y Empleo en Toledo (Normas laborales. Fiestas locales 2027)",
+   "boletin": "BOP Toledo",
+   "numero": "núm. 203",
+   "fecha": "2026-10-22",
+   "url": "https://bop.diputoledo.es/webEbop/DocGet?bop=203&insert_year=2026&publication_date=22102026&anexo=0",
+   "leido": "2026-10-28",
+   "via": "directo"
+  },
+  "2027-ciudad-real": {
+   "titulo": "Resolución de 19 de octubre de 2026 de la Delegación Provincial de Economía, Empresas y Empleo en Ciudad Real: relación de fiestas locales de los municipios de la provincia de Ciudad Real a celebrar durante el año 2027",
+   "boletin": "BOP Ciudad Real",
+   "numero": "núm. 202",
+   "fecha": "2026-10-20",
+   "url": "https://se1.dipucr.es:4443/SIGEM_BuscadorDocsWeb/getDocument.do?entidad=005&doc=7828286",
+   "leido": "2026-10-28",
+   "via": "directo"
+  },
+  "2027-albacete": {
+   "estado": "no-publicado",
+   "comprobado": "2026-10-28",
+   "donde": "BOP Albacete (sumarios hasta el núm. 126, 2026-10-28) y DOCM (sumarios hasta el 2026-10-28)"
+  },
+  "2027-guadalajara": {
+   "estado": "no-publicado",
+   "comprobado": "2026-10-28",
+   "donde": "BOP Guadalajara (anuncios hasta el 2026-10-28) y DOCM (sumarios hasta el 2026-10-28)"
+  },
+  "2027-cuenca": {
+   "estado": "no-publicado",
+   "comprobado": "2026-10-28",
+   "donde": "DOCM (sumarios hasta el 2026-10-28); la sede del BOP de Cuenca responde 403 y no se pudo consultar"
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "Decreto 44/2025, de 17 de junio, por el que se fija el calendario laboral para el año 2026 en la comunidad autónoma de Castilla-La Mancha",
+   "boletin": "DOCM",
+   "fecha": "2025-06-26",
+   "url": "https://docm.jccm.es/docm/verArchivoHtml.do?ruta=2025/06/26/html/2025_5159.html&tipo=rutaDocm"
+  },
+  "2027": {
+   "titulo": "Decreto 34/2026, de 23 de junio, por el que se fija el calendario laboral para el año 2027 en la comunidad autónoma de Castilla-La Mancha",
+   "boletin": "DOCM",
+   "fecha": "2026-07-13",
+   "url": "https://docm.jccm.es/docm/verArchivoHtml.do?ruta=2026/07/13/html/2026_5228.html&tipo=rutaDocm"
+  }
+ },
+ "municipios": [
+  {
+   "ine": "02003",
+   "nombre": "Albacete",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-24",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "fuente": {
+    "2026": "2026",
+    "2027": "2027-albacete"
+   },
+   "nota": "El texto oficial solo da las fechas, sin denominación de las fiestas. 2027: relación provincial aún no publicada a 2026-10-28."
+  },
+  {
+   "ine": "19130",
+   "nombre": "Guadalajara",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-18",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "fuente": {
+    "2026": "2026",
+    "2027": "2027-guadalajara"
+   },
+   "nota": "El texto oficial solo da las fechas, sin denominación de las fiestas. 2027: relación provincial aún no publicada a 2026-10-28."
+  },
+  {
+   "ine": "45168",
+   "nombre": "Toledo",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-01-23",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-11-26",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-03-19",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-03-29",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "fuente": {
+    "2026": "2026",
+    "2027": "2027-toledo"
+   },
+   "nota": "El texto oficial solo da las fechas, sin denominación de las fiestas."
+  },
+  {
+   "ine": "45165",
+   "nombre": "Talavera de la Reina",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-15",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-05-15",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-09-08",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "fuente": {
+    "2026": "2026",
+    "2027": "2027-toledo"
+   },
+   "nota": "El texto oficial solo da las fechas, sin denominación de las fiestas."
+  },
+  {
+   "ine": "13034",
+   "nombre": "Ciudad Real",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-08-22",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-05-17",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-07-31",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "fuente": {
+    "2026": "2026",
+    "2027": "2027-ciudad-real"
+   },
+   "nota": "El texto oficial solo da las fechas, sin denominación de las fiestas."
+  },
+  {
+   "ine": "16078",
+   "nombre": "Cuenca",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-01",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-21",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "fuente": {
+    "2026": "2026",
+    "2027": "2027-cuenca"
+   },
+   "nota": "El texto oficial solo da las fechas, sin denominación de las fiestas. 2027: relación provincial aún no publicada a 2026-10-28."
+  },
+  {
+   "ine": "13071",
+   "nombre": "Puertollano",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-21",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-05-13",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-09-08",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "fuente": {
+    "2026": "2026",
+    "2027": "2027-ciudad-real"
+   },
+   "nota": "El texto oficial solo da las fechas, sin denominación de las fiestas."
+  }
+ ]
+}

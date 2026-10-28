@@ -1,0 +1,20 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { CONTACT_EMAIL, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { contactPageSchema } from '../../lib/seo';
+const lang = 'es';
+const description = 'Escríbenos si una fiesta, una fecha o un municipio parece incorrecto o falta, o si quieres insertar el buscador de festivos o el calculador de puentes en tu web.';
+---
+<PageLayout title={`Contacto de ${SITE_NAMES[lang]}: avisar de un error`} description={description} lang={lang} noindex={true} jsonLd={[contactPageSchema({ name: 'Contacto', description, path: route('contact', lang), lang })]} breadcrumbs={[{ label: 'Contacto' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Contacto</h1>
+    <p>Correo: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. Solemos responder en una semana.</p>
+    <h2>Una fecha mal leída o un municipio que falta</h2>
+    <p>Indica el municipio, el año y, si puedes, el enlace al boletín que publica sus fiestas. Lo comprobamos en la fuente y corregimos en pocos días.</p>
+    <h2>Tu calendario de empresa</h2>
+    <p>No conocemos tu convenio ni el calendario de tu centro de trabajo. Para dudas sobre tu caso, dirígete a la representación de los trabajadores o a la inspección de trabajo. No nos envíes datos personales.</p>
+    <h2>Insertar una herramienta</h2>
+    <p>Ayuntamientos, asociaciones y medios pueden insertar gratis el buscador de festivos: <a href={route('widget', lang)}>insertar</a>.</p>
+  </div>
+</PageLayout>

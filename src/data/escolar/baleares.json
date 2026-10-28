@@ -1,0 +1,46 @@
+{
+ "ccaa": "baleares",
+ "curso": "2026-2027",
+ "fuente": {
+  "titulo": "Resolución del consejero de Educación y Universidades por la que se establece el calendario escolar del curso 2026-2027 para los centros docentes no universitarios de la comunidad autónoma de las Illes Balears",
+  "boletin": "BOIB",
+  "fecha": "2026-03-31",
+  "url": "https://www.caib.es/eboibfront/es/2026/12252/713662/resolucion-del-consejero-de-educacion-y-universida",
+  "leido": "2026-10-28"
+ },
+ "primaria": {
+  "inicio": "2026-09-10",
+  "fin": "2027-06-18"
+ },
+ "eso": {
+  "inicio": "2026-09-10",
+  "fin": "2027-06-18"
+ },
+ "navidad": {
+  "desde": "2026-12-23",
+  "hasta": "2027-01-06"
+ },
+ "semana_santa": {
+  "desde": "2027-03-25",
+  "hasta": "2027-04-04"
+ },
+ "otros": [
+  {
+   "fecha": "2026-10-12",
+   "nombre": "Fiesta nacional de España"
+  },
+  {
+   "fecha": "2026-12-08",
+   "nombre": "Inmaculada Concepción"
+  },
+  {
+   "fecha": "2027-02-26",
+   "nombre": "Fiesta escolar unificada"
+  },
+  {
+   "fecha": "2027-03-01",
+   "nombre": "Día de las Illes Balears"
+  }
+ ],
+ "nota": "La modificación del BOIB núm. 82 (30/06/2026) solo afecta a horarios de centros concertados, no a las fechas. Se añaden las 2 fiestas locales y 2 días de libre disposición por centro."
+}

@@ -1,0 +1,86 @@
+{
+ "ccaa": "melilla",
+ "curso": "2026-2027",
+ "fuente": {
+  "titulo": "Resolución del Director General de Planificación y Gestión Educativa por la que se establece el calendario escolar para el curso 2026-2027 en los centros docentes no universitarios de la Ciudad de Melilla",
+  "boletin": "Ministerio de Educación, Formación Profesional y Deportes (portal oficial)",
+  "fecha": "2026-06-10",
+  "url": "https://www.educacionfpydeportes.gob.es/gl/dam/jcr:97a96fff-bae7-4388-a5ec-bb6b7e564abc/resolucion-calendario-escolar-26-27.pdf",
+  "leido": "2026-10-28"
+ },
+ "primaria": {
+  "inicio": "2026-09-09",
+  "fin": "2027-06-23"
+ },
+ "eso": {
+  "inicio": "2026-09-09",
+  "fin": "2027-06-23"
+ },
+ "navidad": {
+  "desde": "2026-12-23",
+  "hasta": "2027-01-07"
+ },
+ "semana_santa": {
+  "desde": "2027-03-22",
+  "hasta": "2027-03-26"
+ },
+ "otros": [
+  {
+   "fecha": "2026-09-17",
+   "nombre": "Día de Melilla"
+  },
+  {
+   "fecha": "2026-09-21",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2026-10-12",
+   "nombre": "Fiesta Nacional de España"
+  },
+  {
+   "fecha": "2026-11-02",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2026-12-07",
+   "nombre": "Lunes siguiente al Día de la Constitución (festivo local)"
+  },
+  {
+   "fecha": "2026-12-08",
+   "nombre": "Inmaculada Concepción"
+  },
+  {
+   "fecha": "2027-01-08",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2027-03-09",
+   "nombre": "Final del Ramadán"
+  },
+  {
+   "fecha": "2027-03-29",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2027-03-30",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2027-03-31",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2027-04-01",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2027-04-02",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2027-05-17",
+   "nombre": "Fiesta musulmana del Sacrificio (Eid al-Adha)"
+  }
+ ],
+ "nota": "Fecha = firma electrónica (10/06/2026); no publicada en boletín. El 8/09/2026 (Virgen de la Victoria) es anterior al inicio de clases."
+}

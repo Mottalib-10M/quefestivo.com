@@ -1,0 +1,600 @@
+{
+ "ccaa": "madrid",
+ "nota_nombres": "La Resolución del BOCM solo da las fechas, sin denominación de la fiesta: se indica «Fiesta local».",
+ "fuentes": {
+  "2026": {
+   "titulo": "Resolución de 2 de diciembre de 2025, de la Dirección General de Trabajo, por la que se declaran las fiestas laborales de ámbito local en la Comunidad de Madrid para el año 2026",
+   "boletin": "BOCM",
+   "numero": "núm. 296",
+   "fecha": "2025-12-12",
+   "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/12/12/BOCM-20251212-34.PDF",
+   "leido": "2026-10-28",
+   "via": "directo"
+  },
+  "2026-mod-1": {
+   "titulo": "Resolución de 15 de diciembre de 2025, de la Dirección General de Trabajo, por la que se modifica parcialmente la Resolución de 2 de diciembre de 2025 (fiestas laborales de ámbito local 2026)",
+   "boletin": "BOCM",
+   "numero": "núm. 309",
+   "fecha": "2025-12-29",
+   "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/12/29/BOCM-20251229-19.PDF",
+   "leido": "2026-10-28",
+   "via": "directo"
+  },
+  "2026-mod-2": {
+   "titulo": "Resolución de 22 de diciembre de 2025, de la Dirección General de Trabajo, por la que se modifica parcialmente la Resolución de 2 de diciembre de 2025 (fiestas laborales de ámbito local 2026)",
+   "boletin": "BOCM",
+   "numero": "núm. 6",
+   "fecha": "2026-01-08",
+   "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/01/08/BOCM-20260108-18.PDF",
+   "leido": "2026-10-28",
+   "via": "directo"
+  },
+  "2027": {
+   "estado": "no-publicado",
+   "comprobado": "2026-10-28",
+   "donde": "BOCM (búsqueda de la resolución de la Dirección General de Trabajo sobre fiestas locales 2027; la de 2026 salió el 12-12-2025). Sí está publicado el Decreto 82/2026 (fiestas autonómicas 2027)."
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "Decreto 75/2025, de 24 de septiembre, del Consejo de Gobierno, por el que se establecen las fiestas laborales para el año 2026 en la Comunidad de Madrid",
+   "boletin": "BOCM",
+   "fecha": "2025-09-25",
+   "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/25/BOCM-20250925-16.PDF"
+  },
+  "2027": {
+   "titulo": "Decreto 82/2026, de 30 de septiembre, del Consejo de Gobierno, por el que se establecen las fiestas laborales para el año 2027 en la Comunidad de Madrid",
+   "boletin": "BOCM",
+   "fecha": "2026-10-01",
+   "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/10/01/BOCM-20261001-19.PDF"
+  }
+ },
+ "municipios": [
+  {
+   "ine": "28079",
+   "nombre": "Madrid",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-15",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-11-09",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28092",
+   "nombre": "Móstoles",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-15",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-12",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28005",
+   "nombre": "Alcalá de Henares",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-08-06",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-10-09",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28074",
+   "nombre": "Leganés",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-08-14",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-10-09",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28065",
+   "nombre": "Getafe",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-14",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28058",
+   "nombre": "Fuenlabrada",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-09-14",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-12-26",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28007",
+   "nombre": "Alcorcón",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-04-06",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28148",
+   "nombre": "Torrejón de Ardoz",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-22",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-06-23",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28106",
+   "nombre": "Parla",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-15",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-14",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28006",
+   "nombre": "Alcobendas",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-01-24",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-05-15",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28123",
+   "nombre": "Rivas-Vaciamadrid",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-14",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-05-15",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28127",
+   "nombre": "Las Rozas de Madrid",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-04",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-29",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28134",
+   "nombre": "San Sebastián de los Reyes",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-01-20",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-08-28",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28115",
+   "nombre": "Pozuelo de Alarcón",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-07-16",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-07",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28161",
+   "nombre": "Valdemoro",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-11",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28049",
+   "nombre": "Coslada",
+   "fuente": {
+    "2026": "2026-mod-1"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-15",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-06-15",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "Fechas modificadas por la Resolución de 15 de diciembre de 2025 (BOCM núm. 309, 29-12-2025)."
+  },
+  {
+   "ine": "28080",
+   "nombre": "Majadahonda",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-09-14",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-11-25",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28047",
+   "nombre": "Collado Villalba",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-12",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-07-24",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28022",
+   "nombre": "Boadilla del Monte",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-01",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-10-05",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28013",
+   "nombre": "Aranjuez",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-29",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-04",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28014",
+   "nombre": "Arganda del Rey",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-09-11",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-14",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28045",
+   "nombre": "Colmenar Viejo",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-08-31",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-01",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28113",
+   "nombre": "Pinto",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-03-19",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-05-15",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28903",
+   "nombre": "Tres Cantos",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-03-21",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-06-24",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28130",
+   "nombre": "San Fernando de Henares",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-15",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-05-29",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "28015",
+   "nombre": "Arroyomolinos",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-04",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-06-05",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  }
+ ]
+}

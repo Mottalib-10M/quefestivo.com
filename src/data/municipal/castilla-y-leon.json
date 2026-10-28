@@ -1,0 +1,478 @@
+{
+ "ccaa": "castilla-y-leon",
+ "nota_fuentes": "En Castilla y León las fiestas locales las fija cada Oficina Territorial de Trabajo y se publican en el BOP de cada provincia (una clave de fuente por provincia y año).",
+ "fuentes": {
+  "2026-avila": {
+   "titulo": "Anuncio de la Oficina Territorial de Trabajo de Ávila (16-09-2025): calendario de fiestas de carácter local, año 2026",
+   "boletin": "BOP de Ávila",
+   "numero": "núm. 186 (anuncio 1884/25)",
+   "fecha": "2025-09-26",
+   "url": "https://www.diputacionavila.es/bops/2025/26-09-2025/26-09-2025_188425.pdf",
+   "leido": "2026-10-28",
+   "via": "directo"
+  },
+  "2027-avila": {
+   "titulo": "Anuncio de la Oficina Territorial de Trabajo de Ávila (02-07-2026): calendario de fiestas de carácter local, año 2027",
+   "boletin": "BOP de Ávila",
+   "numero": "núm. 129 (anuncio 1448/26)",
+   "fecha": "2026-07-08",
+   "url": "https://trabajoyprevencion.jcyl.es/web/jcyl/binarios/674/652/PUBLICACION%20FIESTAS%20BOP%20AVILA.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+   "leido": "2026-10-28",
+   "via": "copia del BOP publicada por la Junta de Castilla y León (trabajoyprevencion.jcyl.es)"
+  },
+  "2026-burgos": {
+   "titulo": "Resolución de la Oficina Territorial de Trabajo de Burgos (22-08-2025) sobre calendario laboral de fiestas locales, retribuidas y no recuperables, para el año 2026",
+   "boletin": "BOP de Burgos",
+   "numero": "núm. 165",
+   "fecha": "2025-09-03",
+   "url": "https://trabajoyprevencion.jcyl.es/web/jcyl/binarios/911/2/02%20BOP%20FIESTAS%20LOCALES%20BURGOS%2026,0.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+   "leido": "2026-10-28",
+   "via": "copia del BOP publicada por la Junta de Castilla y León (trabajoyprevencion.jcyl.es, Calendario laboral); el servidor del BOP no responde desde aquí; anexo escaneado leído por OCR"
+  },
+  "2027-burgos": {
+   "titulo": "Resolución de la Oficina Territorial de Trabajo de Burgos (21-07-2026) sobre calendario de fiestas locales, retribuidas y no recuperables, para el año 2027",
+   "boletin": "BOP de Burgos",
+   "numero": "núm. 145 (C.V.E. BOPBUR-2026-03251)",
+   "fecha": "2026-08-04",
+   "url": "https://trabajoyprevencion.jcyl.es/web/jcyl/binarios/532/765/Publicacion%20Fiestas%20Locales%20-%20bopbur-2026-145.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+   "leido": "2026-10-28",
+   "via": "copia del BOP publicada por la Junta de Castilla y León (trabajoyprevencion.jcyl.es, Calendario laboral); el servidor del BOP no responde desde aquí; anexo con fuentes no extraíbles, leído por OCR"
+  },
+  "2026-leon": {
+   "titulo": "Resolución de 15 de septiembre de 2025, de la Oficina Territorial de Trabajo de León, por la que se fijan las fiestas locales de los municipios de la provincia de León para el año 2026",
+   "boletin": "BOP de León",
+   "numero": "núm. 177 (BOP-LE-2025-177019)",
+   "fecha": "2025-09-17",
+   "url": "https://trabajoyprevencion.jcyl.es/web/jcyl/binarios/868/589/03%20BOP%20FIESTAS%20LOCALES%20LEON%2026,0.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+   "leido": "2026-10-28",
+   "via": "copia del BOP publicada por la Junta de Castilla y León (trabajoyprevencion.jcyl.es)"
+  },
+  "2027-leon": {
+   "titulo": "Resolución de 20 de julio de 2026, de la Oficina Territorial de Trabajo de León, por la que se fijan las fiestas locales de los municipios de la provincia de León para el año 2027",
+   "boletin": "BOP de León",
+   "numero": "núm. 144 (BOP-LE-2026-144033)",
+   "fecha": "2026-07-31",
+   "url": "https://trabajoyprevencion.jcyl.es/web/jcyl/binarios/388/708/RESOLUCION%20Y%20LISTADO%20-%20BOP%20144-%20de%2031-07-2026.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+   "leido": "2026-10-28",
+   "via": "copia del BOP publicada por la Junta de Castilla y León (trabajoyprevencion.jcyl.es); anexo con fuentes no extraíbles, leído por OCR"
+  },
+  "2026-palencia": {
+   "titulo": "Acuerdo de la Oficina Territorial de Trabajo de Palencia (12-09-2025) de determinación de las fiestas locales 2026, a efectos laborales, en los municipios de la provincia de Palencia",
+   "boletin": "BOP de Palencia",
+   "numero": "núm. 112",
+   "fecha": "2025-09-17",
+   "url": "https://trabajoyprevencion.jcyl.es/web/jcyl/binarios/358/890/04%20BOP%20FIESTAS%20LOCALES%20PALENCIA%2026,0.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+   "leido": "2026-10-28",
+   "via": "copia del BOP publicada por la Junta de Castilla y León (trabajoyprevencion.jcyl.es)"
+  },
+  "2027-palencia": {
+   "titulo": "Acuerdo de la Oficina Territorial de Trabajo de Palencia (07-07-2026) de determinación de las fiestas locales 2027, a efectos laborales, en los municipios de la provincia de Palencia",
+   "boletin": "BOP de Palencia",
+   "numero": "núm. 83",
+   "fecha": "2026-07-13",
+   "url": "https://trabajoyprevencion.jcyl.es/web/jcyl/binarios/124/555/PUBLICACION%20BOP%20FIESTAS%20LOCALES%202027%2013-7-2026.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+   "leido": "2026-10-28",
+   "via": "copia del BOP publicada por la Junta de Castilla y León (trabajoyprevencion.jcyl.es)"
+  },
+  "2026-salamanca": {
+   "titulo": "Acuerdo de 27 de noviembre de 2025, de la Oficina Territorial de Trabajo de Salamanca, para la determinación de las fiestas locales del año 2026 en los municipios que se indican (relación complementaria del acuerdo de 16-09-2025, BOP núm. 181 de 19-09-2025)",
+   "boletin": "BOP de Salamanca",
+   "numero": "núm. 234 (BOP-SA-20251204-001)",
+   "fecha": "2025-12-04",
+   "url": "https://sede.diputaciondesalamanca.gob.es/documentacion/bop/2025/20251204/BOP-SA-20251204-001.pdf",
+   "leido": "2026-10-28",
+   "via": "directo"
+  },
+  "2027-salamanca": {
+   "titulo": "Acuerdo de 1 de julio de 2026, de la Oficina Territorial de Trabajo de Salamanca, para la determinación de las fiestas locales, a efectos laborales, en los municipios de esta provincia para el año 2027",
+   "boletin": "BOP de Salamanca",
+   "numero": "núm. 129 (BOP-SA-20260708-001)",
+   "fecha": "2026-07-08",
+   "url": "https://sede.diputaciondesalamanca.gob.es/documentacion/bop/2026/20260708/BOP-SA-20260708-001.pdf",
+   "leido": "2026-10-28",
+   "via": "directo"
+  },
+  "2026-segovia": {
+   "titulo": "Resolución de la Oficina Territorial de Trabajo de Segovia (16-09-2025): fiestas locales de la provincia de Segovia para el año 2026",
+   "boletin": "BOP de Segovia",
+   "numero": "núm. 113",
+   "fecha": "2025-09-19",
+   "url": "https://trabajoyprevencion.jcyl.es/web/jcyl/binarios/125/489/06%20BOP%20FIESTAS%20LOCALES%20SEGOVIA%2026,0.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+   "leido": "2026-10-28",
+   "via": "copia del BOP publicada por la Junta de Castilla y León (trabajoyprevencion.jcyl.es)"
+  },
+  "2027-segovia": {
+   "titulo": "Resolución de la Oficina Territorial de Trabajo de Segovia (30-06-2026): fiestas locales de la provincia de Segovia para el año 2027",
+   "boletin": "BOP de Segovia",
+   "numero": "núm. 80",
+   "fecha": "2026-07-06",
+   "url": "https://trabajoyprevencion.jcyl.es/web/jcyl/binarios/629/351/BOP%20Fiestas%20locales.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+   "leido": "2026-10-28",
+   "via": "copia del BOP publicada por la Junta de Castilla y León (trabajoyprevencion.jcyl.es)"
+  },
+  "2026-soria": {
+   "titulo": "Oficina Territorial de Trabajo de Soria (18-09-2025): fiestas laborales año 2026",
+   "boletin": "BOP de Soria",
+   "numero": "núm. 108 (BOPSO-108-22092025)",
+   "fecha": "2025-09-22",
+   "url": "https://trabajoyprevencion.jcyl.es/web/jcyl/binarios/898/228/07%20BOP%20FIESTAS%20LOCALES%20SORIA%2026,0.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+   "leido": "2026-10-28",
+   "via": "copia del BOP publicada por la Junta de Castilla y León (trabajoyprevencion.jcyl.es)"
+  },
+  "2027-soria": {
+   "titulo": "Oficina Territorial de Trabajo de Soria (07-07-2026): fiestas laborales año 2027",
+   "boletin": "BOP de Soria",
+   "numero": "núm. 81 (BOPSO-81-15072026)",
+   "fecha": "2026-07-15",
+   "url": "https://trabajoyprevencion.jcyl.es/web/jcyl/binarios/704/771/BOP%20n.%C2%BA%2081.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+   "leido": "2026-10-28",
+   "via": "copia del BOP publicada por la Junta de Castilla y León (trabajoyprevencion.jcyl.es)"
+  },
+  "2026-valladolid": {
+   "titulo": "Resolución de 17 de septiembre de 2025, de la Oficina Territorial de Trabajo de Valladolid, para la determinación de las fiestas locales, a efectos laborales, en los municipios de la provincia de Valladolid (año 2026)",
+   "boletin": "BOP de Valladolid",
+   "numero": "núm. 2025/179 (BOPVA-A-2025-03050)",
+   "fecha": "2025-09-19",
+   "url": "https://trabajoyprevencion.jcyl.es/web/jcyl/binarios/635/169/08%20BOP%20FIESTAS%20LOCALES%20VALLADOLID%2026,0.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+   "leido": "2026-10-28",
+   "via": "copia del BOP publicada por la Junta de Castilla y León (trabajoyprevencion.jcyl.es, Calendario laboral); el servidor del BOP no responde desde aquí"
+  },
+  "2027-valladolid": {
+   "titulo": "Resolución de 6 de julio de 2026, de la Oficina Territorial de Trabajo de Valladolid, para la determinación de las fiestas locales, a efectos laborales, en los municipios de la provincia de Valladolid para el año 2027",
+   "boletin": "BOP de Valladolid",
+   "numero": "núm. 2026/129 (BOPVA-A-2026-02051)",
+   "fecha": "2026-07-09",
+   "url": "https://trabajoyprevencion.jcyl.es/web/jcyl/binarios/569/674/Fiestas%20BOPVA-A-2026-02051.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+   "leido": "2026-10-28",
+   "via": "copia del BOP publicada por la Junta de Castilla y León (trabajoyprevencion.jcyl.es, Calendario laboral); el servidor del BOP no responde desde aquí"
+  },
+  "2026-zamora": {
+   "titulo": "Oficina Territorial de Trabajo de Zamora (17-09-2025): calendario de fiestas locales para el año 2026",
+   "boletin": "BOP de Zamora",
+   "numero": "núm. 106",
+   "fecha": "2025-09-19",
+   "url": "https://trabajoyprevencion.jcyl.es/web/jcyl/binarios/778/74/09%20BOP%20FIESTAS%20LOCALES%20ZAMORA%2026,0.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+   "leido": "2026-10-28",
+   "via": "copia del BOP publicada por la Junta de Castilla y León (trabajoyprevencion.jcyl.es)"
+  },
+  "2027-zamora": {
+   "titulo": "Oficina Territorial de Trabajo de Zamora (22-07-2026): calendario de fiestas locales para el año 2027 (corrección de errores con republicación íntegra del anuncio del BOP núm. 87 de 27-07-2026)",
+   "boletin": "BOP de Zamora",
+   "numero": "núm. 88 (R-202601897)",
+   "fecha": "2026-07-31",
+   "url": "https://trabajoyprevencion.jcyl.es/web/jcyl/binarios/329/517/PUBLICACI%C3%93N%20CALENDARIO%20LABORAL%20EN%20BOP%202027%20CORREGIDO%20%2831-07-2026%29.pdf?blobheader=application%2Fpdf%3Bcharset%3DUTF-8&blobnocache=true",
+   "leido": "2026-10-28",
+   "via": "copia del BOP publicada por la Junta de Castilla y León (trabajoyprevencion.jcyl.es)"
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "DECRETO 9/2025, de 29 de mayo, por el que se establece el calendario de fiestas laborales en el ámbito de la Comunidad de Castilla y León para el año 2026",
+   "boletin": "BOCYL",
+   "numero": "núm. 103",
+   "fecha": "2025-06-02",
+   "url": "https://bocyl.jcyl.es/html/2025/06/02/html/BOCYL-D-02062025-1.do"
+  },
+  "2027": {
+   "titulo": "DECRETO 7/2026, de 26 de marzo, por el que se establece el calendario de fiestas laborales en el ámbito de la Comunidad de Castilla y León para el año 2027",
+   "boletin": "BOCYL",
+   "numero": "núm. 61",
+   "fecha": "2026-03-30",
+   "url": "https://bocyl.jcyl.es/html/2026/03/30/html/BOCYL-D-30032026-61-1.do"
+  }
+ },
+ "municipios": [
+  {
+   "ine": "47186",
+   "nombre": "Valladolid",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-13",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": null
+   },
+   "fuente": {
+    "2026": "2026-valladolid",
+    "2027": null
+   },
+   "nota": "2027: la Resolución de 6-7-2026 (BOP Valladolid núm. 2026/129) indica «VALLADOLID No comunicada No comunicada»; no se ha podido consultar si un BOP posterior las fija (servidor del BOP inaccesible). El texto no da el nombre de las fiestas."
+  },
+  {
+   "ine": "09059",
+   "nombre": "Burgos",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-12",
+      "nombre": "Curpillos"
+     },
+     {
+      "fecha": "2026-06-29",
+      "nombre": "San Pedro y San Pablo"
+     }
+    ],
+    "2027": null
+   },
+   "fuente": {
+    "2026": "2026-burgos",
+    "2027": null
+   },
+   "nota": "2027: Burgos (capital) no figura en el anexo de la Resolución de 21-7-2026 (BOP Burgos núm. 145); no se ha podido consultar si un BOP posterior las fija (servidor del BOP inaccesible)."
+  },
+  {
+   "ine": "37274",
+   "nombre": "Salamanca",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-12",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-08",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-06-12",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-09-08",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "fuente": {
+    "2026": "2026-salamanca",
+    "2027": "2027-salamanca"
+   },
+   "nota": "2026: Salamanca no figura en el acuerdo inicial (BOP núm. 181, 19-9-2025) sino en la relación complementaria (BOP núm. 234, 4-12-2025). El texto no da el nombre de las fiestas."
+  },
+  {
+   "ine": "24089",
+   "nombre": "León",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-24",
+      "nombre": "San Juan"
+     },
+     {
+      "fecha": "2026-10-05",
+      "nombre": "San Froilán"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-06-24",
+      "nombre": "San Juan"
+     },
+     {
+      "fecha": "2027-10-05",
+      "nombre": "San Froilán"
+     }
+    ]
+   },
+   "fuente": {
+    "2026": "2026-leon",
+    "2027": "2027-leon"
+   },
+   "nota": "Para todo el municipio."
+  },
+  {
+   "ine": "34120",
+   "nombre": "Palencia",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-02-02",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-09-02",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-02-02",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-09-02",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "fuente": {
+    "2026": "2026-palencia",
+    "2027": "2027-palencia"
+   },
+   "nota": "El texto no da el nombre de las fiestas."
+  },
+  {
+   "ine": "24115",
+   "nombre": "Ponferrada",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-09-08",
+      "nombre": "La Encina"
+     },
+     {
+      "fecha": "2026-09-09",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-09-08",
+      "nombre": "Nuestra Señora de La Encina"
+     },
+     {
+      "fecha": "2027-09-09",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "fuente": {
+    "2026": "2026-leon",
+    "2027": "2027-leon"
+   },
+   "nota": "El texto no da nombre a la fiesta del 9 de septiembre."
+  },
+  {
+   "ine": "49275",
+   "nombre": "Zamora",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-25",
+      "nombre": "La Hiniesta"
+     },
+     {
+      "fecha": "2026-06-29",
+      "nombre": "San Pedro"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-05-17",
+      "nombre": "La Hiniesta"
+     },
+     {
+      "fecha": "2027-06-29",
+      "nombre": "San Pedro"
+     }
+    ]
+   },
+   "fuente": {
+    "2026": "2026-zamora",
+    "2027": "2027-zamora"
+   },
+   "nota": "La Hiniesta es fiesta móvil (lunes de Pentecostés)."
+  },
+  {
+   "ine": "05019",
+   "nombre": "Ávila",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-02",
+      "nombre": "San Segundo"
+     },
+     {
+      "fecha": "2026-10-15",
+      "nombre": "Santa Teresa de Jesús"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-05-03",
+      "nombre": "San Segundo"
+     },
+     {
+      "fecha": "2027-10-15",
+      "nombre": "Santa Teresa de Jesús"
+     }
+    ]
+   },
+   "fuente": {
+    "2026": "2026-avila",
+    "2027": "2027-avila"
+   },
+   "nota": ""
+  },
+  {
+   "ine": "40194",
+   "nombre": "Segovia",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-29",
+      "nombre": "San Pedro"
+     },
+     {
+      "fecha": "2026-10-26",
+      "nombre": "San Frutos"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-06-29",
+      "nombre": "San Pedro"
+     },
+     {
+      "fecha": "2027-10-25",
+      "nombre": "San Frutos"
+     }
+    ]
+   },
+   "fuente": {
+    "2026": "2026-segovia",
+    "2027": "2027-segovia"
+   },
+   "nota": ""
+  },
+  {
+   "ine": "42173",
+   "nombre": "Soria",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-06-25",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-10-02",
+      "nombre": "Fiesta local"
+     }
+    ],
+    "2027": [
+     {
+      "fecha": "2027-06-24",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2027-10-02",
+      "nombre": "Fiesta local"
+     }
+    ]
+   },
+   "fuente": {
+    "2026": "2026-soria",
+    "2027": "2027-soria"
+   },
+   "nota": "El texto no da el nombre de las fiestas."
+  }
+ ]
+}

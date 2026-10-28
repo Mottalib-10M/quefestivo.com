@@ -1,0 +1,88 @@
+{
+ "ccaa": "navarra",
+ "fuentes": {
+  "2026": {
+   "titulo": "Resolución 682/2025, de 17 de noviembre, del director general de Economía Social y Trabajo por la que se determinan las fiestas locales para el año 2026, con carácter retribuido y no recuperable, en el ámbito de la Comunidad Foral de Navarra",
+   "boletin": "BON",
+   "numero": "núm. 241",
+   "fecha": "2025-12-02",
+   "url": "https://bon.navarra.es/es/anuncio/-/texto/2025/241/12",
+   "leido": "2026-10-28",
+   "via": "directo"
+  },
+  "2026-mod": {
+   "titulo": "Resolución 765/2025, de 22 de diciembre, del Director General de Economía Social y Trabajo por la que modifican las fiestas locales para el año 2026 (no afecta a Pamplona ni a Tudela)",
+   "boletin": "BON",
+   "numero": "núm. 1",
+   "fecha": "2026-01-02",
+   "url": "https://bon.navarra.es/es/anuncio/-/texto/2026/1/25",
+   "leido": "2026-10-28",
+   "via": "directo"
+  },
+  "2027": {
+   "estado": "no-publicado",
+   "comprobado": "2026-10-28",
+   "donde": "BON: la Resolución 232/2026 (BON núm. 103, 28-05-2026) fija el 3 de diciembre de 2027 como fiesta local común y da a los ayuntamientos hasta el 15 de noviembre de 2026 para proponer la otra; la resolución de fiestas locales 2027 aún no ha salido (la de 2026 salió el 2-12-2025)."
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "Resolución 390/2025, de 5 de junio, del director general de Economía Social y Trabajo, por la que se establece el calendario oficial de fiestas laborales para el año 2026 en el ámbito de la Comunidad Foral de Navarra",
+   "boletin": "BON",
+   "numero": "núm. 129",
+   "fecha": "2025-06-30",
+   "url": "https://bon.navarra.es/es/anuncio/-/texto/2025/129/11"
+  },
+  "2027": {
+   "titulo": "Resolución 232/2026, de 13 de mayo, del director general de Economía Social y Trabajo por la que se establece el calendario oficial de fiestas laborales para el año 2027 en el ámbito de la Comunidad Foral de Navarra",
+   "boletin": "BON",
+   "numero": "núm. 103",
+   "fecha": "2026-05-28",
+   "url": "https://bon.navarra.es/es/anuncio/-/texto/2026/103/23"
+  }
+ },
+ "municipios": [
+  {
+   "ine": "31201",
+   "nombre": "Pamplona/Iruña",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-11-30",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-12-03",
+      "nombre": "San Francisco Javier, Día de Navarra (fiesta local común a toda Navarra)"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "En Navarra una de las dos fiestas locales es común a toda la Comunidad Foral (3 de diciembre, San Francisco Javier, fijada por la Resolución 390/2025 como fiesta local en los términos del art. 46 RD 2001/1983); la otra la fija el anexo de la Resolución 682/2025, que solo da la fecha. Pamplona: 30 de noviembre."
+  },
+  {
+   "ine": "31232",
+   "nombre": "Tudela",
+   "fuente": {
+    "2026": "2026"
+   },
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-07-27",
+      "nombre": "Fiesta local"
+     },
+     {
+      "fecha": "2026-12-03",
+      "nombre": "San Francisco Javier, Día de Navarra (fiesta local común a toda Navarra)"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "En Navarra una de las dos fiestas locales es común a toda la Comunidad Foral (3 de diciembre, San Francisco Javier, fijada por la Resolución 390/2025 como fiesta local en los términos del art. 46 RD 2001/1983); la otra la fija el anexo de la Resolución 682/2025, que solo da la fecha. Tudela: 27 de julio."
+  }
+ ]
+}

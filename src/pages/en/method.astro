@@ -1,0 +1,36 @@
+---
+/** Method: sources, holiday layers, towns, date rules, tests and limits. Every date comes from the data. */
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { KIT as K } from '../../lib/kit';
+import { srcLink } from '../../lib/helpers';
+import { breadcrumbSchema, webPageSchema } from '../../lib/seo';
+import { estadoLocales } from '../../content/guides/_util';
+const lang = 'en';
+const path = route('method', lang);
+const title = 'Method of this 2027 holiday calendar: sources and limits';
+const description = 'How the 2027 and 2026 holiday calendar of each Spanish town is built: BOE, regional decrees, local-holiday gazettes, Easter and clock-change rules, and tests.';
+const s = (k: string, t: string) => srcLink(k, lang, t);
+const e27 = estadoLocales(2027).filter((x) => x.conFiestas > 0).length, e26 = estadoLocales(2026).filter((x) => x.conFiestas > 0).length;
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={[webPageSchema({ name: 'Method', description, path, lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Method', path }])]} breadcrumbs={[{ label: 'Method' }]}>
+  <article class="prose prose-slate max-w-none">
+    <h1>How this holiday calendar is made</h1>
+    <p class="text-xs font-medium uppercase tracking-wide text-navy-500">Independent, non-governmental site</p>
+    <p>Every tool runs in your browser: what you search for or type is neither sent nor stored. Dates come from official texts read by hand, and those that follow a rule are computed with tested functions. Last reading: {K.fFecha(K.LECTURA, 'en')}.</p>
+    <h2>National and regional holidays</h2>
+    <p>They come from the Directorate-General for Labour's yearly resolution: <Fragment set:html={s('boe-2027', 'the 2027 one')} /> and <Fragment set:html={s('boe-2026', 'the 2026 one')} />. We read the BOE's XML version and turn the table, column by column, into a list of holidays per region, following the notes that separate fixed national days, national days the region keeps and the region's own. A program checks that each region adds up to 12 holidays, 11 in the Canaries plus one per island, and that no regional holiday falls on a Sunday. The Canary island holidays come from the Canary government's decree ({K.ISLAS_REF(2027)} for 2027), and the Val d'Aran swap from the Catalan government's order ({K.ARAN(2027)?.ref}).</p>
+    <h2>Local holidays</h2>
+    <p>Each region, or each province, publishes a resolution with every town's two holidays, under <Fragment set:html={s('rd2001', 'article 46 of Royal Decree 2001/1983')} />. We read them in that gazette and copy them with the issue, date and the day we read them; we also check later corrections. We cover {K.MUNICIPIOS.length} towns: the 50 provincial capitals, Ceuta, Melilla and the most populous municipalities in the municipal register as of 1 January 2025. Own elaboration with data extracted from the INE website: www.ine.es. The 2026 local holidays have been read for {e26} regions and autonomous cities and the 2027 ones for {e27}. When a gazette is not out yet, the site says "not yet out" and never fills in last year's dates.</p>
+    <h2>Working days and long weekends</h2>
+    <p>A working day is a Monday to Friday that is not a holiday in the chosen place; Saturdays are counted separately, since they depend on the collective agreement. Long weekends are found in two steps: first the runs of consecutive days off (weekends and holidays), then the gaps of one to five working days joining two runs. With your leave days, a dynamic-programming search picks the set of gaps giving the most consecutive days off, with no two breaks overlapping and without exceeding the days you have. On a tie, the one using fewer days wins.</p>
+    <h2>Dates that follow a rule</h2>
+    <p>Easter is computed with the Meeus algorithm for the Gregorian calendar; Maundy Thursday, Good Friday, Easter Monday, Carnival (47 days before), Whitsun and Corpus Christi (60 days after) follow from it. The tests compare the result with the 2026 and 2027 BOE. The clock change follows <Fragment set:html={s('dir2000', 'Directive 2000/84/EC')} /> and <Fragment set:html={s('rd236', 'Royal Decree 236/2002')} />: last Sunday of March and of October, at 01:00 universal time. The 2022 to 2026 dates are tested against <Fragment set:html={s('pcm186', 'Order PCM/186/2022')} /> and the 2027 to 2031 ones against <Fragment set:html={s('c2026', 'Communication C/2026/1660')} />.</p>
+    <h2>Countdown</h2>
+    <p>The counter uses your device's clock and time zone. A holiday starts at 00:00 your local time; the clock change happens at a universal instant, which the counter converts into your time. If your clock is wrong, so is the counter.</p>
+    <h2>Limits</h2>
+    <p>The site does not know your collective agreement or your employer's calendar, which may set personal days, closures or shifts. Local festivities that are not public holidays, such as a district's, are not shown. Outside the {K.MUNICIPIOS.length} towns in the search you see the region's 12 holidays without the two local ones.</p>
+    <h2>Updates</h2>
+    <p>We read the BOE and the gazettes again every autumn, when next year's holidays come out, and whenever someone reports a change. If you spot an error, write to us from the <a href={route('contact', lang)}>contact</a> page; how we correct is in the <a href={route('editorial', lang)}>editorial policy</a>.</p>
+  </article>
+</PageLayout>

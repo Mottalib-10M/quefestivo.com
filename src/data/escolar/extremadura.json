@@ -1,0 +1,58 @@
+{
+ "ccaa": "extremadura",
+ "curso": "2026-2027",
+ "fuente": {
+  "titulo": "Resolución de 15 de junio de 2026, de la Secretaría General de Educación, por la que se aprueba el calendario escolar para el curso 2026/2027",
+  "boletin": "DOE",
+  "fecha": "2026-06-18",
+  "url": "https://doe.juntaex.es/otrosFormatos/html.php?xml=2026061567&anio=2026&doe=1160o",
+  "leido": "2026-10-28"
+ },
+ "primaria": {
+  "inicio": "2026-09-10",
+  "fin": "2027-06-18"
+ },
+ "eso": {
+  "inicio": "2026-09-10",
+  "fin": "2027-06-18"
+ },
+ "navidad": {
+  "desde": "2026-12-23",
+  "hasta": "2027-01-07"
+ },
+ "semana_santa": {
+  "desde": "2027-03-22",
+  "hasta": "2027-03-29"
+ },
+ "otros": [
+  {
+   "fecha": "2026-10-12",
+   "nombre": "Día de la Fiesta Nacional de España"
+  },
+  {
+   "fecha": "2026-11-02",
+   "nombre": "Lunes siguiente al día de Todos los Santos"
+  },
+  {
+   "fecha": "2026-12-07",
+   "nombre": "Lunes siguiente al día de la Constitución Española"
+  },
+  {
+   "fecha": "2026-12-08",
+   "nombre": "Día de la Inmaculada Concepción"
+  },
+  {
+   "fecha": "2027-01-29",
+   "nombre": "Día del Docente"
+  },
+  {
+   "fecha": "2027-02-08",
+   "nombre": "Carnavales"
+  },
+  {
+   "fecha": "2027-02-09",
+   "nombre": "Carnavales"
+  }
+ ],
+ "nota": "El 8/09/2026 (Día de Extremadura) es anterior al inicio de clases. Se añaden las fiestas locales y un Día del Centro. 1.º de Bachillerato: 11/09/2026–17/06/2027."
+}

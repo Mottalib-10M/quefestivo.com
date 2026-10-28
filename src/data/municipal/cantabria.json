@@ -1,0 +1,73 @@
+{
+ "ccaa": "cantabria",
+ "fuentes": {
+  "2026": {
+   "titulo": "Resolución por la que se dispone la publicación del calendario de fiestas nacionales, autonómicas y locales en el ámbito de la Comunidad Autónoma de Cantabria para el año 2026 (CVE-2025-10276)",
+   "boletin": "BOC",
+   "numero": "núm. 238",
+   "fecha": "2025-12-11",
+   "url": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=428192",
+   "leido": "2026-10-28",
+   "via": "directo"
+  },
+  "2027": {
+   "estado": "no-publicado",
+   "comprobado": "2026-10-28",
+   "donde": "BOC y página de calendario laboral de la Dirección General de Trabajo (dgte.cantabria.es/calendario-laboral): solo la Orden IND/29/2026 de fiestas autonómicas 2027; la resolución con las fiestas locales 2027 no ha salido (la de 2026 salió el 11-12-2025)."
+  }
+ },
+ "decreto_autonomico": {
+  "2026": {
+   "titulo": "Orden IND/37/2025, de 24 de julio, por la que se establece el calendario de fiestas laborales para el año 2026 en el ámbito de la Comunidad Autónoma de Cantabria",
+   "boletin": "BOC",
+   "numero": "núm. 147",
+   "fecha": "2025-08-01",
+   "url": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=423185"
+  },
+  "2027": {
+   "titulo": "Orden IND/29/2026, de 6 de julio, por la que se establece el calendario de fiestas laborales para el año 2027 en el ámbito de la Comunidad Autónoma de Cantabria",
+   "boletin": "BOC",
+   "numero": "núm. 135",
+   "fecha": "2026-07-15",
+   "url": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=438006"
+  }
+ },
+ "municipios": [
+  {
+   "ine": "39075",
+   "nombre": "Santander",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-05-25",
+      "nombre": "Virgen del Mar"
+     },
+     {
+      "fecha": "2026-07-25",
+      "nombre": "Apóstol Santiago"
+     }
+    ],
+    "2027": null
+   },
+   "nota": ""
+  },
+  {
+   "ine": "39087",
+   "nombre": "Torrelavega",
+   "fiestas": {
+    "2026": [
+     {
+      "fecha": "2026-08-17",
+      "nombre": "San Roque"
+     },
+     {
+      "fecha": "2026-09-16",
+      "nombre": "San Cipriano"
+     }
+    ],
+    "2027": null
+   },
+   "nota": "El anexo del BOC escribe «San Cirpiano» (errata evidente por San Cipriano)."
+  }
+ ]
+}

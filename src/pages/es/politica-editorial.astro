@@ -1,0 +1,30 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { AUTHOR_NAME, CONTACT_EMAIL, LAST_UPDATED, REVIEW_CYCLE_MONTHS, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { displayDate } from '../../lib/format';
+const lang = 'es';
+---
+<PageLayout title={`Política editorial de ${SITE_NAMES[lang]}: fuentes y correcciones`} description="De dónde salen las fiestas, en qué orden pesan las fuentes, cómo probamos las fechas calculadas, cuándo releemos los boletines y qué hacemos si algo está mal en el sitio." lang={lang} noindex={true} breadcrumbs={[{ label: 'Política editorial' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Política editorial y correcciones</h1>
+    <p>Organizar un viaje o un turno con una fiesta equivocada cuesta caro. Esta página dice de dónde sale cada fecha y qué hacemos cuando algo falla.</p>
+    <h2>Responsable</h2><p>{AUTHOR_NAME} responde del contenido y de las herramientas. Contacto: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+    <h2>Orden de las fuentes</h2>
+    <ol>
+      <li><strong>BOE</strong>: resoluciones anuales de la Dirección General de Trabajo con las fiestas laborales, Estatuto de los Trabajadores, Real Decreto 2001/1983 y Real Decreto 236/2002;</li>
+      <li><strong>Boletines autonómicos y provinciales</strong>: decretos de fiestas de cada comunidad y resoluciones de fiestas locales, con sus correcciones posteriores;</li>
+      <li><strong>Diario Oficial de la Unión Europea</strong>, para el calendario de la hora de verano.</li>
+    </ol>
+    <p>No usamos prensa, blogs ni webs de ayuntamientos como fuente de una fecha: si un ayuntamiento anuncia sus fiestas antes de que salgan en el boletín, esperamos al boletín.</p>
+    <h2>Fechas calculadas</h2>
+    <p>Semana Santa, Carnaval, Corpus Christi, Día de la Madre y cambio de hora se calculan con reglas fijas, probadas automáticamente contra las fechas publicadas en el BOE y en el Diario Oficial de la Unión Europea. El sitio no se publica si una prueba falla.</p>
+    <h2>Revisión</h2>
+    <p>Cada fiesta lleva su boletín y su fecha de lectura. Revisión completa al menos cada {REVIEW_CYCLE_MONTHS} meses, y además cada otoño, cuando salen la resolución del BOE y las fiestas locales del año siguiente. Última revisión: {displayDate(LAST_UPDATED, 'es-ES')}.</p>
+    <h2>Correcciones</h2>
+    <p>Si nos avisas de un error, lo comprobamos en la fuente y corregimos en pocos días. Las correcciones de fondo se reflejan en la fecha de actualización.</p>
+    <h2>Independencia</h2>
+    <p>El sitio no tiene anunciantes que influyan en el contenido, ni enlaces de afiliación, ni acuerdos con agencias de viajes. No captamos datos de contacto ni vendemos nada.</p>
+    <p>Más sobre el editor en <a href={route('about', lang)}>quiénes somos</a> y sobre los cálculos en el <a href={route('method', lang)}>método</a>.</p>
+  </div>
+</PageLayout>

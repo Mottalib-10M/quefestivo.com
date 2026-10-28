@@ -1,0 +1,91 @@
+{
+ "ccaa": "ceuta",
+ "curso": "2026-2027",
+ "fuente": {
+  "titulo": "Calendario escolar 2026-2027, Dirección Provincial de Ceuta (Ministerio de Educación, Formación Profesional y Deportes)",
+  "boletin": "Ministerio de Educación, Formación Profesional y Deportes (portal oficial)",
+  "fecha": null,
+  "url": "https://web.archive.org/web/20261008102818/https://www.educacionfpydeportes.gob.es/dam/jcr:a9cf685a-32f4-480f-8878-c06cae54fc37/26-070-01-calendario-escolar-26-27-v1.pdf",
+  "leido": "2026-10-28",
+  "via": "Wayback (copia del 08/10/2026): el PDF original del ministerio devuelve hoy 404"
+ },
+ "primaria": {
+  "inicio": "2026-09-08",
+  "fin": "2027-06-23"
+ },
+ "eso": {
+  "inicio": "2026-09-08",
+  "fin": "2027-06-23"
+ },
+ "navidad": {
+  "desde": "2026-12-23",
+  "hasta": "2027-01-07"
+ },
+ "semana_santa": {
+  "desde": "2027-03-22",
+  "hasta": "2027-03-26"
+ },
+ "otros": [
+  {
+   "fecha": "2026-10-12",
+   "nombre": "Fiesta"
+  },
+  {
+   "fecha": "2026-11-02",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2026-11-03",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2026-12-07",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2026-12-08",
+   "nombre": "Fiesta"
+  },
+  {
+   "fecha": "2027-01-08",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2027-02-12",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2027-03-09",
+   "nombre": "Fiesta"
+  },
+  {
+   "fecha": "2027-03-29",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2027-03-30",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2027-03-31",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2027-04-01",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2027-04-02",
+   "nombre": "Día de libre disposición"
+  },
+  {
+   "fecha": "2027-05-17",
+   "nombre": "Fiesta"
+  },
+  {
+   "fecha": "2027-05-18",
+   "nombre": "Día de libre disposición"
+  }
+ ],
+ "nota": "Documento gráfico (calendario por colores, sin texto de resolución): fechas leídas según la leyenda de colores; nombres de las fiestas no indicados. El 2/09/2026 (fiesta) es anterior al inicio de clases. Fin de actividades académicas: 30/06/2027."
+}

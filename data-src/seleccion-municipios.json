@@ -1,0 +1,1811 @@
+[
+ {
+  "ine": "28079",
+  "nombre_ine": "Madrid",
+  "nombre": "Madrid",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": true,
+  "rango": 1
+ },
+ {
+  "ine": "08019",
+  "nombre_ine": "Barcelona",
+  "nombre": "Barcelona",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": true,
+  "rango": 2
+ },
+ {
+  "ine": "46250",
+  "nombre_ine": "València",
+  "nombre": "València",
+  "provincia": "Valencia/València",
+  "ccaa": "valenciana",
+  "capital": true,
+  "rango": 3
+ },
+ {
+  "ine": "50297",
+  "nombre_ine": "Zaragoza",
+  "nombre": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ccaa": "aragon",
+  "capital": true,
+  "rango": 4
+ },
+ {
+  "ine": "41091",
+  "nombre_ine": "Sevilla",
+  "nombre": "Sevilla",
+  "provincia": "Sevilla",
+  "ccaa": "andalucia",
+  "capital": true,
+  "rango": 5
+ },
+ {
+  "ine": "29067",
+  "nombre_ine": "Málaga",
+  "nombre": "Málaga",
+  "provincia": "Málaga",
+  "ccaa": "andalucia",
+  "capital": true,
+  "rango": 6
+ },
+ {
+  "ine": "30030",
+  "nombre_ine": "Murcia",
+  "nombre": "Murcia",
+  "provincia": "Murcia",
+  "ccaa": "murcia",
+  "capital": true,
+  "rango": 7
+ },
+ {
+  "ine": "07040",
+  "nombre_ine": "Palma",
+  "nombre": "Palma",
+  "provincia": "Balears, Illes",
+  "ccaa": "baleares",
+  "capital": true,
+  "rango": 8
+ },
+ {
+  "ine": "35016",
+  "nombre_ine": "Palmas de Gran Canaria, Las",
+  "nombre": "Las Palmas de Gran Canaria",
+  "provincia": "Palmas, Las",
+  "ccaa": "canarias",
+  "capital": true,
+  "rango": 9
+ },
+ {
+  "ine": "03014",
+  "nombre_ine": "Alacant/Alicante",
+  "nombre": "Alacant/Alicante",
+  "provincia": "Alicante/Alacant",
+  "ccaa": "valenciana",
+  "capital": true,
+  "rango": 10
+ },
+ {
+  "ine": "48020",
+  "nombre_ine": "Bilbao",
+  "nombre": "Bilbao",
+  "provincia": "Bizkaia",
+  "ccaa": "pais-vasco",
+  "capital": true,
+  "rango": 11
+ },
+ {
+  "ine": "14021",
+  "nombre_ine": "Córdoba",
+  "nombre": "Córdoba",
+  "provincia": "Córdoba",
+  "ccaa": "andalucia",
+  "capital": true,
+  "rango": 12
+ },
+ {
+  "ine": "47186",
+  "nombre_ine": "Valladolid",
+  "nombre": "Valladolid",
+  "provincia": "Valladolid",
+  "ccaa": "castilla-y-leon",
+  "capital": true,
+  "rango": 13
+ },
+ {
+  "ine": "36057",
+  "nombre_ine": "Vigo",
+  "nombre": "Vigo",
+  "provincia": "Pontevedra",
+  "ccaa": "galicia",
+  "capital": false,
+  "rango": 14
+ },
+ {
+  "ine": "08101",
+  "nombre_ine": "Hospitalet de Llobregat, L'",
+  "nombre": "L'Hospitalet de Llobregat",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 15
+ },
+ {
+  "ine": "33024",
+  "nombre_ine": "Gijón",
+  "nombre": "Gijón",
+  "provincia": "Asturias",
+  "ccaa": "asturias",
+  "capital": false,
+  "rango": 16
+ },
+ {
+  "ine": "01059",
+  "nombre_ine": "Vitoria-Gasteiz",
+  "nombre": "Vitoria-Gasteiz",
+  "provincia": "Araba/Álava",
+  "ccaa": "pais-vasco",
+  "capital": true,
+  "rango": 17
+ },
+ {
+  "ine": "15030",
+  "nombre_ine": "Coruña, A",
+  "nombre": "A Coruña",
+  "provincia": "Coruña, A",
+  "ccaa": "galicia",
+  "capital": true,
+  "rango": 18
+ },
+ {
+  "ine": "03065",
+  "nombre_ine": "Elx/Elche",
+  "nombre": "Elx/Elche",
+  "provincia": "Alicante/Alacant",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 19
+ },
+ {
+  "ine": "18087",
+  "nombre_ine": "Granada",
+  "nombre": "Granada",
+  "provincia": "Granada",
+  "ccaa": "andalucia",
+  "capital": true,
+  "rango": 20
+ },
+ {
+  "ine": "08279",
+  "nombre_ine": "Terrassa",
+  "nombre": "Terrassa",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 21
+ },
+ {
+  "ine": "08015",
+  "nombre_ine": "Badalona",
+  "nombre": "Badalona",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 22
+ },
+ {
+  "ine": "08187",
+  "nombre_ine": "Sabadell",
+  "nombre": "Sabadell",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 23
+ },
+ {
+  "ine": "33044",
+  "nombre_ine": "Oviedo",
+  "nombre": "Oviedo",
+  "provincia": "Asturias",
+  "ccaa": "asturias",
+  "capital": true,
+  "rango": 24
+ },
+ {
+  "ine": "30016",
+  "nombre_ine": "Cartagena",
+  "nombre": "Cartagena",
+  "provincia": "Murcia",
+  "ccaa": "murcia",
+  "capital": false,
+  "rango": 25
+ },
+ {
+  "ine": "28092",
+  "nombre_ine": "Móstoles",
+  "nombre": "Móstoles",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 26
+ },
+ {
+  "ine": "11020",
+  "nombre_ine": "Jerez de la Frontera",
+  "nombre": "Jerez de la Frontera",
+  "provincia": "Cádiz",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 27
+ },
+ {
+  "ine": "38038",
+  "nombre_ine": "Santa Cruz de Tenerife",
+  "nombre": "Santa Cruz de Tenerife",
+  "provincia": "Santa Cruz de Tenerife",
+  "ccaa": "canarias",
+  "capital": true,
+  "rango": 28
+ },
+ {
+  "ine": "31201",
+  "nombre_ine": "Pamplona/Iruña",
+  "nombre": "Pamplona/Iruña",
+  "provincia": "Navarra",
+  "ccaa": "navarra",
+  "capital": true,
+  "rango": 29
+ },
+ {
+  "ine": "04013",
+  "nombre_ine": "Almería",
+  "nombre": "Almería",
+  "provincia": "Almería",
+  "ccaa": "andalucia",
+  "capital": true,
+  "rango": 30
+ },
+ {
+  "ine": "28005",
+  "nombre_ine": "Alcalá de Henares",
+  "nombre": "Alcalá de Henares",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 31
+ },
+ {
+  "ine": "28074",
+  "nombre_ine": "Leganés",
+  "nombre": "Leganés",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 32
+ },
+ {
+  "ine": "28065",
+  "nombre_ine": "Getafe",
+  "nombre": "Getafe",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 33
+ },
+ {
+  "ine": "28058",
+  "nombre_ine": "Fuenlabrada",
+  "nombre": "Fuenlabrada",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 34
+ },
+ {
+  "ine": "20069",
+  "nombre_ine": "Donostia/San Sebastián",
+  "nombre": "Donostia/San Sebastián",
+  "provincia": "Gipuzkoa",
+  "ccaa": "pais-vasco",
+  "capital": true,
+  "rango": 35
+ },
+ {
+  "ine": "12040",
+  "nombre_ine": "Castelló de la Plana/Castellón de la Plana",
+  "nombre": "Castelló de la Plana/Castellón de la Plana",
+  "provincia": "Castellón/Castelló",
+  "ccaa": "valenciana",
+  "capital": true,
+  "rango": 36
+ },
+ {
+  "ine": "09059",
+  "nombre_ine": "Burgos",
+  "nombre": "Burgos",
+  "provincia": "Burgos",
+  "ccaa": "castilla-y-leon",
+  "capital": true,
+  "rango": 37
+ },
+ {
+  "ine": "28007",
+  "nombre_ine": "Alcorcón",
+  "nombre": "Alcorcón",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 38
+ },
+ {
+  "ine": "39075",
+  "nombre_ine": "Santander",
+  "nombre": "Santander",
+  "provincia": "Cantabria",
+  "ccaa": "cantabria",
+  "capital": true,
+  "rango": 39
+ },
+ {
+  "ine": "02003",
+  "nombre_ine": "Albacete",
+  "nombre": "Albacete",
+  "provincia": "Albacete",
+  "ccaa": "castilla-la-mancha",
+  "capital": true,
+  "rango": 40
+ },
+ {
+  "ine": "38023",
+  "nombre_ine": "San Cristóbal de La Laguna",
+  "nombre": "San Cristóbal de La Laguna",
+  "provincia": "Santa Cruz de Tenerife",
+  "ccaa": "canarias",
+  "capital": false,
+  "rango": 41
+ },
+ {
+  "ine": "29069",
+  "nombre_ine": "Marbella",
+  "nombre": "Marbella",
+  "provincia": "Málaga",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 42
+ },
+ {
+  "ine": "26089",
+  "nombre_ine": "Logroño",
+  "nombre": "Logroño",
+  "provincia": "Rioja, La",
+  "ccaa": "la-rioja",
+  "capital": true,
+  "rango": 43
+ },
+ {
+  "ine": "06015",
+  "nombre_ine": "Badajoz",
+  "nombre": "Badajoz",
+  "provincia": "Badajoz",
+  "ccaa": "extremadura",
+  "capital": true,
+  "rango": 44
+ },
+ {
+  "ine": "25120",
+  "nombre_ine": "Lleida",
+  "nombre": "Lleida",
+  "provincia": "Lleida",
+  "ccaa": "cataluna",
+  "capital": true,
+  "rango": 45
+ },
+ {
+  "ine": "37274",
+  "nombre_ine": "Salamanca",
+  "nombre": "Salamanca",
+  "provincia": "Salamanca",
+  "ccaa": "castilla-y-leon",
+  "capital": true,
+  "rango": 46
+ },
+ {
+  "ine": "43148",
+  "nombre_ine": "Tarragona",
+  "nombre": "Tarragona",
+  "provincia": "Tarragona",
+  "ccaa": "cataluna",
+  "capital": true,
+  "rango": 47
+ },
+ {
+  "ine": "28148",
+  "nombre_ine": "Torrejón de Ardoz",
+  "nombre": "Torrejón de Ardoz",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 48
+ },
+ {
+  "ine": "21041",
+  "nombre_ine": "Huelva",
+  "nombre": "Huelva",
+  "provincia": "Huelva",
+  "ccaa": "andalucia",
+  "capital": true,
+  "rango": 49
+ },
+ {
+  "ine": "41038",
+  "nombre_ine": "Dos Hermanas",
+  "nombre": "Dos Hermanas",
+  "provincia": "Sevilla",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 50
+ },
+ {
+  "ine": "28106",
+  "nombre_ine": "Parla",
+  "nombre": "Parla",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 51
+ },
+ {
+  "ine": "08121",
+  "nombre_ine": "Mataró",
+  "nombre": "Mataró",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 52
+ },
+ {
+  "ine": "11004",
+  "nombre_ine": "Algeciras",
+  "nombre": "Algeciras",
+  "provincia": "Cádiz",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 53
+ },
+ {
+  "ine": "08245",
+  "nombre_ine": "Santa Coloma de Gramenet",
+  "nombre": "Santa Coloma de Gramenet",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 54
+ },
+ {
+  "ine": "24089",
+  "nombre_ine": "León",
+  "nombre": "León",
+  "provincia": "León",
+  "ccaa": "castilla-y-leon",
+  "capital": true,
+  "rango": 55
+ },
+ {
+  "ine": "28006",
+  "nombre_ine": "Alcobendas",
+  "nombre": "Alcobendas",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 56
+ },
+ {
+  "ine": "23050",
+  "nombre_ine": "Jaén",
+  "nombre": "Jaén",
+  "provincia": "Jaén",
+  "ccaa": "andalucia",
+  "capital": true,
+  "rango": 57
+ },
+ {
+  "ine": "43123",
+  "nombre_ine": "Reus",
+  "nombre": "Reus",
+  "provincia": "Tarragona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 58
+ },
+ {
+  "ine": "04079",
+  "nombre_ine": "Roquetas de Mar",
+  "nombre": "Roquetas de Mar",
+  "provincia": "Almería",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 59
+ },
+ {
+  "ine": "11012",
+  "nombre_ine": "Cádiz",
+  "nombre": "Cádiz",
+  "provincia": "Cádiz",
+  "ccaa": "andalucia",
+  "capital": true,
+  "rango": 60
+ },
+ {
+  "ine": "17079",
+  "nombre_ine": "Girona",
+  "nombre": "Girona",
+  "provincia": "Girona",
+  "ccaa": "cataluna",
+  "capital": true,
+  "rango": 61
+ },
+ {
+  "ine": "32054",
+  "nombre_ine": "Ourense",
+  "nombre": "Ourense",
+  "provincia": "Ourense",
+  "ccaa": "galicia",
+  "capital": true,
+  "rango": 62
+ },
+ {
+  "ine": "35026",
+  "nombre_ine": "Telde",
+  "nombre": "Telde",
+  "provincia": "Palmas, Las",
+  "ccaa": "canarias",
+  "capital": false,
+  "rango": 63
+ },
+ {
+  "ine": "28123",
+  "nombre_ine": "Rivas-Vaciamadrid",
+  "nombre": "Rivas-Vaciamadrid",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 64
+ },
+ {
+  "ine": "48013",
+  "nombre_ine": "Barakaldo",
+  "nombre": "Barakaldo",
+  "provincia": "Bizkaia",
+  "ccaa": "pais-vasco",
+  "capital": false,
+  "rango": 65
+ },
+ {
+  "ine": "15078",
+  "nombre_ine": "Santiago de Compostela",
+  "nombre": "Santiago de Compostela",
+  "provincia": "Coruña, A",
+  "ccaa": "galicia",
+  "capital": false,
+  "rango": 66
+ },
+ {
+  "ine": "27028",
+  "nombre_ine": "Lugo",
+  "nombre": "Lugo",
+  "provincia": "Lugo",
+  "ccaa": "galicia",
+  "capital": true,
+  "rango": 67
+ },
+ {
+  "ine": "28127",
+  "nombre_ine": "Rozas de Madrid, Las",
+  "nombre": "Las Rozas de Madrid",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 68
+ },
+ {
+  "ine": "30024",
+  "nombre_ine": "Lorca",
+  "nombre": "Lorca",
+  "provincia": "Murcia",
+  "ccaa": "murcia",
+  "capital": false,
+  "rango": 69
+ },
+ {
+  "ine": "03133",
+  "nombre_ine": "Torrevieja",
+  "nombre": "Torrevieja",
+  "provincia": "Alicante/Alacant",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 70
+ },
+ {
+  "ine": "08205",
+  "nombre_ine": "Sant Cugat del Vallès",
+  "nombre": "Sant Cugat del Vallès",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 71
+ },
+ {
+  "ine": "28134",
+  "nombre_ine": "San Sebastián de los Reyes",
+  "nombre": "San Sebastián de los Reyes",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 72
+ },
+ {
+  "ine": "10037",
+  "nombre_ine": "Cáceres",
+  "nombre": "Cáceres",
+  "provincia": "Cáceres",
+  "ccaa": "extremadura",
+  "capital": true,
+  "rango": 73
+ },
+ {
+  "ine": "29070",
+  "nombre_ine": "Mijas",
+  "nombre": "Mijas",
+  "provincia": "Málaga",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 74
+ },
+ {
+  "ine": "11031",
+  "nombre_ine": "San Fernando",
+  "nombre": "San Fernando",
+  "provincia": "Cádiz",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 75
+ },
+ {
+  "ine": "19130",
+  "nombre_ine": "Guadalajara",
+  "nombre": "Guadalajara",
+  "provincia": "Guadalajara",
+  "ccaa": "castilla-la-mancha",
+  "capital": true,
+  "rango": 76
+ },
+ {
+  "ine": "08073",
+  "nombre_ine": "Cornellà de Llobregat",
+  "nombre": "Cornellà de Llobregat",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 77
+ },
+ {
+  "ine": "04902",
+  "nombre_ine": "Ejido, El",
+  "nombre": "El Ejido",
+  "provincia": "Almería",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 78
+ },
+ {
+  "ine": "46244",
+  "nombre_ine": "Torrent",
+  "nombre": "Torrent",
+  "provincia": "Valencia/València",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 79
+ },
+ {
+  "ine": "11015",
+  "nombre_ine": "Chiclana de la Frontera",
+  "nombre": "Chiclana de la Frontera",
+  "provincia": "Cádiz",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 80
+ },
+ {
+  "ine": "11027",
+  "nombre_ine": "Puerto de Santa María, El",
+  "nombre": "El Puerto de Santa María",
+  "provincia": "Cádiz",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 81
+ },
+ {
+  "ine": "28115",
+  "nombre_ine": "Pozuelo de Alarcón",
+  "nombre": "Pozuelo de Alarcón",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 82
+ },
+ {
+  "ine": "38006",
+  "nombre_ine": "Arona",
+  "nombre": "Arona",
+  "provincia": "Santa Cruz de Tenerife",
+  "ccaa": "canarias",
+  "capital": false,
+  "rango": 83
+ },
+ {
+  "ine": "45168",
+  "nombre_ine": "Toledo",
+  "nombre": "Toledo",
+  "provincia": "Toledo",
+  "ccaa": "castilla-la-mancha",
+  "capital": true,
+  "rango": 84
+ },
+ {
+  "ine": "52001",
+  "nombre_ine": "Melilla",
+  "nombre": "Melilla",
+  "provincia": "Melilla",
+  "ccaa": "melilla",
+  "capital": true,
+  "rango": 85
+ },
+ {
+  "ine": "29094",
+  "nombre_ine": "Vélez-Málaga",
+  "nombre": "Vélez-Málaga",
+  "provincia": "Málaga",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 86
+ },
+ {
+  "ine": "28161",
+  "nombre_ine": "Valdemoro",
+  "nombre": "Valdemoro",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 87
+ },
+ {
+  "ine": "08200",
+  "nombre_ine": "Sant Boi de Llobregat",
+  "nombre": "Sant Boi de Llobregat",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 88
+ },
+ {
+  "ine": "29054",
+  "nombre_ine": "Fuengirola",
+  "nombre": "Fuengirola",
+  "provincia": "Málaga",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 89
+ },
+ {
+  "ine": "03099",
+  "nombre_ine": "Orihuela",
+  "nombre": "Orihuela",
+  "provincia": "Alicante/Alacant",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 90
+ },
+ {
+  "ine": "45165",
+  "nombre_ine": "Talavera de la Reina",
+  "nombre": "Talavera de la Reina",
+  "provincia": "Toledo",
+  "ccaa": "castilla-la-mancha",
+  "capital": false,
+  "rango": 91
+ },
+ {
+  "ine": "51001",
+  "nombre_ine": "Ceuta",
+  "nombre": "Ceuta",
+  "provincia": "Ceuta",
+  "ccaa": "ceuta",
+  "capital": true,
+  "rango": 92
+ },
+ {
+  "ine": "36038",
+  "nombre_ine": "Pontevedra",
+  "nombre": "Pontevedra",
+  "provincia": "Pontevedra",
+  "ccaa": "galicia",
+  "capital": true,
+  "rango": 93
+ },
+ {
+  "ine": "46131",
+  "nombre_ine": "Gandia",
+  "nombre": "Gandia",
+  "provincia": "Valencia/València",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 94
+ },
+ {
+  "ine": "08184",
+  "nombre_ine": "Rubí",
+  "nombre": "Rubí",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 95
+ },
+ {
+  "ine": "08113",
+  "nombre_ine": "Manresa",
+  "nombre": "Manresa",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 96
+ },
+ {
+  "ine": "28049",
+  "nombre_ine": "Coslada",
+  "nombre": "Coslada",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 97
+ },
+ {
+  "ine": "29051",
+  "nombre_ine": "Estepona",
+  "nombre": "Estepona",
+  "provincia": "Málaga",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 98
+ },
+ {
+  "ine": "35022",
+  "nombre_ine": "Santa Lucía de Tirajana",
+  "nombre": "Santa Lucía de Tirajana",
+  "provincia": "Palmas, Las",
+  "ccaa": "canarias",
+  "capital": false,
+  "rango": 99
+ },
+ {
+  "ine": "30027",
+  "nombre_ine": "Molina de Segura",
+  "nombre": "Molina de Segura",
+  "provincia": "Murcia",
+  "ccaa": "murcia",
+  "capital": false,
+  "rango": 100
+ },
+ {
+  "ine": "29025",
+  "nombre_ine": "Benalmádena",
+  "nombre": "Benalmádena",
+  "provincia": "Málaga",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 101
+ },
+ {
+  "ine": "41004",
+  "nombre_ine": "Alcalá de Guadaíra",
+  "nombre": "Alcalá de Guadaíra",
+  "provincia": "Sevilla",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 102
+ },
+ {
+  "ine": "34120",
+  "nombre_ine": "Palencia",
+  "nombre": "Palencia",
+  "provincia": "Palencia",
+  "ccaa": "castilla-y-leon",
+  "capital": true,
+  "rango": 103
+ },
+ {
+  "ine": "03031",
+  "nombre_ine": "Benidorm",
+  "nombre": "Benidorm",
+  "provincia": "Alicante/Alacant",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 104
+ },
+ {
+  "ine": "13034",
+  "nombre_ine": "Ciudad Real",
+  "nombre": "Ciudad Real",
+  "provincia": "Ciudad Real",
+  "ccaa": "castilla-la-mancha",
+  "capital": true,
+  "rango": 105
+ },
+ {
+  "ine": "46190",
+  "nombre_ine": "Paterna",
+  "nombre": "Paterna",
+  "provincia": "Valencia/València",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 106
+ },
+ {
+  "ine": "48044",
+  "nombre_ine": "Getxo",
+  "nombre": "Getxo",
+  "provincia": "Bizkaia",
+  "ccaa": "pais-vasco",
+  "capital": false,
+  "rango": 107
+ },
+ {
+  "ine": "33004",
+  "nombre_ine": "Avilés",
+  "nombre": "Avilés",
+  "provincia": "Asturias",
+  "ccaa": "asturias",
+  "capital": false,
+  "rango": 108
+ },
+ {
+  "ine": "28080",
+  "nombre_ine": "Majadahonda",
+  "nombre": "Majadahonda",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 109
+ },
+ {
+  "ine": "46220",
+  "nombre_ine": "Sagunt/Sagunto",
+  "nombre": "Sagunt/Sagunto",
+  "provincia": "Valencia/València",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 110
+ },
+ {
+  "ine": "08307",
+  "nombre_ine": "Vilanova i la Geltrú",
+  "nombre": "Vilanova i la Geltrú",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 111
+ },
+ {
+  "ine": "29901",
+  "nombre_ine": "Torremolinos",
+  "nombre": "Torremolinos",
+  "provincia": "Málaga",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 112
+ },
+ {
+  "ine": "35004",
+  "nombre_ine": "Arrecife",
+  "nombre": "Arrecife",
+  "provincia": "Palmas, Las",
+  "ccaa": "canarias",
+  "capital": false,
+  "rango": 113
+ },
+ {
+  "ine": "08056",
+  "nombre_ine": "Castelldefels",
+  "nombre": "Castelldefels",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 114
+ },
+ {
+  "ine": "11032",
+  "nombre_ine": "Sanlúcar de Barrameda",
+  "nombre": "Sanlúcar de Barrameda",
+  "provincia": "Cádiz",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 115
+ },
+ {
+  "ine": "08301",
+  "nombre_ine": "Viladecans",
+  "nombre": "Viladecans",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 116
+ },
+ {
+  "ine": "28047",
+  "nombre_ine": "Collado Villalba",
+  "nombre": "Collado Villalba",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 117
+ },
+ {
+  "ine": "28022",
+  "nombre_ine": "Boadilla del Monte",
+  "nombre": "Boadilla del Monte",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 118
+ },
+ {
+  "ine": "08169",
+  "nombre_ine": "Prat de Llobregat, El",
+  "nombre": "El Prat de Llobregat",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 119
+ },
+ {
+  "ine": "08096",
+  "nombre_ine": "Granollers",
+  "nombre": "Granollers",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 120
+ },
+ {
+  "ine": "11022",
+  "nombre_ine": "Línea de la Concepción, La",
+  "nombre": "La Línea de la Concepción",
+  "provincia": "Cádiz",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 121
+ },
+ {
+  "ine": "15036",
+  "nombre_ine": "Ferrol",
+  "nombre": "Ferrol",
+  "provincia": "Coruña, A",
+  "ccaa": "galicia",
+  "capital": false,
+  "rango": 122
+ },
+ {
+  "ine": "20045",
+  "nombre_ine": "Irun",
+  "nombre": "Irun",
+  "provincia": "Gipuzkoa",
+  "ccaa": "pais-vasco",
+  "capital": false,
+  "rango": 123
+ },
+ {
+  "ine": "24115",
+  "nombre_ine": "Ponferrada",
+  "nombre": "Ponferrada",
+  "provincia": "León",
+  "ccaa": "castilla-y-leon",
+  "capital": false,
+  "rango": 124
+ },
+ {
+  "ine": "28013",
+  "nombre_ine": "Aranjuez",
+  "nombre": "Aranjuez",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 125
+ },
+ {
+  "ine": "03009",
+  "nombre_ine": "Alcoi/Alcoy",
+  "nombre": "Alcoi/Alcoy",
+  "provincia": "Alicante/Alacant",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 126
+ },
+ {
+  "ine": "28014",
+  "nombre_ine": "Arganda del Rey",
+  "nombre": "Arganda del Rey",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 127
+ },
+ {
+  "ine": "03122",
+  "nombre_ine": "Sant Vicent del Raspeig/San Vicente del Raspeig",
+  "nombre": "Sant Vicent del Raspeig/San Vicente del Raspeig",
+  "provincia": "Alicante/Alacant",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 128
+ },
+ {
+  "ine": "06083",
+  "nombre_ine": "Mérida",
+  "nombre": "Mérida",
+  "provincia": "Badajoz",
+  "ccaa": "extremadura",
+  "capital": false,
+  "rango": 129
+ },
+ {
+  "ine": "18140",
+  "nombre_ine": "Motril",
+  "nombre": "Motril",
+  "provincia": "Granada",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 130
+ },
+ {
+  "ine": "49275",
+  "nombre_ine": "Zamora",
+  "nombre": "Zamora",
+  "provincia": "Zamora",
+  "ccaa": "castilla-y-leon",
+  "capital": true,
+  "rango": 131
+ },
+ {
+  "ine": "05019",
+  "nombre_ine": "Ávila",
+  "nombre": "Ávila",
+  "provincia": "Ávila",
+  "ccaa": "castilla-y-leon",
+  "capital": true,
+  "rango": 132
+ },
+ {
+  "ine": "38017",
+  "nombre_ine": "Granadilla de Abona",
+  "nombre": "Granadilla de Abona",
+  "provincia": "Santa Cruz de Tenerife",
+  "ccaa": "canarias",
+  "capital": false,
+  "rango": 133
+ },
+ {
+  "ine": "28045",
+  "nombre_ine": "Colmenar Viejo",
+  "nombre": "Colmenar Viejo",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 134
+ },
+ {
+  "ine": "08266",
+  "nombre_ine": "Cerdanyola del Vallès",
+  "nombre": "Cerdanyola del Vallès",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 135
+ },
+ {
+  "ine": "28113",
+  "nombre_ine": "Pinto",
+  "nombre": "Pinto",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 136
+ },
+ {
+  "ine": "23055",
+  "nombre_ine": "Linares",
+  "nombre": "Linares",
+  "provincia": "Jaén",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 137
+ },
+ {
+  "ine": "22125",
+  "nombre_ine": "Huesca",
+  "nombre": "Huesca",
+  "provincia": "Huesca",
+  "ccaa": "aragon",
+  "capital": true,
+  "rango": 138
+ },
+ {
+  "ine": "07026",
+  "nombre_ine": "Eivissa",
+  "nombre": "Eivissa",
+  "provincia": "Balears, Illes",
+  "ccaa": "baleares",
+  "capital": false,
+  "rango": 139
+ },
+ {
+  "ine": "03066",
+  "nombre_ine": "Elda",
+  "nombre": "Elda",
+  "provincia": "Alicante/Alacant",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 140
+ },
+ {
+  "ine": "28903",
+  "nombre_ine": "Tres Cantos",
+  "nombre": "Tres Cantos",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 141
+ },
+ {
+  "ine": "35019",
+  "nombre_ine": "San Bartolomé de Tirajana",
+  "nombre": "San Bartolomé de Tirajana",
+  "provincia": "Palmas, Las",
+  "ccaa": "canarias",
+  "capital": false,
+  "rango": 142
+ },
+ {
+  "ine": "07011",
+  "nombre_ine": "Calvià",
+  "nombre": "Calvià",
+  "provincia": "Balears, Illes",
+  "ccaa": "baleares",
+  "capital": false,
+  "rango": 143
+ },
+ {
+  "ine": "12135",
+  "nombre_ine": "Vila-real",
+  "nombre": "Vila-real",
+  "provincia": "Castellón/Castelló",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 144
+ },
+ {
+  "ine": "16078",
+  "nombre_ine": "Cuenca",
+  "nombre": "Cuenca",
+  "provincia": "Cuenca",
+  "ccaa": "castilla-la-mancha",
+  "capital": true,
+  "rango": 145
+ },
+ {
+  "ine": "33066",
+  "nombre_ine": "Siero",
+  "nombre": "Siero",
+  "provincia": "Asturias",
+  "ccaa": "asturias",
+  "capital": false,
+  "rango": 146
+ },
+ {
+  "ine": "08124",
+  "nombre_ine": "Mollet del Vallès",
+  "nombre": "Mollet del Vallès",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 147
+ },
+ {
+  "ine": "29082",
+  "nombre_ine": "Rincón de la Victoria",
+  "nombre": "Rincón de la Victoria",
+  "provincia": "Málaga",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 148
+ },
+ {
+  "ine": "41095",
+  "nombre_ine": "Utrera",
+  "nombre": "Utrera",
+  "provincia": "Sevilla",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 149
+ },
+ {
+  "ine": "40194",
+  "nombre_ine": "Segovia",
+  "nombre": "Segovia",
+  "provincia": "Segovia",
+  "ccaa": "castilla-y-leon",
+  "capital": true,
+  "rango": 150
+ },
+ {
+  "ine": "39087",
+  "nombre_ine": "Torrelavega",
+  "nombre": "Torrelavega",
+  "provincia": "Cantabria",
+  "ccaa": "cantabria",
+  "capital": false,
+  "rango": 151
+ },
+ {
+  "ine": "08298",
+  "nombre_ine": "Vic",
+  "nombre": "Vic",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 152
+ },
+ {
+  "ine": "38001",
+  "nombre_ine": "Adeje",
+  "nombre": "Adeje",
+  "provincia": "Santa Cruz de Tenerife",
+  "ccaa": "canarias",
+  "capital": false,
+  "rango": 153
+ },
+ {
+  "ine": "17066",
+  "nombre_ine": "Figueres",
+  "nombre": "Figueres",
+  "provincia": "Girona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 154
+ },
+ {
+  "ine": "07033",
+  "nombre_ine": "Manacor",
+  "nombre": "Manacor",
+  "provincia": "Balears, Illes",
+  "ccaa": "baleares",
+  "capital": false,
+  "rango": 155
+ },
+ {
+  "ine": "08089",
+  "nombre_ine": "Gavà",
+  "nombre": "Gavà",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 156
+ },
+ {
+  "ine": "46017",
+  "nombre_ine": "Alzira",
+  "nombre": "Alzira",
+  "provincia": "Valencia/València",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 157
+ },
+ {
+  "ine": "08077",
+  "nombre_ine": "Esplugues de Llobregat",
+  "nombre": "Esplugues de Llobregat",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 158
+ },
+ {
+  "ine": "41059",
+  "nombre_ine": "Mairena del Aljarafe",
+  "nombre": "Mairena del Aljarafe",
+  "provincia": "Sevilla",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 159
+ },
+ {
+  "ine": "03063",
+  "nombre_ine": "Dénia",
+  "nombre": "Dénia",
+  "provincia": "Alicante/Alacant",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 160
+ },
+ {
+  "ine": "46169",
+  "nombre_ine": "Mislata",
+  "nombre": "Mislata",
+  "provincia": "Valencia/València",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 161
+ },
+ {
+  "ine": "08211",
+  "nombre_ine": "Sant Feliu de Llobregat",
+  "nombre": "Sant Feliu de Llobregat",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 162
+ },
+ {
+  "ine": "48082",
+  "nombre_ine": "Santurtzi",
+  "nombre": "Santurtzi",
+  "provincia": "Bizkaia",
+  "ccaa": "pais-vasco",
+  "capital": false,
+  "rango": 163
+ },
+ {
+  "ine": "35017",
+  "nombre_ine": "Puerto del Rosario",
+  "nombre": "Puerto del Rosario",
+  "provincia": "Palmas, Las",
+  "ccaa": "canarias",
+  "capital": false,
+  "rango": 164
+ },
+ {
+  "ine": "13071",
+  "nombre_ine": "Puertollano",
+  "nombre": "Puertollano",
+  "provincia": "Ciudad Real",
+  "ccaa": "castilla-la-mancha",
+  "capital": false,
+  "rango": 165
+ },
+ {
+  "ine": "29007",
+  "nombre_ine": "Alhaurín de la Torre",
+  "nombre": "Alhaurín de la Torre",
+  "provincia": "Málaga",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 166
+ },
+ {
+  "ine": "48078",
+  "nombre_ine": "Portugalete",
+  "nombre": "Portugalete",
+  "provincia": "Bizkaia",
+  "ccaa": "pais-vasco",
+  "capital": false,
+  "rango": 167
+ },
+ {
+  "ine": "30005",
+  "nombre_ine": "Alcantarilla",
+  "nombre": "Alcantarilla",
+  "provincia": "Murcia",
+  "ccaa": "murcia",
+  "capital": false,
+  "rango": 168
+ },
+ {
+  "ine": "14038",
+  "nombre_ine": "Lucena",
+  "nombre": "Lucena",
+  "provincia": "Córdoba",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 169
+ },
+ {
+  "ine": "17095",
+  "nombre_ine": "Lloret de Mar",
+  "nombre": "Lloret de Mar",
+  "provincia": "Girona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 170
+ },
+ {
+  "ine": "17023",
+  "nombre_ine": "Blanes",
+  "nombre": "Blanes",
+  "provincia": "Girona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 171
+ },
+ {
+  "ine": "08305",
+  "nombre_ine": "Vilafranca del Penedès",
+  "nombre": "Vilafranca del Penedès",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 172
+ },
+ {
+  "ine": "11028",
+  "nombre_ine": "Puerto Real",
+  "nombre": "Puerto Real",
+  "provincia": "Cádiz",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 173
+ },
+ {
+  "ine": "38026",
+  "nombre_ine": "Orotava, La",
+  "nombre": "La Orotava",
+  "provincia": "Santa Cruz de Tenerife",
+  "ccaa": "canarias",
+  "capital": false,
+  "rango": 174
+ },
+ {
+  "ine": "07054",
+  "nombre_ine": "Santa Eulària des Riu",
+  "nombre": "Santa Eulària des Riu",
+  "provincia": "Balears, Illes",
+  "ccaa": "baleares",
+  "capital": false,
+  "rango": 175
+ },
+ {
+  "ine": "08102",
+  "nombre_ine": "Igualada",
+  "nombre": "Igualada",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 176
+ },
+ {
+  "ine": "29015",
+  "nombre_ine": "Antequera",
+  "nombre": "Antequera",
+  "provincia": "Málaga",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 177
+ },
+ {
+  "ine": "30037",
+  "nombre_ine": "Torre-Pacheco",
+  "nombre": "Torre-Pacheco",
+  "provincia": "Murcia",
+  "ccaa": "murcia",
+  "capital": false,
+  "rango": 178
+ },
+ {
+  "ine": "46078",
+  "nombre_ine": "Burjassot",
+  "nombre": "Burjassot",
+  "provincia": "Valencia/València",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 179
+ },
+ {
+  "ine": "43163",
+  "nombre_ine": "Vendrell, El",
+  "nombre": "El Vendrell",
+  "provincia": "Tarragona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 180
+ },
+ {
+  "ine": "42173",
+  "nombre_ine": "Soria",
+  "nombre": "Soria",
+  "provincia": "Soria",
+  "ccaa": "castilla-y-leon",
+  "capital": true,
+  "rango": 181
+ },
+ {
+  "ine": "41081",
+  "nombre_ine": "Rinconada, La",
+  "nombre": "La Rinconada",
+  "provincia": "Sevilla",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 182
+ },
+ {
+  "ine": "07031",
+  "nombre_ine": "Llucmajor",
+  "nombre": "Llucmajor",
+  "provincia": "Balears, Illes",
+  "ccaa": "baleares",
+  "capital": false,
+  "rango": 183
+ },
+ {
+  "ine": "07036",
+  "nombre_ine": "Marratxí",
+  "nombre": "Marratxí",
+  "provincia": "Balears, Illes",
+  "ccaa": "baleares",
+  "capital": false,
+  "rango": 184
+ },
+ {
+  "ine": "48015",
+  "nombre_ine": "Basauri",
+  "nombre": "Basauri",
+  "provincia": "Bizkaia",
+  "ccaa": "pais-vasco",
+  "capital": false,
+  "rango": 185
+ },
+ {
+  "ine": "10148",
+  "nombre_ine": "Plasencia",
+  "nombre": "Plasencia",
+  "provincia": "Cáceres",
+  "ccaa": "extremadura",
+  "capital": false,
+  "rango": 186
+ },
+ {
+  "ine": "15054",
+  "nombre_ine": "Narón",
+  "nombre": "Narón",
+  "provincia": "Coruña, A",
+  "ccaa": "galicia",
+  "capital": false,
+  "rango": 187
+ },
+ {
+  "ine": "08180",
+  "nombre_ine": "Ripollet",
+  "nombre": "Ripollet",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 188
+ },
+ {
+  "ine": "03121",
+  "nombre_ine": "Santa Pola",
+  "nombre": "Santa Pola",
+  "provincia": "Alicante/Alacant",
+  "ccaa": "valenciana",
+  "capital": false,
+  "rango": 189
+ },
+ {
+  "ine": "41039",
+  "nombre_ine": "Écija",
+  "nombre": "Écija",
+  "provincia": "Sevilla",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 190
+ },
+ {
+  "ine": "17114",
+  "nombre_ine": "Olot",
+  "nombre": "Olot",
+  "provincia": "Girona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 191
+ },
+ {
+  "ine": "20067",
+  "nombre_ine": "Errenteria",
+  "nombre": "Errenteria",
+  "provincia": "Gipuzkoa",
+  "ccaa": "pais-vasco",
+  "capital": false,
+  "rango": 192
+ },
+ {
+  "ine": "08194",
+  "nombre_ine": "Sant Adrià de Besòs",
+  "nombre": "Sant Adrià de Besòs",
+  "provincia": "Barcelona",
+  "ccaa": "cataluna",
+  "capital": false,
+  "rango": 193
+ },
+ {
+  "ine": "35006",
+  "nombre_ine": "Arucas",
+  "nombre": "Arucas",
+  "provincia": "Palmas, Las",
+  "ccaa": "canarias",
+  "capital": false,
+  "rango": 194
+ },
+ {
+  "ine": "28130",
+  "nombre_ine": "San Fernando de Henares",
+  "nombre": "San Fernando de Henares",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 195
+ },
+ {
+  "ine": "31232",
+  "nombre_ine": "Tudela",
+  "nombre": "Tudela",
+  "provincia": "Navarra",
+  "ccaa": "navarra",
+  "capital": false,
+  "rango": 196
+ },
+ {
+  "ine": "15058",
+  "nombre_ine": "Oleiros",
+  "nombre": "Oleiros",
+  "provincia": "Coruña, A",
+  "ccaa": "galicia",
+  "capital": false,
+  "rango": 197
+ },
+ {
+  "ine": "41069",
+  "nombre_ine": "Palacios y Villafranca, Los",
+  "nombre": "Los Palacios y Villafranca",
+  "provincia": "Sevilla",
+  "ccaa": "andalucia",
+  "capital": false,
+  "rango": 198
+ },
+ {
+  "ine": "33031",
+  "nombre_ine": "Langreo",
+  "nombre": "Langreo",
+  "provincia": "Asturias",
+  "ccaa": "asturias",
+  "capital": false,
+  "rango": 199
+ },
+ {
+  "ine": "28015",
+  "nombre_ine": "Arroyomolinos",
+  "nombre": "Arroyomolinos",
+  "provincia": "Madrid",
+  "ccaa": "madrid",
+  "capital": false,
+  "rango": 200
+ },
+ {
+  "ine": "44216",
+  "nombre_ine": "Teruel",
+  "nombre": "Teruel",
+  "provincia": "Teruel",
+  "ccaa": "aragon",
+  "capital": true,
+  "rango": 201
+ }
+]
