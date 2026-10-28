@@ -1,6 +1,6 @@
 {
- "name": "ES Calendario Laboral",
- "short_name": "Calendario Laboral",
+ "name": "Qué Festivo",
+ "short_name": "Qué Festivo",
  "description": "Calendario laboral 2026 y 2027 de tu municipio: festivos nacionales, autonómicos y locales, puentes, Semana Santa y cambio de hora, con la fuente oficial de cada fecha.",
  "start_url": "/es/",
  "display": "standalone",

@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /*?*
 
-Sitemap: https://es-calendario-laboral.example/sitemap-index.xml
+Sitemap: https://quefestivo.com/sitemap-index.xml

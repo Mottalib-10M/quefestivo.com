@@ -1,8 +1,8 @@
 /** Configuration centrale du site (générée par new-site.py). */
-export const SITE_URL = "https://es-calendario-laboral.example";
-export const SITE_NAMES: Record<string, string> = {"es": "ES Calendario Laboral", "en": "ES Calendario Laboral"};
+export const SITE_URL = "https://quefestivo.com";
+export const SITE_NAMES: Record<string, string> = {"es": "Qué Festivo", "en": "Qué Festivo"};
 // Partie du nom affichée en couleur dans l'en-tête (RECETTE §10.3), « » pour aucune.
-export const BRAND_ACCENT = "Calendario Laboral";
+export const BRAND_ACCENT = "Festivo";
 export const LANG_TAGS: Record<string, string> = {"es": "es-ES", "en": "en-ES"};
 export const OG_LOCALES: Record<string, string> = {"es": "es_ES", "en": "en_GB"};
 export const LOCALE_TAG = 'es-ES';
@@ -15,12 +15,12 @@ export const SITE_FOUNDED = '2026';
 export const LAST_UPDATED = '2026-10-28';
 export const AUTHOR_NAME = 'Radif Partners';
 export const AUTHOR_ROLE: Record<string, string> = {"es": "Editor de calendarios laborales gratuitos para España: festivos nacionales, autonómicos y locales de cada municipio, puentes, cambio de hora y Semana Santa, calculados en tu navegador", "en": "Publisher of free Spanish work calendars: national, regional and local public holidays for each town, long weekends, clock changes and Holy Week, worked out in your browser"};
-export const AUTHOR_DESC: Record<string, string> = {"es": "Radif Partners es un editor independiente. Para ES Calendario Laboral lee la resolución anual de la Dirección General de Trabajo en el BOE, los decretos de fiestas de cada comunidad y las órdenes y resoluciones que fijan las dos fiestas locales de cada municipio en el boletín autonómico o provincial; las fechas que dependen de una regla (Semana Santa, Carnaval, cambio de hora) las calcula con algoritmos probados. No es una administración ni una gestoría, y nada de lo que escribes sale de tu navegador.", "en": "Radif Partners is an independent publisher. For ES Calendario Laboral it reads the Directorate-General for Labour's yearly resolution in the BOE, each region's holiday decree and the orders that fix every town's two local holidays in the regional or provincial gazette; dates that follow a rule (Holy Week, Carnival, clock changes) are computed with tested algorithms. It is not a public body or an agency, and nothing you type leaves your browser."};
+export const AUTHOR_DESC: Record<string, string> = {"es": "Radif Partners es un editor independiente. Para Qué Festivo lee la resolución anual de la Dirección General de Trabajo en el BOE, los decretos de fiestas de cada comunidad y las órdenes y resoluciones que fijan las dos fiestas locales de cada municipio en el boletín autonómico o provincial; las fechas que dependen de una regla (Semana Santa, Carnaval, cambio de hora) las calcula con algoritmos probados. No es una administración ni una gestoría, y nada de lo que escribes sale de tu navegador.", "en": "Radif Partners is an independent publisher. For Qué Festivo it reads the Directorate-General for Labour's yearly resolution in the BOE, each region's holiday decree and the orders that fix every town's two local holidays in the regional or provincial gazette; dates that follow a rule (Holy Week, Carnival, clock changes) are computed with tested algorithms. It is not a public body or an agency, and nothing you type leaves your browser."};
 /** Sujets sur lesquels l'editeur est competent (schema.org knowsAbout). Ce sont les
  *  themes reellement traites par le site, pas une liste de mots-cles : un sujet
  *  declare ici sans page qui le couvre est une declaration fausse. */
 export const KNOWS_ABOUT: Record<string, string[]> = {"es": ["fiestas laborales en España", "calendario laboral por comunidad autónoma", "fiestas locales de los municipios", "puentes y días de vacaciones", "cambio de hora", "Semana Santa y fechas móviles"], "en": ["Spanish public holidays", "regional work calendars in Spain", "local town holidays in Spain", "long weekends and leave planning", "daylight saving time in Spain", "Holy Week and movable feasts"]};
-export const CONTACT_EMAIL = "contacto@es-calendario-laboral.example";
+export const CONTACT_EMAIL = "contact@quefestivo.com";
 export const THEME_COLOR = '#8E1B24';
 export const LOGO_SYMBOL = 'CL';
 export const BING_VERIFY_CODE = '';
